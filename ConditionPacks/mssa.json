@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "id": "mssa",
+  "displayName": "MSSA",
+  "description": "Curated terminology and sources for methicillin-susceptible Staphylococcus aureus (MSSA), including infection research, antimicrobial treatment, prevention, caregiving and public-health surveillance. This pack is not medical advice.",
+  "trialTerms": [
+    "methicillin-susceptible Staphylococcus aureus",
+    "methicillin susceptible Staphylococcus aureus",
+    "MSSA",
+    "Staphylococcus aureus infection",
+    "staphylococcal bacteremia"
+  ],
+  "publicationTerms": [
+    "MSSA",
+    "methicillin-susceptible Staphylococcus aureus",
+    "methicillin susceptible Staphylococcus aureus",
+    "Staphylococcus aureus",
+    "staphylococcal bacteremia",
+    "antimicrobial susceptibility"
+  ],
+  "relevanceTerms": [
+    "MSSA",
+    "methicillin-susceptible Staphylococcus aureus",
+    "methicillin susceptible Staphylococcus aureus",
+    "Staphylococcus aureus",
+    "S. aureus",
+    "Staph aureus",
+    "staphylococcal bacteremia",
+    "staphylococcal infection",
+    "staph infection",
+    "bacteremia",
+    "sepsis",
+    "biofilm",
+    "antimicrobial susceptibility",
+    "oxacillin",
+    "nafcillin",
+    "cefazolin",
+    "methicillin resistance",
+    "MRSA",
+    "antimicrobial resistance",
+    "infection prevention",
+    "infection control"
+  ],
+  "topics": [
+    {"id": "clinicalTrials", "heading": "Clinical trials", "terms": ["clinical trial", "clinical study", "phase 1", "phase 2", "phase 3", "participant", "enrollment", "recruiting", "investigational"]},
+    {"id": "treatments", "heading": "Treatments and antibiotics", "terms": ["treatment", "therapy", "antibiotic", "antimicrobial", "oxacillin", "nafcillin", "cefazolin", "vancomycin", "beta-lactam", "source control", "dose"]},
+    {"id": "research", "heading": "MSSA research", "terms": ["research", "study", "scientist", "Staphylococcus aureus", "S. aureus", "virulence", "bacteremia", "sepsis", "biofilm", "vaccine", "microbiome"]},
+    {"id": "genetics", "heading": "Resistance and microbiology", "terms": ["antimicrobial resistance", "methicillin resistance", "MRSA", "susceptibility", "resistance gene", "genome", "genomic", "sequence", "mutant"]},
+    {"id": "livingWithAls", "heading": "Living with MSSA", "terms": ["living with infection", "recovery", "hospital stay", "wound care", "infection prevention", "infection control", "patient education", "quality of life"]},
+    {"id": "caregiving", "heading": "Caregiving and home care", "terms": ["caregiver", "caregiving", "carer", "family support", "home care", "discharge", "hygiene", "hand washing", "care partner"]},
+    {"id": "advocacy", "heading": "Public health and advocacy", "terms": ["public health", "surveillance", "outbreak", "prevention", "stewardship", "awareness", "policy", "guideline", "foundation", "funding"]}
+  ],
+  "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
+  "sourceIds": ["nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "yahoo-health", "rnz-world", "lifearc"],
+  "externalSources": [
+    {
+      "id": "cdc-eid-infectious-disease",
+      "name": "CDC Emerging Infectious Diseases",
+      "url": "https://wwwnc.cdc.gov/eid/rss/ahead-of-print.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Public government feed; headline-only pending review",
+      "sourceDetails": {
+        "publisher": "U.S. Centers for Disease Control and Prevention · Emerging Infectious Diseases",
+        "classification": "Official U.S. government public-health journal",
+        "reviewed": "28 July 2026",
+        "fields_displayed": "Exact headline, publication date, source name and outbound article URL only",
+        "permission": "CDC provides this RSS feed for reader subscriptions. Reuse of article text and third-party material was not independently verified; display headline and link only pending confirmation.",
+        "commercial_use": "Not verified for this feed. User is responsible for confirming applicable government and third-party rights.",
+        "attribution": "Credit CDC Emerging Infectious Diseases and link to the original article.",
+        "termsUrl": "https://wwwnc.cdc.gov/eid/page/rights-and-permissions",
+        "rights_or_corrections_contact": "eid@cdc.gov",
+        "notes": "Candidate feed; disabled by default. The feed is broad infectious-disease coverage and is locally filtered for MSSA relevance. No article body, image or full summary is reproduced.",
+        "termsExcerpt": "Publisher rights and permissions apply; RSS availability does not by itself grant broad content-reuse permission."
+      }
+    },
+    {
+      "id": "fda-medwatch",
+      "name": "FDA MedWatch",
+      "url": "https://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/MedWatch/rss.xml",
+      "category": "news",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Official government safety feed; headline-only pending review",
+      "sourceDetails": {
+        "publisher": "U.S. Food and Drug Administration · MedWatch",
+        "classification": "Official U.S. government drug and device safety feed",
+        "reviewed": "28 July 2026",
+        "fields_displayed": "Exact headline, publication date, source name and outbound article URL only",
+        "permission": "FDA publishes the RSS feed for news-reader subscriptions. Government text may carry public-use rights, but third-party material and logo rules were not independently verified.",
+        "commercial_use": "Not verified for this feed. User is responsible for confirming applicable rights.",
+        "attribution": "Credit FDA MedWatch and link to the original safety communication.",
+        "termsUrl": "https://www.fda.gov/about-fda/website-policies",
+        "rights_or_corrections_contact": "https://www.fda.gov/about-fda/contact-fda",
+        "notes": "Candidate feed; disabled by default. It is not MSSA-specific and is filtered locally for antibiotics, infection and safety relevance.",
+        "termsExcerpt": "FDA describes this as an RSS feed for keeping up with safety information; feed availability is not treated as a license to reproduce articles."
+      }
+    },
+    {
+      "id": "cidrap-antimicrobial-stewardship",
+      "name": "CIDRAP · Antimicrobial Stewardship",
+      "url": "https://www.cidrap.umn.edu/news/48/rss",
+      "category": "news",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "University public-health feed; reuse permission under review",
+      "sourceDetails": {
+        "publisher": "Center for Infectious Disease Research and Policy · University of Minnesota",
+        "classification": "University public-health reporting and policy source",
+        "reviewed": "28 July 2026",
+        "fields_displayed": "Exact headline, publication date, source name and outbound article URL only",
+        "permission": "CIDRAP publishes an RSS feed for its Antimicrobial Stewardship channel. The feed does not establish permission to reproduce summaries or article text; headline and link only pending publisher confirmation.",
+        "commercial_use": "Not verified.",
+        "attribution": "Credit CIDRAP and link to the original article.",
+        "termsUrl": "https://www.cidrap.umn.edu/editorial-policy",
+        "rights_or_corrections_contact": "https://www.cidrap.umn.edu/contact-us",
+        "notes": "Candidate feed; disabled by default. Broad antimicrobial-resistance coverage is filtered locally for MSSA relevance.",
+        "termsExcerpt": "RSS is offered as a subscription mechanism; reuse and redistribution remain subject to CIDRAP and University of Minnesota policies."
+      }
+    },
+    {
+      "id": "asm-aac-latest",
+      "name": "ASM · Antimicrobial Agents and Chemotherapy",
+      "url": "https://journals.asm.org/action/showFeed?feed=rss&jc=AAC&type=axatoc",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Scholarly publisher RSS; permission required for broader reuse",
+      "sourceDetails": {
+        "publisher": "American Society for Microbiology · Antimicrobial Agents and Chemotherapy",
+        "classification": "Scholarly journal latest-articles RSS feed",
+        "reviewed": "28 July 2026",
+        "fields_displayed": "Exact headline, publication date, source name and outbound article URL only",
+        "permission": "ASM provides current-issue and latest-articles RSS feeds. ASM directs reuse requests through the Copyright Clearance Center; this app therefore limits the feed to headline, date, attribution and link.",
+        "commercial_use": "Not verified; broader reuse requires publisher or Copyright Clearance Center permission.",
+        "attribution": "Credit ASM and the journal, and link to the original article.",
+        "termsUrl": "https://journals.asm.org/permissions",
+        "rights_or_corrections_contact": "permissions@asm.org",
+        "notes": "Candidate feed; disabled by default. The feed covers antimicrobial agents broadly and is filtered locally for MSSA relevance. Full article text and images are never displayed.",
+        "termsExcerpt": "ASM says RSS feeds are available and that reuse requests are handled through the Copyright Clearance Center."
+      }
+    },
+    {
+      "id": "google-mssa-news",
+      "name": "Google News · MSSA news",
+      "url": "https://news.google.com/rss/search?q=%22methicillin-susceptible%20Staphylococcus%20aureus%22%20OR%20MSSA&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "news",
+      "kind": "google",
+      "enabledByDefault": false,
+      "rightsStatus": "Intermediary feed; publisher permissions not recorded",
+      "sourceDetails": {
+        "publisher": "Google News (intermediary index)",
+        "classification": "Intermediary search feed aggregating third-party publishers",
+        "reviewed": "28 July 2026",
+        "fields_displayed": "Exact headline, publication date, source name and outbound article URL only",
+        "permission": "Google News terms and each underlying publisher's terms apply. Authorization to reproduce summaries or article text was not verified.",
+        "commercial_use": "Not verified; keep disabled unless the relevant publisher authorizes reuse.",
+        "attribution": "Credit the underlying publisher shown in each item and link to the original article.",
+        "termsUrl": "https://news.google.com/terms",
+        "notes": "Optional discovery feed; disabled by default. It is used only to locate third-party headlines and links; no article body, image or summary is reproduced.",
+        "termsExcerpt": "Intermediary search results do not grant rights to third-party publisher content."
+      }
+    },
+    {
+      "id": "google-mssa-research",
+      "name": "Google News · MSSA research",
+      "url": "https://news.google.com/rss/search?q=MSSA%20research%20OR%20%22Staphylococcus%20aureus%22%20research&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "research",
+      "kind": "google",
+      "enabledByDefault": false,
+      "rightsStatus": "Intermediary feed; publisher permissions not recorded",
+      "sourceDetails": {
+        "publisher": "Google News (intermediary index)",
+        "classification": "Intermediary search feed aggregating third-party publishers",
+        "reviewed": "28 July 2026",
+        "fields_displayed": "Exact headline, publication date, source name and outbound article URL only",
+        "permission": "Underlying journal and publisher terms apply; no blanket reuse permission was verified.",
+        "commercial_use": "Not verified.",
+        "attribution": "Credit the underlying publisher shown in each item and link to the original article.",
+        "termsUrl": "https://news.google.com/terms",
+        "notes": "Optional discovery feed; disabled by default. Research relevance is filtered locally for MSSA terms.",
+        "termsExcerpt": "Use is limited to headline and link discovery pending publisher authorization."
+      }
+    },
+    {
+      "id": "google-mssa-treatment-care",
+      "name": "Google News · MSSA treatment and care",
+      "url": "https://news.google.com/rss/search?q=MSSA%20treatment%20OR%20MSSA%20caregiving%20OR%20Staphylococcus%20aureus%20antibiotic&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "community",
+      "kind": "google",
+      "enabledByDefault": false,
+      "rightsStatus": "Intermediary feed; publisher permissions not recorded",
+      "sourceDetails": {
+        "publisher": "Google News (intermediary index)",
+        "classification": "Intermediary search feed aggregating third-party publishers",
+        "reviewed": "28 July 2026",
+        "fields_displayed": "Exact headline, publication date, source name and outbound article URL only",
+        "permission": "Underlying publisher terms apply; no authorization to reproduce article summaries or text was verified.",
+        "commercial_use": "Not verified.",
+        "attribution": "Credit the underlying publisher shown in each item and link to the original article.",
+        "termsUrl": "https://news.google.com/terms",
+        "notes": "Optional discovery feed; disabled by default. It covers treatment, caregiving and foundation/community reporting when indexed by Google News.",
+        "termsExcerpt": "Intermediary indexing is not treated as a license for third-party content reuse."
+      }
+    }
+  ]
+}
