@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "id": "ms",
+  "displayName": "Multiple Sclerosis",
+  "description": "Curated terminology for multiple sclerosis research, trials, treatments and life with MS.",
+  "trialTerms": [
+    "multiple sclerosis",
+    "relapsing-remitting multiple sclerosis",
+    "progressive multiple sclerosis",
+    "primary progressive multiple sclerosis",
+    "secondary progressive multiple sclerosis"
+  ],
+  "publicationTerms": [
+    "multiple sclerosis",
+    "relapsing-remitting multiple sclerosis",
+    "progressive multiple sclerosis"
+  ],
+  "relevanceTerms": [
+    "multiple sclerosis",
+    "multiple sclerosis disease",
+    "relapsing-remitting multiple sclerosis",
+    "progressive multiple sclerosis",
+    "primary progressive multiple sclerosis",
+    "secondary progressive multiple sclerosis",
+    "clinically isolated syndrome",
+    "demyelinating disease",
+    "neuroinflammation",
+    "myelin",
+    "oligodendrocyte",
+    "optic neuritis",
+    "transverse myelitis",
+    "ocrelizumab",
+    "ofatumumab",
+    "natalizumab",
+    "siponimod",
+    "cladribine",
+    "alemtuzumab",
+    "dimethyl fumarate",
+    "glatiramer acetate",
+    "interferon beta",
+    "ublituximab",
+    "ms society",
+    "people living with ms",
+    "living with ms"
+  ],
+  "topics": [
+    {"id": "clinicalTrials", "heading": "Clinical trials", "terms": ["clinical trial", "clinicaltrials", "phase 1", "phase 2", "phase 3", "participant", "enrollment", "recruiting"]},
+    {"id": "treatments", "heading": "Treatments", "terms": ["treatment", "therapy", "therapeutic", "drug", "medicine", "ocrelizumab", "ofatumumab", "natalizumab", "siponimod", "cladribine", "alemtuzumab", "dimethyl fumarate", "glatiramer acetate", "interferon beta", "ublituximab"]},
+    {"id": "research", "heading": "Research", "terms": ["research", "study", "scientist", "discovery", "biomarker", "neuroinflammation", "myelin", "oligodendrocyte", "optic neuritis", "transverse myelitis"]},
+    {"id": "genetics", "heading": "Genetics", "terms": ["genetic", "gene", "mutation", "hereditary", "familial"]},
+    {"id": "livingWithAls", "heading": "Living with MS", "terms": ["living with ms", "quality of life", "assistive", "accessibility", "mobility", "fatigue", "spasticity", "cognition", "rehabilitation", "support services"]},
+    {"id": "caregiving", "heading": "Caregiving", "terms": ["caregiver", "caregiving", "carer", "care partner", "family support", "palliative", "hospice"]},
+    {"id": "advocacy", "heading": "Advocacy", "terms": ["advocacy", "advocate", "awareness", "fundraising", "community", "policy", "campaign", "legislation"]}
+  ],
+  "defaultTopics": [
+    "clinicalTrials",
+    "treatments",
+    "research",
+    "genetics",
+    "livingWithAls",
+    "caregiving",
+    "advocacy"
+  ],
+  "sourceIds": [
+    "nih-research-matters",
+    "nih-news-releases",
+    "yahoo-health",
+    "london-standard",
+    "sciencedaily-als",
+    "mda-quest",
+    "brain-charity-news",
+    "mnd-scotland-news",
+    "mnd-association-news",
+    "all-als",
+    "als-canada",
+    "les-turner-als",
+    "johns-hopkins-hub",
+    "rnz-world",
+    "fight-mnd",
+    "asha-ek-hope",
+    "als-mnd-alliance",
+    "als-society-alberta",
+    "iamals",
+    "mnd-malaysia",
+    "mnd-south-africa",
+    "team-gleason",
+    "lifearc"
+  ],
+  "externalSources": [
+    {
+      "id": "ms-news-today",
+      "name": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/feed/",
+      "category": "news",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "unreviewed"
+    },
+    {
+      "id": "msaa-conversations",
+      "name": "MSAA Conversations",
+      "url": "https://blog.mymsaa.org/feed/",
+      "category": "community",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "unreviewed"
+    },
+    {
+      "id": "ms-research-blog",
+      "name": "The MS-Blog · Barts and The London",
+      "url": "https://multiple-sclerosis-research.org/feed/",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "unreviewed"
+    },
+    {
+      "id": "nature-multiple-sclerosis",
+      "name": "Nature · Multiple Sclerosis",
+      "url": "https://www.nature.com/subjects/multiple-sclerosis.rss",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "unreviewed"
+    },
+    {
+      "id": "ms-canada-blog",
+      "name": "MS Canada Blog",
+      "url": "https://mscanada.ca/feed/",
+      "category": "community",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "unreviewed"
+    },
+    {
+      "id": "msif-news",
+      "name": "Multiple Sclerosis International Federation",
+      "url": "https://www.msif.org/feed/",
+      "category": "community",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "unreviewed"
+    },
+    {
+      "id": "ms-views-news",
+      "name": "MS Views and News",
+      "url": "https://feeds.feedburner.com/MSViewsAndNews",
+      "category": "community",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "unreviewed"
+    },
+    {
+      "id": "overcoming-ms",
+      "name": "Overcoming MS",
+      "url": "https://overcomingms.org/feed",
+      "category": "community",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "unreviewed"
+    },
+    {
+      "id": "aism-news",
+      "name": "AISM · Italy",
+      "url": "https://www.aism.it/feed_rss",
+      "category": "community",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "unreviewed"
+    },
+    {
+      "id": "gregory-ms-trials",
+      "name": "Gregory MS · Clinical Trials",
+      "url": "https://api.gregory-ms.com/feed/trials/subject/multiple-sclerosis",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "unreviewed"
+    },
+    {
+      "id": "ms-trust-news",
+      "name": "MS Trust · News and Stories",
+      "url": "https://mstrust.org.uk/news-stories/feed",
+      "category": "community",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "unreviewed"
+    },
+    {
+      "id": "ms-uk-blog",
+      "name": "MS-UK · Blog",
+      "url": "https://ms-uk.org/category/blog/feed/",
+      "category": "community",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "unreviewed"
+    },
+    {
+      "id": "google-ms-general",
+      "name": "Google News · Multiple Sclerosis",
+      "url": "https://news.google.com/rss/search?q=%22multiple+sclerosis%22&hl=en-US&gl=US&ceid=US:en",
+      "category": "news",
+      "kind": "google",
+      "enabledByDefault": false,
+      "rightsStatus": "unreviewed"
+    },
+    {
+      "id": "google-ms-research",
+      "name": "Google News · MS Research",
+      "url": "https://news.google.com/rss/search?q=%22multiple+sclerosis%22+research&hl=en-US&gl=US&ceid=US:en",
+      "category": "research",
+      "kind": "google",
+      "enabledByDefault": false,
+      "rightsStatus": "unreviewed"
+    },
+    {
+      "id": "google-ms-trials",
+      "name": "Google News · MS Clinical Trials",
+      "url": "https://news.google.com/rss/search?q=%22multiple+sclerosis%22+%22clinical+trial%22&hl=en-US&gl=US&ceid=US:en",
+      "category": "research",
+      "kind": "google",
+      "enabledByDefault": false,
+      "rightsStatus": "unreviewed"
+    },
+    {
+      "id": "google-ms-community",
+      "name": "Google News · MS Community",
+      "url": "https://news.google.com/rss/search?q=%22multiple+sclerosis%22+community+OR+support&hl=en-US&gl=US&ceid=US:en",
+      "category": "community",
+      "kind": "google",
+      "enabledByDefault": false,
+      "rightsStatus": "unreviewed"
+    }
+  ]
+}

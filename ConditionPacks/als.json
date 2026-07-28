@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "id": "als",
+  "displayName": "ALS",
+  "description": "Curated terminology for amyotrophic lateral sclerosis and motor neurone disease discovery.",
+  "trialTerms": [
+    "amyotrophic lateral sclerosis",
+    "motor neuron disease",
+    "motor neurone disease"
+  ],
+  "publicationTerms": [
+    "amyotrophic lateral sclerosis",
+    "motor neuron disease",
+    "motor neurone disease"
+  ],
+  "relevanceTerms": [
+    "als",
+    "mnd",
+    "amyotrophic lateral sclerosis",
+    "motor neuron disease",
+    "motor neurone disease",
+    "lou gehrig",
+    "sclérose latérale amyotrophique",
+    "esclerosis lateral amiotrófica",
+    "esclerose lateral amiotrófica",
+    "sklerose laterale amyotrophica",
+    "team gleason",
+    "pals",
+    "people living with als",
+    "voice preservation",
+    "voice banking",
+    "message banking",
+    "synthetic voice",
+    "assistive technology",
+    "speech generating device",
+    "eye gaze",
+    "accessibility",
+    "wheelchair",
+    "caregiver",
+    "care services",
+    "als awareness"
+  ],
+  "topics": [
+    {
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "terms": ["clinical trial", "clinicaltrials", "phase 1", "phase 2", "phase 3", "participant", "enrollment", "recruiting"]
+    },
+    {
+      "id": "treatments",
+      "heading": "Treatments",
+      "terms": ["treatment", "therapy", "therapeutic", "drug", "medicine", "riluzole", "edaravone", "tofersen"]
+    },
+    {
+      "id": "research",
+      "heading": "Research",
+      "terms": ["research", "study", "scientist", "discovery", "biomarker", "neuron", "laboratory"]
+    },
+    {
+      "id": "genetics",
+      "heading": "Genetics",
+      "terms": ["genetic", "gene", "mutation", "c9orf72", "sod1", "fus ", "tardbp", "hereditary"]
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with ALS",
+      "terms": ["living with", "quality of life", "assistive", "assistive technology", "accessibility", "voice preservation", "voice banking", "message banking", "synthetic voice", "communication device", "speech generating device", "eye gaze", "wheelchair", "mobility equipment", "adventure", "pals", "mobility", "communication", "nutrition", "respiratory", "resources"]
+    },
+    {
+      "id": "caregiving",
+      "heading": "Caregiving",
+      "terms": ["caregiver", "caregiving", "carer", "care partner", "care services", "support services", "family support", "family care", "palliative", "hospice"]
+    },
+    {
+      "id": "advocacy",
+      "heading": "Advocacy",
+      "terms": ["advocacy", "advocate", "awareness", "fundraising", "partnership", "community", "policy", "campaign", "legislation"]
+    }
+  ],
+  "defaultTopics": [
+    "clinicalTrials",
+    "treatments",
+    "research",
+    "genetics",
+    "livingWithAls",
+    "caregiving",
+    "advocacy"
+  ],
+  "sourceIds": [
+    "nih-research-matters",
+    "nih-news-releases",
+    "yahoo-health",
+    "london-standard",
+    "sciencedaily-als",
+    "mda-quest",
+    "brain-charity-news",
+    "mnd-scotland-news",
+    "mnd-association-news",
+    "all-als",
+    "als-canada",
+    "les-turner-als",
+    "johns-hopkins-hub",
+    "rnz-world",
+    "fight-mnd",
+    "asha-ek-hope",
+    "als-mnd-alliance",
+    "als-society-alberta",
+    "iamals",
+    "mnd-malaysia",
+    "mnd-south-africa",
+    "team-gleason",
+    "lifearc"
+  ]
+}
