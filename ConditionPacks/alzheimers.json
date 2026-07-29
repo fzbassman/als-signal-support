@@ -41,15 +41,117 @@
     "people living with dementia"
   ],
   "topics": [
-    {"id": "clinicalTrials", "heading": "Clinical trials", "terms": ["clinical trial", "clinicaltrials", "phase 1", "phase 2", "phase 3", "participant", "enrollment", "recruiting"]},
-    {"id": "treatments", "heading": "Treatments and diagnostics", "terms": ["treatment", "therapy", "therapeutic", "drug", "medicine", "lecanemab", "donanemab", "remternetug", "diagnosis", "blood test", "biomarker"]},
-    {"id": "research", "heading": "Research", "terms": ["research", "study", "scientist", "discovery", "amyloid", "amyloid beta", "tau", "neuroinflammation", "cognitive decline"]},
-    {"id": "genetics", "heading": "Genetics and biomarkers", "terms": ["genetic", "gene", "APOE", "APOE4", "mutation", "familial", "biomarker"]},
-    {"id": "livingWithAls", "heading": "Living with Alzheimer's", "terms": ["living with dementia", "quality of life", "activities", "communication", "memory support", "assistive", "independence", "dementia support"]},
-    {"id": "caregiving", "heading": "Caregiving", "terms": ["caregiver", "caregiving", "carer", "care partner", "family support", "support services", "palliative", "hospice"]},
-    {"id": "advocacy", "heading": "Advocacy and community", "terms": ["advocacy", "advocate", "awareness", "fundraising", "community", "policy", "campaign", "support group"]}
+    {
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "terms": [
+        "clinical trial",
+        "clinicaltrials",
+        "phase 1",
+        "phase 2",
+        "phase 3",
+        "participant",
+        "enrollment",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "treatments",
+      "heading": "Treatments and diagnostics",
+      "terms": [
+        "treatment",
+        "therapy",
+        "therapeutic",
+        "drug",
+        "medicine",
+        "lecanemab",
+        "donanemab",
+        "remternetug",
+        "diagnosis",
+        "blood test",
+        "biomarker"
+      ]
+    },
+    {
+      "id": "research",
+      "heading": "Research",
+      "terms": [
+        "research",
+        "study",
+        "scientist",
+        "discovery",
+        "amyloid",
+        "amyloid beta",
+        "tau",
+        "neuroinflammation",
+        "cognitive decline"
+      ]
+    },
+    {
+      "id": "genetics",
+      "heading": "Genetics and biomarkers",
+      "terms": [
+        "genetic",
+        "gene",
+        "APOE",
+        "APOE4",
+        "mutation",
+        "familial",
+        "biomarker"
+      ]
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with Alzheimer's",
+      "terms": [
+        "living with dementia",
+        "quality of life",
+        "activities",
+        "communication",
+        "memory support",
+        "assistive",
+        "independence",
+        "dementia support"
+      ]
+    },
+    {
+      "id": "caregiving",
+      "heading": "Caregiving",
+      "terms": [
+        "caregiver",
+        "caregiving",
+        "carer",
+        "care partner",
+        "family support",
+        "support services",
+        "palliative",
+        "hospice"
+      ]
+    },
+    {
+      "id": "advocacy",
+      "heading": "Advocacy and community",
+      "terms": [
+        "advocacy",
+        "advocate",
+        "awareness",
+        "fundraising",
+        "community",
+        "policy",
+        "campaign",
+        "support group"
+      ]
+    }
   ],
-  "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
+  "defaultTopics": [
+    "clinicalTrials",
+    "treatments",
+    "research",
+    "genetics",
+    "livingWithAls",
+    "caregiving",
+    "advocacy"
+  ],
   "sourceIds": [
     "nih-research-matters",
     "nih-news-releases",
@@ -60,48 +162,6 @@
     "lifearc"
   ],
   "externalSources": [
-    {
-      "id": "lemonde-health-alzheimers",
-      "name": "Le Monde · Health",
-      "url": "https://www.lemonde.fr/en/health/rss_full.xml",
-      "category": "news",
-      "kind": "headlineOnly",
-      "enabledByDefault": false,
-      "rightsStatus": "headlineDateAttributionLinkOnly",
-      "sourceDetails": {
-        "publisher": "Le Monde",
-        "classification": "News · health (filtered for Alzheimer's relevance)",
-        "reviewed": "28 July 2026",
-        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
-        "permission": "RSS directory confirms feed distribution; no broader reuse permission verified",
-        "commercial_use": "Not verified",
-        "attribution": "Le Monde",
-        "termsUrl": "https://www.lemonde.fr/en/about-us/article/2026/03/27/le-monde-rss-feeds_6751860_115.html",
-        "rights_or_corrections_contact": "syndication@lemonde.fr",
-        "notes": "Official publisher RSS directory identifies this URL as the Health RSS feed. The feed endpoint is XML/RSS; the web reader used for this review could not render the raw XML MIME response, so no full-text extraction is used."
-      }
-    },
-    {
-      "id": "lemonde-science-alzheimers",
-      "name": "Le Monde · Science",
-      "url": "https://www.lemonde.fr/en/science/rss_full.xml",
-      "category": "research",
-      "kind": "headlineOnly",
-      "enabledByDefault": false,
-      "rightsStatus": "headlineDateAttributionLinkOnly",
-      "sourceDetails": {
-        "publisher": "Le Monde",
-        "classification": "Research/news · science (filtered for Alzheimer's relevance)",
-        "reviewed": "28 July 2026",
-        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
-        "permission": "RSS directory confirms feed distribution; no broader reuse permission verified",
-        "commercial_use": "Not verified",
-        "attribution": "Le Monde",
-        "termsUrl": "https://www.lemonde.fr/en/about-us/article/2026/03/27/le-monde-rss-feeds_6751860_115.html",
-        "rights_or_corrections_contact": "syndication@lemonde.fr",
-        "notes": "Official publisher RSS directory identifies this URL as the Science RSS feed. Headline-only display is enforced conservatively."
-      }
-    },
     {
       "id": "sciencedaily-alzheimers-mind-brain",
       "name": "ScienceDaily · Alzheimer's (Mind & Brain)",
@@ -145,27 +205,6 @@
       }
     },
     {
-      "id": "nature-alzheimers",
-      "name": "Nature Portfolio · Alzheimer's disease",
-      "url": "https://www.nature.com/subjects/alzheimers-disease.rss",
-      "category": "research",
-      "kind": "headlineOnly",
-      "enabledByDefault": false,
-      "rightsStatus": "headlineDateAttributionLinkOnly",
-      "sourceDetails": {
-        "publisher": "Nature Portfolio / Springer Nature",
-        "classification": "Research and news · Alzheimer's disease",
-        "reviewed": "28 July 2026",
-        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
-        "permission": "RSS endpoint is publisher-provided; no broader republication permission verified",
-        "commercial_use": "Not verified",
-        "attribution": "Nature Portfolio",
-        "termsUrl": "https://www.nature.com/info/terms-and-conditions",
-        "rights_or_corrections_contact": "https://support.nature.com/",
-        "notes": "The official Alzheimer's disease subject page exposes both Atom and RSS Feed links. The browser could not render the RSS response because of robots restrictions, so this source remains disabled and headline-only."
-      }
-    },
-    {
       "id": "medicinenet-daily-health",
       "name": "MedicineNet · Daily Health News",
       "url": "https://www.medicinenet.com/rss/dailyhealth.xml",
@@ -205,153 +244,6 @@
         "termsUrl": "https://www.medicinenet.com/rss_feeds_and_news_syndication/info.htm",
         "rights_or_corrections_contact": "https://www.medicinenet.com/about_us/info.htm",
         "notes": "The publisher's RSS directory identifies Alzheimer's Disease as an available general channel. The user-provided endpoint is retained as a disabled-by-default, headline-only source pending direct endpoint response verification."
-      }
-    },
-    {
-      "id": "medlineplus-alzheimers",
-      "name": "MedlinePlus · Alzheimer's Disease",
-      "url": "https://medlineplus.gov/feeds/topics/alzheimersdisease.xml",
-      "category": "research",
-      "kind": "headlineOnly",
-      "enabledByDefault": false,
-      "rightsStatus": "headlineDateAttributionLinkOnly",
-      "sourceDetails": {
-        "publisher": "MedlinePlus / U.S. National Library of Medicine",
-        "classification": "Government health information links for Alzheimer's disease",
-        "reviewed": "28 July 2026",
-        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
-        "permission": "MedlinePlus states that its RSS feeds are for personal use only and may contain licensed content; NLM cannot grant permission to use the feeds on a website or information service.",
-        "commercial_use": "Not verified; the published RSS terms do not authorize website or information-service use",
-        "attribution": "MedlinePlus, U.S. National Library of Medicine",
-        "termsUrl": "https://medlineplus.gov/about/using/usingcontent/",
-        "rights_or_corrections_contact": "https://medlineplus.gov/about/contactus.html",
-        "notes": "The official MedlinePlus RSS directory links this exact Alzheimer's Disease topic feed. The source is disabled by default pending publisher permission because the stated RSS terms are personal-use-only."
-      }
-    },
-    {
-      "id": "sage-journal-alzheimers-recent",
-      "name": "Journal of Alzheimer's Disease · Recent articles",
-      "url": "https://journals.sagepub.com/action/showFeed?ai=2b4&feed=rss&jc=alz&mi=ehikzz&type=etoc&ui=0",
-      "category": "research",
-      "kind": "headlineOnly",
-      "enabledByDefault": false,
-      "rightsStatus": "headlineDateAttributionLinkOnly",
-      "sourceDetails": {
-        "publisher": "SAGE Journals / Journal of Alzheimer's Disease",
-        "classification": "Peer-reviewed journal research · recent articles and table of contents",
-        "reviewed": "28 July 2026",
-        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
-        "permission": "SAGE provides the RSS feed for use in an RSS reader, but its terms restrict use to individual, noncommercial educational/research use and require written permission for redistribution, databases, or third-party information services.",
-        "commercial_use": "Not verified; commercial or service redistribution requires permission",
-        "attribution": "SAGE Journals / Journal of Alzheimer's Disease",
-        "termsUrl": "https://journals.sagepub.com/page/policies/terms-of-use",
-        "rights_or_corrections_contact": "https://www.sagepub.com/journals/permissions/overview",
-        "notes": "The official journal page exposes this exact Recent articles RSS endpoint. The feed is disabled by default pending permission for use in Health Signal."
-      }
-    },
-    {
-      "id": "sage-journal-alzheimers-onlinefirst",
-      "name": "Journal of Alzheimer's Disease · OnlineFirst articles",
-      "url": "https://journals.sagepub.com/action/showFeed?ai=2b4&feed=rss&jc=alz&mi=ehikzz&type=axatoc&ui=0",
-      "category": "research",
-      "kind": "headlineOnly",
-      "enabledByDefault": false,
-      "rightsStatus": "headlineDateAttributionLinkOnly",
-      "sourceDetails": {
-        "publisher": "SAGE Journals / Journal of Alzheimer's Disease",
-        "classification": "Peer-reviewed journal research · online-first articles",
-        "reviewed": "28 July 2026",
-        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
-        "permission": "SAGE provides the RSS feed for use in an RSS reader, but its terms restrict use to individual, noncommercial educational/research use and require written permission for redistribution, databases, or third-party information services.",
-        "commercial_use": "Not verified; commercial or service redistribution requires permission",
-        "attribution": "SAGE Journals / Journal of Alzheimer's Disease",
-        "termsUrl": "https://journals.sagepub.com/page/policies/terms-of-use",
-        "rights_or_corrections_contact": "https://www.sagepub.com/journals/permissions/overview",
-        "notes": "The official journal page exposes this exact OnlineFirst RSS endpoint. The feed is disabled by default pending permission for use in Health Signal."
-      }
-    },
-    {
-      "id": "uky-college-medicine",
-      "name": "University of Kentucky College of Medicine · UKNow",
-      "url": "https://uknow.uky.edu/feeds/org-units/4151/rss.xml",
-      "category": "research",
-      "kind": "headlineOnly",
-      "enabledByDefault": false,
-      "rightsStatus": "headlineDateAttributionLinkOnly",
-      "sourceDetails": {
-        "publisher": "University of Kentucky College of Medicine / UKNow",
-        "classification": "Medical school research and institutional news, filtered for Alzheimer's relevance",
-        "reviewed": "28 July 2026",
-        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
-        "permission": "The official UKNow RSS directory provides this department feed; no separate RSS reuse permission was located, so only headlines, dates, attribution and links are used.",
-        "commercial_use": "Not verified",
-        "attribution": "University of Kentucky College of Medicine / UKNow",
-        "termsUrl": "https://uknow.uky.edu/feeds",
-        "rights_or_corrections_contact": "https://medicine.uky.edu/",
-        "notes": "The UKNow RSS directory links the College of Medicine department feed. The source is disabled by default pending confirmation of reuse terms."
-      }
-    },
-    {
-      "id": "jpnd-general-news",
-      "name": "JPND · General news and events",
-      "url": "https://neurodegenerationresearch.eu/category/general-news-events/feed/",
-      "category": "research",
-      "kind": "headlineOnly",
-      "enabledByDefault": false,
-      "rightsStatus": "headlineDateAttributionLinkOnly",
-      "sourceDetails": {
-        "publisher": "JPND Neurodegenerative Disease Research",
-        "classification": "International neurodegeneration research news and events",
-        "reviewed": "28 July 2026",
-        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
-        "permission": "The official JPND RSS page links this feed, but no separate RSS reuse permission was located; conservative headline/date/attribution/link-only use is applied.",
-        "commercial_use": "Not verified",
-        "attribution": "JPND Neurodegenerative Disease Research",
-        "termsUrl": "https://neurodegenerationresearch.eu/news-events/rss-feed-e-mail-alert/",
-        "rights_or_corrections_contact": "https://neurodegenerationresearch.eu/",
-        "notes": "Exact feed linked as JPND News alerts from the official RSS page. Direct XML response could not be independently verified by the browser tool, so this source is disabled by default."
-      }
-    },
-    {
-      "id": "jpnd-press-releases",
-      "name": "JPND · Press releases",
-      "url": "https://neurodegenerationresearch.eu/category/press-releases/feed/",
-      "category": "research",
-      "kind": "headlineOnly",
-      "enabledByDefault": false,
-      "rightsStatus": "headlineDateAttributionLinkOnly",
-      "sourceDetails": {
-        "publisher": "JPND Neurodegenerative Disease Research",
-        "classification": "International neurodegeneration research press releases",
-        "reviewed": "28 July 2026",
-        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
-        "permission": "The official JPND RSS page links this feed, but no separate RSS reuse permission was located; conservative headline/date/attribution/link-only use is applied.",
-        "commercial_use": "Not verified",
-        "attribution": "JPND Neurodegenerative Disease Research",
-        "termsUrl": "https://neurodegenerationresearch.eu/news-events/rss-feed-e-mail-alert/",
-        "rights_or_corrections_contact": "https://neurodegenerationresearch.eu/",
-        "notes": "Exact feed linked as Press Release alerts from the official RSS page. Direct XML response could not be independently verified by the browser tool, so this source is disabled by default."
-      }
-    },
-    {
-      "id": "jpnd-research-news",
-      "name": "JPND · Research news",
-      "url": "https://neurodegenerationresearch.eu/category/research-news/feed/",
-      "category": "research",
-      "kind": "headlineOnly",
-      "enabledByDefault": false,
-      "rightsStatus": "headlineDateAttributionLinkOnly",
-      "sourceDetails": {
-        "publisher": "JPND Neurodegenerative Disease Research",
-        "classification": "Global health, medical and science stories related to neurodegenerative disease",
-        "reviewed": "28 July 2026",
-        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
-        "permission": "The official JPND RSS page links this feed, but no separate RSS reuse permission was located; conservative headline/date/attribution/link-only use is applied.",
-        "commercial_use": "Not verified",
-        "attribution": "JPND Neurodegenerative Disease Research",
-        "termsUrl": "https://neurodegenerationresearch.eu/news-events/rss-feed-e-mail-alert/",
-        "rights_or_corrections_contact": "https://neurodegenerationresearch.eu/",
-        "notes": "Exact feed linked as Research News stories from the official RSS page. Direct XML response could not be independently verified by the browser tool, so this source is disabled by default."
       }
     }
   ]
