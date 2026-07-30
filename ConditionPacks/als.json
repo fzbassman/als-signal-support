@@ -86,6 +86,48 @@
     "caregiving",
     "advocacy"
   ],
+  "donationLinks": [
+    {
+      "name": "The ALS Association",
+      "detail": "Support ALS care, advocacy and research in the United States.",
+      "url": "https://www.als.org/donate"
+    },
+    {
+      "name": "ALS Therapy Development Institute",
+      "detail": "Support nonprofit drug discovery focused on ALS.",
+      "url": "https://www.als.net/donate/"
+    },
+    {
+      "name": "Motor Neurone Disease Association",
+      "detail": "Support MND care, campaigning and research in England, Wales and Northern Ireland.",
+      "url": "https://www.mndassociation.org/get-involved/donate-mnd-association-today"
+    },
+    {
+      "name": "FightMND",
+      "detail": "Support Australian MND research, care and the search for effective treatments.",
+      "url": "https://support.fightmnd.org.au/donate"
+    },
+    {
+      "name": "MND Australia",
+      "detail": "Support Australians living with MND and research toward treatments and a cure.",
+      "url": "https://donate.mndaustralia.org.au/"
+    },
+    {
+      "name": "Irish Motor Neurone Disease Association",
+      "detail": "Support care and services for people and families affected by MND in Ireland.",
+      "url": "https://www.imnda.ie/in-memory/donate-directly"
+    },
+    {
+      "name": "International ALS/MND Alliance",
+      "detail": "Support global collaboration in ALS/MND care, research and advocacy.",
+      "url": "https://www.als-mnd.org/donate/"
+    },
+    {
+      "name": "Team Gleason",
+      "detail": "Support technology, equipment, care services and resources for people living with ALS.",
+      "url": "https://teamgleason.org/donate/"
+    }
+  ],
   "sourceIds": [
     "nih-research-matters",
     "nih-news-releases",
