@@ -24,6 +24,12 @@
       "displayName": "Alzheimer's disease",
       "version": 1,
       "asset": "assets/condition_packs/alzheimers.json"
+    },
+    {
+      "id": "marfan",
+      "displayName": "Marfan syndrome",
+      "version": 1,
+      "asset": "assets/condition_packs/marfan.json"
     }
   ]
 }

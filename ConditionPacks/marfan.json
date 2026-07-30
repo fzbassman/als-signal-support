@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "marfan",
+  "displayName": "Marfan syndrome",
+  "description": "Curated terminology and sources for Marfan syndrome, including clinical trials, genetics, aortic and cardiovascular care, eye and skeletal complications, research, daily living and community support. This pack is for information discovery and is not medical advice.",
+  "trialTerms": [
+    "Marfan syndrome",
+    "Marfan's syndrome",
+    "Marfan disease",
+    "FBN1",
+    "fibrillin-1",
+    "neonatal Marfan syndrome"
+  ],
+  "publicationTerms": [
+    "Marfan syndrome",
+    "Marfan's syndrome",
+    "Marfan disease",
+    "FBN1",
+    "fibrillin-1",
+    "neonatal Marfan syndrome",
+    "Marfan aortopathy"
+  ],
+  "relevanceTerms": [
+    "Marfan syndrome",
+    "Marfan's syndrome",
+    "Marfans syndrome",
+    "Marfan disease",
+    "MFS",
+    "FBN1",
+    "fibrillin-1",
+    "fibrillin 1",
+    "neonatal Marfan syndrome",
+    "Marfan aortopathy",
+    "Marfan-related",
+    "Marfan Foundation"
+  ],
+  "topics": [
+    {
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "terms": ["clinical trial", "clinical study", "recruiting", "enrollment", "participant", "investigational", "ClinicalTrials.gov"]
+    },
+    {
+      "id": "treatments",
+      "heading": "Treatment and monitoring",
+      "terms": ["treatment", "therapy", "monitoring", "beta blocker", "angiotensin receptor blocker", "losartan", "surgery", "aortic root replacement", "aortic valve repair", "mitral valve repair", "echocardiogram", "CT scan", "MRI"]
+    },
+    {
+      "id": "research",
+      "heading": "Marfan research",
+      "terms": ["research", "study", "scientist", "biomarker", "aortopathy", "connective tissue", "fibrillin", "TGF-beta", "translational"]
+    },
+    {
+      "id": "genetics",
+      "heading": "Genetics and diagnosis",
+      "terms": ["FBN1", "fibrillin-1", "genetic testing", "gene variant", "mutation", "de novo mutation", "autosomal dominant", "diagnosis", "Ghent criteria", "Ghent nosology", "family history"]
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with Marfan syndrome",
+      "terms": ["living with Marfan", "quality of life", "exercise", "physical activity", "school", "work", "pregnancy", "mental health", "chronic pain", "fatigue", "daily living", "self-management"]
+    },
+    {
+      "id": "caregiving",
+      "heading": "Caregiving and support",
+      "terms": ["caregiver", "caregiving", "carer", "care partner", "family support", "parent", "child", "support group", "clinic directory"]
+    },
+    {
+      "id": "advocacy",
+      "heading": "Awareness and advocacy",
+      "terms": ["awareness", "advocacy", "community", "foundation", "policy", "patient organization", "rare disease", "education", "funding"]
+    }
+  ],
+  "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
+  "sourceIds": ["nih-research-matters", "nih-news-releases"],
+  "externalSources": [
+    {
+      "id": "fda-medwatch-marfan",
+      "name": "FDA MedWatch",
+      "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/medwatch/rss.xml",
+      "category": "news",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Official U.S. government safety feed; locally filtered",
+      "sourceDetails": {
+        "publisher": "U.S. Food and Drug Administration · MedWatch",
+        "classification": "Official U.S. government drug and device safety feed",
+        "reviewed": "30 July 2026",
+        "fields_displayed": "Exact headline, publication date, source name and outbound article URL only",
+        "permission": "FDA states that, unless otherwise noted, content on its website is public domain. Individual feed items can still contain protected third-party material.",
+        "commercial_use": "Generally permitted for public-domain FDA text; verify each linked item's notices and do not imply FDA endorsement.",
+        "attribution": "Credit FDA MedWatch and link to the original safety communication.",
+        "termsUrl": "https://www.fda.gov/about-fda/about-website/website-policies",
+        "rights_or_corrections_contact": "https://www.fda.gov/about-fda/contact-fda",
+        "notes": "Verified live RSS endpoint. The feed is broad and is filtered locally for explicit Marfan terms. FDA names, seals and logos are not used to imply endorsement.",
+        "termsExcerpt": "FDA website content is generally public domain unless otherwise noted; third-party material and agency marks require separate care."
+      }
+    }
+  ],
+  "donationLinks": [
+    {
+      "name": "The Marfan Foundation",
+      "detail": "Supports research, education, community programs and services for people affected by Marfan syndrome and related genetic aortic conditions.",
+      "url": "https://marfan.org/donate/"
+    }
+  ]
+}
