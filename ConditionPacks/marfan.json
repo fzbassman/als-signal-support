@@ -43,7 +43,7 @@
     {
       "id": "treatments",
       "heading": "Treatment and monitoring",
-      "terms": ["treatment", "therapy", "monitoring", "beta blocker", "angiotensin receptor blocker", "losartan", "surgery", "aortic root replacement", "aortic valve repair", "mitral valve repair", "echocardiogram", "CT scan", "MRI"]
+      "terms": ["treatment", "therapy", "monitoring", "beta blocker", "angiotensin receptor blocker", "losartan", "irbesartan", "AIMS trial", "surgery", "aortic root replacement", "aortic valve repair", "mitral valve repair", "PEARS", "personalised external aortic root support", "echocardiogram", "CT scan", "MRI"]
     },
     {
       "id": "research",
@@ -53,12 +53,12 @@
     {
       "id": "genetics",
       "heading": "Genetics and diagnosis",
-      "terms": ["FBN1", "fibrillin-1", "genetic testing", "gene variant", "mutation", "de novo mutation", "autosomal dominant", "diagnosis", "Ghent criteria", "Ghent nosology", "family history"]
+      "terms": ["FBN1", "fibrillin-1", "genetic testing", "gene variant", "mutation", "de novo mutation", "germline mosaicism", "cascade predictive testing", "preimplantation genetic testing", "preimplantation genetic diagnosis", "PGD", "chorionic villus sampling", "amniocentesis", "autosomal dominant", "diagnosis", "Ghent criteria", "Ghent nosology", "family history"]
     },
     {
       "id": "livingWithAls",
       "heading": "Living with Marfan syndrome",
-      "terms": ["living with Marfan", "quality of life", "exercise", "physical activity", "school", "work", "pregnancy", "mental health", "chronic pain", "fatigue", "daily living", "self-management"]
+      "terms": ["living with Marfan", "quality of life", "exercise", "physical activity", "school", "work", "pregnancy", "mental health", "chronic pain", "fatigue", "spondylolisthesis", "daily living", "self-management"]
     },
     {
       "id": "caregiving",
@@ -102,6 +102,11 @@
       "name": "The Marfan Foundation",
       "detail": "Supports research, education, community programs and services for people affected by Marfan syndrome and related genetic aortic conditions.",
       "url": "https://marfan.org/donate/"
+    },
+    {
+      "name": "The Marfan Trust",
+      "detail": "Supports people with Marfan syndrome and their families, provides educational information and funds Marfan syndrome research in the UK.",
+      "url": "https://www.marfantrust.org/pages/12-donate"
     }
   ]
 }
