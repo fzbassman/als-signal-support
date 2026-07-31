@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "id": "parkinsons",
+  "displayName": "Parkinson's disease",
+  "description": "Curated terminology and sources for Parkinson's disease, including clinical trials, movement and non-movement symptoms, treatment, genetics, research, daily living and care-partner support. This pack is for information discovery and is not medical advice.",
+  "trialTerms": [
+    "Parkinson's disease",
+    "Parkinson disease",
+    "idiopathic Parkinson disease",
+    "young-onset Parkinson disease",
+    "early-onset Parkinson disease",
+    "LRRK2 Parkinson disease",
+    "GBA1 Parkinson disease"
+  ],
+  "publicationTerms": [
+    "Parkinson's disease",
+    "Parkinson disease",
+    "idiopathic Parkinson disease",
+    "young-onset Parkinson disease",
+    "early-onset Parkinson disease",
+    "paralysis agitans",
+    "alpha-synuclein Parkinson",
+    "LRRK2 Parkinson",
+    "GBA1 Parkinson",
+    "PRKN Parkinson",
+    "PINK1 Parkinson",
+    "SNCA Parkinson"
+  ],
+  "relevanceTerms": [
+    "Parkinson's disease",
+    "Parkinson’s disease",
+    "Parkinson disease",
+    "Parkinsons disease",
+    "Parkinson's",
+    "Parkinson’s",
+    "paralysis agitans",
+    "shaking palsy",
+    "young-onset Parkinson",
+    "early-onset Parkinson",
+    "Parkinson's Foundation",
+    "Parkinson's UK",
+    "Michael J. Fox Foundation"
+  ],
+  "topics": [
+    {
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "terms": ["clinical trial", "clinical study", "recruiting", "enrollment", "participant", "investigational", "ClinicalTrials.gov"]
+    },
+    {
+      "id": "treatments",
+      "heading": "Treatment and management",
+      "terms": ["treatment", "therapy", "levodopa", "carbidopa", "dopamine agonist", "MAO-B inhibitor", "COMT inhibitor", "amantadine", "deep brain stimulation", "DBS", "focused ultrasound", "physiotherapy", "physical therapy", "occupational therapy", "speech therapy", "exercise", "medication management"]
+    },
+    {
+      "id": "research",
+      "heading": "Parkinson's research",
+      "terms": ["research", "study", "scientist", "biomarker", "alpha-synuclein", "synuclein", "Lewy body", "dopamine neuron", "neuroprotection", "disease-modifying", "PPMI", "stem cell", "gene therapy"]
+    },
+    {
+      "id": "genetics",
+      "heading": "Genetics and diagnosis",
+      "terms": ["genetic testing", "gene variant", "familial Parkinson", "LRRK2", "GBA1", "SNCA", "PRKN", "PARK2", "PINK1", "PARK7", "DJ-1", "VPS35", "diagnosis", "DaTscan", "dopamine transporter scan"]
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with Parkinson's",
+      "terms": ["living with Parkinson", "quality of life", "daily living", "mobility", "freezing of gait", "falls", "sleep", "fatigue", "constipation", "speech", "swallowing", "mental health", "depression", "anxiety", "driving", "work", "self-management"]
+    },
+    {
+      "id": "caregiving",
+      "heading": "Care partners and support",
+      "terms": ["care partner", "caregiver", "caregiving", "carer", "family support", "respite", "support group", "home care", "palliative care", "helpline"]
+    },
+    {
+      "id": "advocacy",
+      "heading": "Awareness and advocacy",
+      "terms": ["awareness", "advocacy", "community", "foundation", "charity", "policy", "patient organization", "education", "research funding", "World Parkinson's Day"]
+    }
+  ],
+  "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
+  "sourceIds": ["nih-research-matters", "nih-news-releases"],
+  "externalSources": [
+    {
+      "id": "fda-medwatch-parkinsons",
+      "name": "FDA MedWatch",
+      "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/medwatch/rss.xml",
+      "category": "news",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Official U.S. government safety feed; locally filtered",
+      "sourceDetails": {
+        "publisher": "U.S. Food and Drug Administration · MedWatch",
+        "classification": "Official U.S. government drug and device safety feed",
+        "reviewed": "31 July 2026",
+        "fields_displayed": "Exact headline, publication date, source name and outbound article URL only",
+        "permission": "FDA states that, unless otherwise noted, content on its website is public domain. Individual feed items can still contain protected third-party material.",
+        "commercial_use": "Generally permitted for public-domain FDA text; verify each linked item's notices and do not imply FDA endorsement.",
+        "attribution": "Credit FDA MedWatch and link to the original safety communication.",
+        "termsUrl": "https://www.fda.gov/about-fda/about-website/website-policies",
+        "rights_or_corrections_contact": "https://www.fda.gov/about-fda/contact-fda",
+        "notes": "Verified live RSS endpoint. The feed is broad and is filtered locally for explicit Parkinson's terms. FDA names, seals and logos are not used to imply endorsement.",
+        "termsExcerpt": "FDA website content is generally public domain unless otherwise noted; third-party material and agency marks require separate care."
+      }
+    },
+    {
+      "id": "medicinenet-neurology-parkinsons",
+      "name": "MedicineNet · Neurology",
+      "url": "https://www.medicinenet.com/rss/general/neurology.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Express RSS syndication permission; locally filtered",
+      "sourceDetails": {
+        "publisher": "MedicineNet / WebMD LLC",
+        "classification": "Broad neurology RSS with express syndication permission",
+        "reviewed": "31 July 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "MedicineNet expressly encourages use and website syndication of its health and medical RSS feeds provided the entire article is not posted and proper attribution and links back to MedicineNet are supplied.",
+        "commercial_use": "Permitted for RSS syndication subject to the publisher's stated conditions; broader content use is not included.",
+        "attribution": "Credit MedicineNet and link to the original article.",
+        "termsUrl": "https://www.medicinenet.com/rss_feeds_and_news_syndication/info.htm",
+        "rights_or_corrections_contact": "https://www.medicinenet.com/about_us/info.htm",
+        "notes": "Verified live broad Neurology RSS endpoint. Disabled by default and locally filtered for explicit Parkinson's relevance; no description, image or article body is stored or displayed.",
+        "termsExcerpt": "MedicineNet permits RSS syndication with proper attribution and backlinks provided the entire article is not posted."
+      }
+    }
+  ],
+  "donationLinks": [
+    {
+      "name": "Parkinson's Foundation",
+      "detail": "Supports Parkinson's care, education, community resources and research toward a cure.",
+      "url": "https://www.parkinson.org/?form=19983"
+    },
+    {
+      "name": "Parkinson's UK",
+      "detail": "Funds Parkinson's information and support services and research into better treatments and a cure.",
+      "url": "https://donate.parkinsons.org.uk/"
+    },
+    {
+      "name": "The Michael J. Fox Foundation",
+      "detail": "Funds research intended to accelerate improved treatments and a cure for Parkinson's disease.",
+      "url": "https://give.michaeljfox.org/give/421686"
+    }
+  ]
+}
