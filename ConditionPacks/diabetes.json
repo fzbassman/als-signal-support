@@ -19,15 +19,15 @@
     "diabetic complications"
   ],
   "relevanceTerms": [
-    "diabetes mellitus", "type 1 diabetes", "type 2 diabetes", "gestational diabetes", "prediabetes", "diabetic", "insulin", "hyperglycemia", "hypoglycemia", "HbA1c", "A1C", "continuous glucose monitor", "continuous glucose monitoring", "CGM", "insulin pump", "closed-loop", "diabetic ketoacidosis", "DKA", "islet transplantation", "GLP-1", "SGLT2"
+    "diabetes mellitus", "type 1 diabetes", "type 2 diabetes", "gestational diabetes", "prediabetes", "diabetic", "insulin", "hyperglycemia", "hyperglycaemia", "hypoglycemia", "hypoglycaemia", "non-diabetic hyperglycaemia", "HbA1c", "A1C", "continuous glucose monitor", "continuous glucose monitoring", "CGM", "insulin pump", "closed-loop", "diabetic ketoacidosis", "DKA", "islet transplantation", "GLP-1", "SGLT2", "Diabetes UK", "NHS diabetes", "American Diabetes Association", "CDC diabetes", "Breakthrough T1D", "The Diabetes Link"
   ],
   "topics": [
     {"id": "clinicalTrials", "heading": "Clinical trials", "terms": ["clinical trial", "clinical study", "phase 1", "phase 2", "phase 3", "participant", "enrollment", "recruiting", "investigational"]},
     {"id": "treatments", "heading": "Treatments and monitoring", "terms": ["treatment", "therapy", "insulin", "metformin", "GLP-1", "SGLT2", "insulin pump", "continuous glucose monitor", "CGM", "closed-loop", "glucose management"]},
     {"id": "research", "heading": "Diabetes research", "terms": ["research", "study", "scientist", "prevention", "remission", "islet", "beta cell", "metabolism", "complication", "innovation"]},
     {"id": "genetics", "heading": "Genetics and risk", "terms": ["genetic", "genetics", "gene", "genome", "hereditary", "family history", "autoimmune", "risk factor"]},
-    {"id": "livingWithAls", "heading": "Living with diabetes", "terms": ["living with diabetes", "self-management", "glucose monitoring", "nutrition", "exercise", "quality of life", "school", "workplace", "mental health"]},
-    {"id": "caregiving", "heading": "Caregiving and support", "terms": ["caregiver", "caregiving", "carer", "family support", "care partner", "parent", "child", "school support", "peer support"]},
+    {"id": "livingWithAls", "heading": "Living with diabetes", "terms": ["living with diabetes", "self-management", "glucose monitoring", "nutrition", "exercise", "quality of life", "school", "workplace", "mental health", "support programme", "support program"]},
+    {"id": "caregiving", "heading": "Caregiving and support", "terms": ["caregiver", "caregiving", "carer", "caring", "family support", "care partner", "parent", "child", "school support", "peer support"]},
     {"id": "advocacy", "heading": "Prevention and advocacy", "terms": ["advocacy", "awareness", "prevention", "public health", "screening", "access", "affordability", "policy", "foundation", "funding"]}
   ],
   "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
@@ -80,7 +80,8 @@
   ],
   "donationLinks": [
     {"name": "Diabetes UK", "detail": "Funds diabetes support, information, campaigning and research across the UK.", "url": "https://www.diabetes.org.uk/get-involved/donate"},
-    {"name": "Breakthrough T1D UK", "detail": "Funds type 1 diabetes research and provides information and support for people affected by type 1 diabetes.", "url": "https://breakthrought1d.org.uk/support-us/donate/"},
-    {"name": "American Diabetes Association", "detail": "Funds diabetes research, education, advocacy and community programmes in the United States.", "url": "https://diabetes.org/?form=Donate"}
+    {"name": "Breakthrough T1D UK", "detail": "Funds type 1 diabetes research and provides information and support for people affected by type 1 diabetes.", "url": "https://donate.breakthrought1d.org.uk/"},
+    {"name": "American Diabetes Association", "detail": "Funds diabetes research, education, advocacy and community programmes in the United States.", "url": "https://diabetes.org/?form=Donate"},
+    {"name": "Breakthrough T1D US", "detail": "Funds type 1 diabetes research, advocacy and community resources in the United States.", "url": "https://www2.jdrf.org/site/Donation2?2376.donation=form1&df_id=2376&mfc_pref=T"}
   ]
 }
