@@ -215,8 +215,8 @@
       "sourceDetails": {
         "publisher": "MedicineNet (WebMD Network)",
         "classification": "General health and medical news, filtered for Alzheimer's relevance",
-        "reviewed": "28 July 2026",
-        "fields_displayed": "Headline, publication date, publisher-supplied description, attribution and outbound link only",
+        "reviewed": "31 July 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
         "permission": "MedicineNet encourages use of its RSS feeds provided the entire article is not posted and proper attribution and links back to MedicineNet.com are included.",
         "commercial_use": "RSS syndication is offered, but commercial/promotional use beyond the stated feed terms is not separately verified",
         "attribution": "MedicineNet",
@@ -236,14 +236,14 @@
       "sourceDetails": {
         "publisher": "MedicineNet (WebMD Network)",
         "classification": "Alzheimer's disease health information and news",
-        "reviewed": "28 July 2026",
-        "fields_displayed": "Headline, publication date, publisher-supplied description, attribution and outbound link only",
+        "reviewed": "31 July 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
         "permission": "MedicineNet encourages use of its RSS feeds provided the entire article is not posted and proper attribution and links back to MedicineNet.com are included; its RSS directory lists Alzheimer's Disease as a general channel.",
         "commercial_use": "RSS syndication is offered, but commercial/promotional use beyond the stated feed terms is not separately verified",
         "attribution": "MedicineNet",
         "termsUrl": "https://www.medicinenet.com/rss_feeds_and_news_syndication/info.htm",
         "rights_or_corrections_contact": "https://www.medicinenet.com/about_us/info.htm",
-        "notes": "The publisher's RSS directory identifies Alzheimer's Disease as an available general channel. The user-provided endpoint is retained as a disabled-by-default, headline-only source pending direct endpoint response verification."
+        "notes": "Verified live condition-specific RSS endpoint. Disabled by default and limited to headline, date, attribution and outbound link; no description, image or article body is stored or displayed."
       }
     }
   ]

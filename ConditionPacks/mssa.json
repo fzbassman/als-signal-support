@@ -203,6 +203,28 @@
         "notes": "Optional discovery feed; disabled by default. It covers treatment, caregiving and foundation/community reporting when indexed by Google News.",
         "termsExcerpt": "Intermediary indexing is not treated as a license for third-party content reuse."
       }
+    },
+    {
+      "id": "medicinenet-infectious-disease-mssa",
+      "name": "MedicineNet · Infectious Disease",
+      "url": "https://www.medicinenet.com/rss/general/infectious_disease.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Express RSS syndication permission; locally filtered",
+      "sourceDetails": {
+        "publisher": "MedicineNet / WebMD LLC",
+        "classification": "Broad infectious-disease RSS with express syndication permission",
+        "reviewed": "31 July 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "MedicineNet expressly encourages use and website syndication of its health and medical RSS feeds provided the entire article is not posted and proper attribution and links back to MedicineNet are supplied.",
+        "commercial_use": "Permitted for RSS syndication subject to the publisher's stated conditions; broader content use is not included.",
+        "attribution": "Credit MedicineNet and link to the original article.",
+        "termsUrl": "https://www.medicinenet.com/rss_feeds_and_news_syndication/info.htm",
+        "rights_or_corrections_contact": "https://www.medicinenet.com/about_us/info.htm",
+        "notes": "Verified live broad Infectious Disease RSS endpoint. Disabled by default and locally filtered for explicit MSSA relevance; no description, image or article body is stored or displayed.",
+        "termsExcerpt": "MedicineNet permits RSS syndication with proper attribution and backlinks provided the entire article is not posted."
+      }
     }
   ]
 }

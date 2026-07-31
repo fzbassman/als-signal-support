@@ -95,6 +95,28 @@
         "notes": "Verified live RSS endpoint. The feed is broad and is filtered locally for explicit Marfan terms. FDA names, seals and logos are not used to imply endorsement.",
         "termsExcerpt": "FDA website content is generally public domain unless otherwise noted; third-party material and agency marks require separate care."
       }
+    },
+    {
+      "id": "medicinenet-heart-marfan",
+      "name": "MedicineNet · Heart",
+      "url": "https://www.medicinenet.com/rss/general/heart.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Express RSS syndication permission; locally filtered",
+      "sourceDetails": {
+        "publisher": "MedicineNet / WebMD LLC",
+        "classification": "Broad heart-health RSS with express syndication permission",
+        "reviewed": "31 July 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "MedicineNet expressly encourages use and website syndication of its health and medical RSS feeds provided the entire article is not posted and proper attribution and links back to MedicineNet are supplied.",
+        "commercial_use": "Permitted for RSS syndication subject to the publisher's stated conditions; broader content use is not included.",
+        "attribution": "Credit MedicineNet and link to the original article.",
+        "termsUrl": "https://www.medicinenet.com/rss_feeds_and_news_syndication/info.htm",
+        "rights_or_corrections_contact": "https://www.medicinenet.com/about_us/info.htm",
+        "notes": "Verified live broad Heart RSS endpoint. Disabled by default and locally filtered for explicit Marfan relevance; no description, image or article body is stored or displayed.",
+        "termsExcerpt": "MedicineNet permits RSS syndication with proper attribution and backlinks provided the entire article is not posted."
+      }
     }
   ],
   "donationLinks": [

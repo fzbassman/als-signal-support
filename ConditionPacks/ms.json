@@ -214,6 +214,28 @@
       "kind": "google",
       "enabledByDefault": false,
       "rightsStatus": "unreviewed"
+    },
+    {
+      "id": "medicinenet-neurology-ms",
+      "name": "MedicineNet · Neurology",
+      "url": "https://www.medicinenet.com/rss/general/neurology.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Express RSS syndication permission; locally filtered",
+      "sourceDetails": {
+        "publisher": "MedicineNet / WebMD LLC",
+        "classification": "Broad neurology RSS with express syndication permission",
+        "reviewed": "31 July 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "MedicineNet expressly encourages use and website syndication of its health and medical RSS feeds provided the entire article is not posted and proper attribution and links back to MedicineNet are supplied.",
+        "commercial_use": "Permitted for RSS syndication subject to the publisher's stated conditions; broader content use is not included.",
+        "attribution": "Credit MedicineNet and link to the original article.",
+        "termsUrl": "https://www.medicinenet.com/rss_feeds_and_news_syndication/info.htm",
+        "rights_or_corrections_contact": "https://www.medicinenet.com/about_us/info.htm",
+        "notes": "Verified live broad Neurology RSS endpoint. Disabled by default and locally filtered for explicit multiple-sclerosis relevance; no description, image or article body is stored or displayed.",
+        "termsExcerpt": "MedicineNet permits RSS syndication with proper attribution and backlinks provided the entire article is not posted."
+      }
     }
   ]
 }
