@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "parkinsons",
-  "displayName": "Parkinson's disease",
+  "displayName": "Parkinson's",
   "description": "Curated terminology and sources for Parkinson's disease, including clinical trials, movement and non-movement symptoms, treatment, genetics, research, daily living and care-partner support. This pack is for information discovery and is not medical advice.",
   "trialTerms": [
     "Parkinson's disease",

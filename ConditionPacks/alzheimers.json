@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "alzheimers",
-  "displayName": "Alzheimer's disease",
+  "displayName": "Alzheimer's",
   "description": "Curated terminology for Alzheimer's disease and related dementia research, trials, treatment discovery, caregiving and community information.",
   "trialTerms": [
     "Alzheimer disease",
