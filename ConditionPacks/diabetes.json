@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "diabetes",
+  "displayName": "Diabetes",
+  "description": "Curated terminology and sources for diabetes, including type 1, type 2 and gestational diabetes, treatment, research, daily life, caregiving and advocacy. This pack is not medical advice.",
+  "trialTerms": [
+    "diabetes mellitus",
+    "type 1 diabetes",
+    "type 2 diabetes",
+    "gestational diabetes",
+    "prediabetes"
+  ],
+  "publicationTerms": [
+    "diabetes mellitus",
+    "type 1 diabetes",
+    "type 2 diabetes",
+    "gestational diabetes",
+    "prediabetes",
+    "diabetic complications"
+  ],
+  "relevanceTerms": [
+    "diabetes mellitus", "type 1 diabetes", "type 2 diabetes", "gestational diabetes", "prediabetes", "diabetic", "insulin", "hyperglycemia", "hypoglycemia", "HbA1c", "A1C", "continuous glucose monitor", "continuous glucose monitoring", "CGM", "insulin pump", "closed-loop", "diabetic ketoacidosis", "DKA", "islet transplantation", "GLP-1", "SGLT2"
+  ],
+  "topics": [
+    {"id": "clinicalTrials", "heading": "Clinical trials", "terms": ["clinical trial", "clinical study", "phase 1", "phase 2", "phase 3", "participant", "enrollment", "recruiting", "investigational"]},
+    {"id": "treatments", "heading": "Treatments and monitoring", "terms": ["treatment", "therapy", "insulin", "metformin", "GLP-1", "SGLT2", "insulin pump", "continuous glucose monitor", "CGM", "closed-loop", "glucose management"]},
+    {"id": "research", "heading": "Diabetes research", "terms": ["research", "study", "scientist", "prevention", "remission", "islet", "beta cell", "metabolism", "complication", "innovation"]},
+    {"id": "genetics", "heading": "Genetics and risk", "terms": ["genetic", "genetics", "gene", "genome", "hereditary", "family history", "autoimmune", "risk factor"]},
+    {"id": "livingWithAls", "heading": "Living with diabetes", "terms": ["living with diabetes", "self-management", "glucose monitoring", "nutrition", "exercise", "quality of life", "school", "workplace", "mental health"]},
+    {"id": "caregiving", "heading": "Caregiving and support", "terms": ["caregiver", "caregiving", "carer", "family support", "care partner", "parent", "child", "school support", "peer support"]},
+    {"id": "advocacy", "heading": "Prevention and advocacy", "terms": ["advocacy", "awareness", "prevention", "public health", "screening", "access", "affordability", "policy", "foundation", "funding"]}
+  ],
+  "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
+  "sourceIds": ["nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "yahoo-health", "rnz-world", "lifearc"],
+  "externalSources": [
+    {
+      "id": "medicinenet-diabetes",
+      "name": "MedicineNet · Diabetes",
+      "url": "https://www.medicinenet.com/rss/general/diabetes.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Express RSS syndication permission; diabetes channel",
+      "sourceDetails": {
+        "publisher": "MedicineNet / WebMD LLC",
+        "classification": "Diabetes RSS with express syndication permission",
+        "reviewed": "31 July 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "MedicineNet expressly encourages use and website syndication of its health and medical RSS feeds provided the entire article is not posted and proper attribution and links back to MedicineNet are supplied.",
+        "commercial_use": "Permitted for RSS syndication subject to the publisher's stated conditions; broader content use is not included.",
+        "attribution": "Credit MedicineNet and link to the original article.",
+        "termsUrl": "https://www.medicinenet.com/rss_feeds_and_news_syndication/info.htm",
+        "rights_or_corrections_contact": "https://www.medicinenet.com/about_us/info.htm",
+        "notes": "Official Diabetes RSS channel. Disabled by default and locally filtered for explicit diabetes relevance; no description, image or article body is stored or displayed.",
+        "termsExcerpt": "MedicineNet permits RSS syndication with proper attribution and backlinks provided the entire article is not posted."
+      }
+    },
+    {
+      "id": "niddk-news-diabetes",
+      "name": "NIH NIDDK News",
+      "url": "https://www.niddk.nih.gov/rss/news",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Official U.S. government research feed; locally filtered",
+      "sourceDetails": {
+        "publisher": "National Institute of Diabetes and Digestive and Kidney Diseases / NIH",
+        "classification": "Official broad NIDDK news and research RSS",
+        "reviewed": "1 August 2026",
+        "fields_displayed": "Exact headline, publication date, NIDDK attribution and outbound link only",
+        "permission": "NIDDK publishes this feed for subscription. U.S. government works are generally available for reuse, but linked or contributed third-party material can retain separate rights.",
+        "commercial_use": "Government works may be reused with acknowledgement; verify linked third-party material and do not imply NIDDK or NIH endorsement.",
+        "attribution": "Credit NIDDK and NIH and link to the original item.",
+        "termsUrl": "https://www.nih.gov/web-policies-notices",
+        "rights_or_corrections_contact": "https://www.niddk.nih.gov/contact-us",
+        "notes": "Verified official NIDDK RSS endpoint with substantial diabetes research coverage. Disabled by default and locally filtered for explicit diabetes relevance because the feed also covers digestive, kidney and metabolic research; no summary, image or article body is stored or displayed.",
+        "termsExcerpt": "Official government feed; third-party content and endorsement restrictions still apply."
+      }
+    }
+  ],
+  "donationLinks": [
+    {"name": "Diabetes UK", "detail": "Funds diabetes support, information, campaigning and research across the UK.", "url": "https://www.diabetes.org.uk/get-involved/donate"},
+    {"name": "Breakthrough T1D UK", "detail": "Funds type 1 diabetes research and provides information and support for people affected by type 1 diabetes.", "url": "https://breakthrought1d.org.uk/support-us/donate/"},
+    {"name": "American Diabetes Association", "detail": "Funds diabetes research, education, advocacy and community programmes in the United States.", "url": "https://diabetes.org/?form=Donate"}
+  ]
+}
