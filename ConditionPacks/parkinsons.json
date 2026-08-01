@@ -3,6 +3,16 @@
   "id": "parkinsons",
   "displayName": "Parkinson's",
   "description": "Curated terminology and sources for Parkinson's disease, including clinical trials, movement and non-movement symptoms, treatment, genetics, research, daily living and care-partner support. This pack is for information discovery and is not medical advice.",
+  "synopsis": {
+    "overview": "Parkinson's disease is a progressive neurological condition caused by loss of nerve cells that produce dopamine in a part of the brain involved in movement.",
+    "manifestations": "The main movement symptoms are tremor, slowness and muscle stiffness. Balance problems can develop, and non-movement symptoms may include sleep disturbance, loss of smell, depression, anxiety, pain, constipation and changes in memory or thinking.",
+    "management": "There is no cure. Medicines such as levodopa can improve symptoms, while physiotherapy, occupational therapy, speech and language therapy and exercise support function. Some people may be considered for device-assisted treatment or deep brain stimulation.",
+    "outlook": "Symptoms generally progress over years, but the pattern and response to treatment vary. Many people initially respond well to treatment and have a normal or near-normal life expectancy, although increasing assistance and vulnerability to complications may develop later.",
+    "reviewed": "2026-08-01",
+    "sources": [
+      {"name": "NHS: Parkinson's disease", "url": "https://www.nhs.uk/conditions/parkinsons-disease/"}
+    ]
+  },
   "trialTerms": [
     "Parkinson's disease",
     "Parkinson disease",

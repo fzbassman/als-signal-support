@@ -3,6 +3,17 @@
   "id": "marfan",
   "displayName": "Marfan Syndrome",
   "description": "Curated terminology and sources for Marfan syndrome, including clinical trials, genetics, aortic and cardiovascular care, eye and skeletal complications, research, daily living and community support. This pack is for information discovery and is not medical advice.",
+  "synopsis": {
+    "overview": "Marfan syndrome is an inherited connective-tissue condition, usually related to a change in the FBN1 gene. Connective tissue supports structures throughout the body, so several organ systems may be affected.",
+    "manifestations": "Features vary and can include a tall, slender build, long limbs and fingers, flexible joints, spinal or chest-wall changes and eye problems. Enlargement or tearing of the aorta and heart-valve problems are the most serious complications.",
+    "management": "There is no cure. Lifelong specialist monitoring commonly includes regular heart and aortic imaging, eye and skeletal assessment, medicines that reduce strain on the aorta, activity guidance and preventive surgery when the aorta or heart valves reach concerning thresholds.",
+    "outlook": "Severity varies widely, including within families. Cardiovascular complications drive much of the risk, but early diagnosis, regular surveillance, medicines and timely surgery can prevent or delay serious problems and have substantially improved outcomes.",
+    "reviewed": "2026-08-01",
+    "sources": [
+      {"name": "NHLBI: Marfan syndrome", "url": "https://www.nhlbi.nih.gov/health/marfan-syndrome"},
+      {"name": "NHLBI: Marfan syndrome treatment", "url": "https://www.nhlbi.nih.gov/health/marfan-syndrome/treatment"}
+    ]
+  },
   "trialTerms": [
     "Marfan syndrome",
     "Marfan's syndrome",

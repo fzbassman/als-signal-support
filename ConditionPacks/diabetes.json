@@ -3,6 +3,17 @@
   "id": "diabetes",
   "displayName": "Diabetes",
   "description": "Curated terminology and sources for diabetes, including type 1, type 2 and gestational diabetes, treatment, research, daily life, caregiving and advocacy. This pack is not medical advice.",
+  "synopsis": {
+    "overview": "Diabetes mellitus is a group of long-term conditions in which blood glucose is too high because the body does not make enough insulin or cannot use it effectively. Major forms include type 1, type 2 and gestational diabetes.",
+    "manifestations": "Symptoms can include increased thirst or urination, hunger, fatigue, blurred vision, unexplained weight loss, slow-healing wounds or tingling, but some people have few or no symptoms. Very high or low glucose can cause urgent illness.",
+    "management": "Management depends on the type and may include glucose monitoring, diabetes education, nutrition and physical-activity support, insulin, other medicines and regular checks of the eyes, kidneys, nerves, feet and cardiovascular risk factors.",
+    "outlook": "Diabetes is usually lifelong, although type 2 diabetes can sometimes enter remission. Keeping glucose and related risk factors within agreed targets can reduce complications. Without effective management, diabetes can damage the heart, blood vessels, kidneys, eyes and nerves.",
+    "reviewed": "2026-08-01",
+    "sources": [
+      {"name": "CDC: Diabetes basics", "url": "https://www.cdc.gov/diabetes/about/index.html"},
+      {"name": "CDC: Diabetes complications", "url": "https://www.cdc.gov/diabetes/complications/index.html"}
+    ]
+  },
   "trialTerms": [
     "diabetes mellitus",
     "type 1 diabetes",

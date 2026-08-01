@@ -3,6 +3,16 @@
   "id": "als",
   "displayName": "ALS",
   "description": "Curated terminology for amyotrophic lateral sclerosis and motor neurone disease discovery.",
+  "synopsis": {
+    "overview": "Amyotrophic lateral sclerosis (ALS), the most common form of motor neurone disease, is a progressive disorder that damages the nerve cells controlling voluntary muscles.",
+    "manifestations": "It commonly causes increasing weakness, stiffness, cramps or twitching and can later affect movement, speech, swallowing and breathing. Symptoms and their rate of change vary.",
+    "management": "There is no cure. Specialist multidisciplinary care may include medicines that can slow progression for some people, symptom relief, respiratory and nutritional support, physiotherapy, mobility equipment and communication aids.",
+    "outlook": "ALS is usually life-shortening and progresses over months or years, but its course differs substantially between people. The care team can provide information relevant to an individual situation.",
+    "reviewed": "2026-08-01",
+    "sources": [
+      {"name": "NHS: Motor neurone disease", "url": "https://www.nhs.uk/conditions/motor-neurone-disease/"}
+    ]
+  },
   "trialTerms": [
     "amyotrophic lateral sclerosis",
     "motor neuron disease",

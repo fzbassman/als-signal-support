@@ -3,6 +3,16 @@
   "id": "alzheimers",
   "displayName": "Alzheimer's",
   "description": "Curated terminology for Alzheimer's disease and related dementia research, trials, treatment discovery, caregiving and community information.",
+  "synopsis": {
+    "overview": "Alzheimer's disease is a progressive brain disorder and the most common cause of dementia in older adults. It gradually damages memory, thinking and the ability to carry out everyday activities.",
+    "manifestations": "Early changes often involve memory, word finding, reasoning or spatial skills. As the disease progresses, confusion, personality or behaviour changes, difficulty recognizing people, communication problems and increasing dependence can occur.",
+    "management": "There is no cure. Care may combine medicines that temporarily support cognition or manage symptoms, selected disease-modifying treatments for some people with early disease, non-drug approaches, safety planning and practical and emotional support for the person and caregivers.",
+    "outlook": "Alzheimer's usually worsens over years, but the rate and pattern vary. Later stages can involve loss of communication and complete dependence on others. Early diagnosis can support treatment decisions, planning and access to services.",
+    "reviewed": "2026-08-01",
+    "sources": [
+      {"name": "National Institute on Aging: Alzheimer's disease fact sheet", "url": "https://www.nia.nih.gov/health/alzheimers-and-dementia/alzheimers-disease-fact-sheet"}
+    ]
+  },
   "trialTerms": [
     "Alzheimer disease",
     "Alzheimer's disease",

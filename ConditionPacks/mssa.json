@@ -3,6 +3,16 @@
   "id": "mssa",
   "displayName": "MSSA",
   "description": "Curated terminology and sources for methicillin-susceptible Staphylococcus aureus (MSSA), including infection research, antimicrobial treatment, prevention, caregiving and public-health surveillance. This pack is not medical advice.",
+  "synopsis": {
+    "overview": "Methicillin-susceptible Staphylococcus aureus (MSSA) is a type of staph bacterium that remains susceptible to certain antibiotics. Staph commonly lives harmlessly on the skin or in the nose, but it can cause infection if it enters tissue or the bloodstream.",
+    "manifestations": "MSSA can cause red, painful or draining skin and wound infections. More invasive disease can involve the bloodstream, lungs, heart, bones or joints and may lead to sepsis; symptoms depend on the infection site.",
+    "management": "Clinicians use examination, cultures and antibiotic-susceptibility results to guide treatment. Management commonly involves an effective antibiotic and, when needed, drainage of an abscess, removal of an infected device or other control of the infection source.",
+    "outlook": "Many localized infections recover with appropriate care, but invasive MSSA infection can be severe or fatal. Outcome varies with the infection site, how quickly effective treatment begins, source control and a person's underlying health.",
+    "reviewed": "2026-08-01",
+    "sources": [
+      {"name": "CDC: Staphylococcus aureus basics", "url": "https://www.cdc.gov/staphylococcus-aureus/about/"}
+    ]
+  },
   "trialTerms": [
     "methicillin-susceptible Staphylococcus aureus",
     "methicillin susceptible Staphylococcus aureus",

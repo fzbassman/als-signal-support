@@ -2,115 +2,189 @@
   "schemaVersion": 1,
   "id": "muscular-dystrophy",
   "displayName": "Muscular Dystrophy",
-  "description": "Curated terminology and sources for muscular dystrophy, including major subtypes, clinical trials, treatment, research, daily life, caregiving and advocacy. This pack is not medical advice.",
+  "description": "An information-discovery profile for muscular dystrophy and evidence-supported major subtypes. It surfaces public trials, publication metadata, and strictly relevant headlines; it does not provide medical advice, recommend studies or treatments, assess eligibility, or interpret findings.",
+  "synopsis": {
+    "overview": "Muscular dystrophy describes a group of genetic conditions that cause progressive muscle weakness. Different gene changes produce different types, including Duchenne, Becker, myotonic, facioscapulohumeral and limb-girdle muscular dystrophies.",
+    "manifestations": "Weakness may begin in childhood or adulthood and can affect walking, lifting, balance and joints. The pattern and speed vary by type; some forms also affect the heart, breathing muscles, spine, eyes or other organs.",
+    "management": "There is no cure for most forms. Type-specific multidisciplinary care may include physiotherapy, mobility and occupational support, medicines that slow progression in some conditions, respiratory support, cardiac monitoring and treatment, and surgery for selected complications.",
+    "outlook": "The outlook ranges widely between types and individuals. Some forms progress slowly with a near-normal lifespan, while others cause early loss of mobility or serious heart and breathing complications and can shorten life. Genetic diagnosis helps guide monitoring and counselling.",
+    "reviewed": "2026-08-01",
+    "sources": [
+      {"name": "NHS: Muscular dystrophy", "url": "https://www.nhs.uk/conditions/muscular-dystrophy/"}
+    ]
+  },
   "trialTerms": [
-    "muscular dystrophy",
-    "muscular dystrophies",
+    "Muscular Dystrophy",
     "Duchenne muscular dystrophy",
     "Becker muscular dystrophy",
-    "myotonic dystrophy",
-    "facioscapulohumeral muscular dystrophy",
-    "limb-girdle muscular dystrophy",
-    "congenital muscular dystrophy",
-    "Emery-Dreifuss muscular dystrophy",
-    "oculopharyngeal muscular dystrophy",
-    "distal muscular dystrophy"
+    "Facioscapulohumeral muscular dystrophy",
+    "Limb-girdle muscular dystrophy",
+    "Myotonic muscular dystrophy"
   ],
   "publicationTerms": [
     "muscular dystrophy",
-    "muscular dystrophies",
     "Duchenne muscular dystrophy",
     "Becker muscular dystrophy",
-    "myotonic dystrophy",
     "facioscapulohumeral muscular dystrophy",
     "limb-girdle muscular dystrophy",
-    "congenital muscular dystrophy",
-    "Emery-Dreifuss muscular dystrophy",
-    "oculopharyngeal muscular dystrophy",
-    "distal muscular dystrophy",
-    "dystrophinopathy",
-    "dystrophinopathies",
-    "sarcoglycanopathy"
+    "myotonic muscular dystrophy"
   ],
   "relevanceTerms": [
     "muscular dystrophy",
-    "muscular dystrophies",
     "Duchenne muscular dystrophy",
     "Becker muscular dystrophy",
-    "myotonic dystrophy",
     "facioscapulohumeral muscular dystrophy",
     "limb-girdle muscular dystrophy",
-    "congenital muscular dystrophy",
-    "Emery-Dreifuss muscular dystrophy",
-    "oculopharyngeal muscular dystrophy",
-    "distal muscular dystrophy",
-    "dystrophinopathy",
-    "dystrophinopathies",
-    "sarcoglycanopathy",
-    "FSHD muscular dystrophy",
-    "LGMD muscular dystrophy"
+    "myotonic muscular dystrophy"
   ],
   "topics": [
-    {"id": "clinicalTrials", "heading": "Clinical trials", "terms": ["clinical trial", "clinical study", "phase 1", "phase 2", "phase 3", "participant", "enrollment", "enrolment", "recruiting", "investigational"]},
-    {"id": "treatments", "heading": "Treatments and care", "terms": ["treatment", "therapy", "corticosteroid", "steroid", "gene therapy", "exon skipping", "physiotherapy", "physical therapy", "occupational therapy", "respiratory support", "cardiac care", "mobility equipment"]},
-    {"id": "research", "heading": "Muscular Dystrophy research", "terms": ["research", "study", "scientist", "dystrophin", "muscle regeneration", "gene editing", "antisense oligonucleotide", "micro-dystrophin", "natural history", "biomarker"]},
-    {"id": "genetics", "heading": "Genetics and subtypes", "terms": ["genetic", "genetics", "gene", "genome", "inheritance", "X-linked", "autosomal dominant", "autosomal recessive", "DMD", "BMD", "FSHD", "LGMD", "DM1", "DM2", "DMD gene", "DUX4", "DMPK", "CNBP", "sarcoglycan"]},
-    {"id": "livingWithAls", "heading": "Living with Muscular Dystrophy", "terms": ["living with muscular dystrophy", "quality of life", "independent living", "mobility", "wheelchair", "assistive technology", "education", "school", "employment", "mental health", "peer support"]},
-    {"id": "caregiving", "heading": "Caregiving and support", "terms": ["caregiver", "caregiving", "carer", "care partner", "family support", "parent", "sibling", "respite", "multidisciplinary care", "care standards"]},
-    {"id": "advocacy", "heading": "Advocacy and access", "terms": ["advocacy", "awareness", "access", "policy", "disability rights", "inclusive", "funding", "foundation", "charity", "newborn screening"]}
-  ],
-  "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
-  "sourceIds": ["nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "yahoo-health", "rnz-world", "lifearc"],
-  "externalSources": [
     {
-      "id": "medicinenet-neurology-muscular-dystrophy",
-      "name": "MedicineNet · Neurology",
-      "url": "https://www.medicinenet.com/rss/general/neurology.xml",
-      "category": "research",
-      "kind": "headlineOnly",
-      "enabledByDefault": false,
-      "rightsStatus": "Express RSS syndication permission; broad neurology channel locally filtered",
-      "sourceDetails": {
-        "publisher": "MedicineNet / WebMD LLC",
-        "classification": "Broad neurology RSS with express syndication permission",
-        "reviewed": "1 August 2026",
-        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
-        "permission": "MedicineNet encourages RSS syndication with proper attribution and backlinks provided the entire article is not posted.",
-        "commercial_use": "Permitted for RSS syndication subject to the publisher's conditions; broader content use is not included.",
-        "attribution": "Credit MedicineNet and link to the original article.",
-        "termsUrl": "https://www.medicinenet.com/rss_feeds_and_news_syndication/info.htm",
-        "rights_or_corrections_contact": "https://www.medicinenet.com/about_us/info.htm",
-        "notes": "Verified broad Neurology RSS. Disabled and locally filtered using the precise muscular-dystrophy relevance gate; no summary, image or article body is stored or displayed.",
-        "termsExcerpt": "MedicineNet permits RSS syndication with attribution and backlinks provided the entire article is not posted."
-      }
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "terms": [
+        "muscular dystrophy clinical trial",
+        "Duchenne muscular dystrophy clinical trial",
+        "Becker muscular dystrophy clinical trial",
+        "facioscapulohumeral muscular dystrophy clinical trial",
+        "limb-girdle muscular dystrophy clinical trial",
+        "myotonic muscular dystrophy clinical trial",
+        "study recruitment",
+        "trial results"
+      ]
     },
     {
-      "id": "sciencedaily-muscular-dystrophy",
-      "name": "ScienceDaily · Muscular Dystrophy",
-      "url": "https://www.sciencedaily.com/rss/health_medicine/muscular_dystrophy.xml",
-      "category": "research",
+      "id": "treatments",
+      "heading": "Treatments and care",
+      "terms": [
+        "muscular dystrophy treatment",
+        "gene-based therapy",
+        "drug therapy",
+        "physical therapy",
+        "occupational therapy",
+        "respiratory therapy",
+        "cardiac monitoring",
+        "steroid therapy"
+      ]
+    },
+    {
+      "id": "research",
+      "heading": "Research",
+      "terms": [
+        "muscular dystrophy research",
+        "neuromuscular research",
+        "muscle function",
+        "disease progression",
+        "clinical research",
+        "biomarker",
+        "natural history study",
+        "research conference"
+      ]
+    },
+    {
+      "id": "genetics",
+      "heading": "Genetics",
+      "terms": [
+        "muscular dystrophy genetics",
+        "genetic mutation",
+        "genetic testing",
+        "gene-based therapy",
+        "dystrophin gene",
+        "genetic counselling",
+        "inheritance",
+        "carrier health"
+      ]
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with muscular dystrophy",
+      "terms": [
+        "living with muscular dystrophy",
+        "mobility support",
+        "respiratory support",
+        "cardiac care",
+        "accessible travel",
+        "assistive equipment",
+        "independent living",
+        "school and employment"
+      ]
+    },
+    {
+      "id": "caregiving",
+      "heading": "Caregiving",
+      "terms": [
+        "muscular dystrophy caregiver",
+        "family caregiving",
+        "respite care",
+        "care coordination",
+        "caregiver support",
+        "home adaptations",
+        "transition of care",
+        "community support group"
+      ]
+    },
+    {
+      "id": "advocacy",
+      "heading": "Advocacy",
+      "terms": [
+        "muscular dystrophy advocacy",
+        "research funding",
+        "access to care",
+        "disability rights",
+        "caregiving policy",
+        "patient voice",
+        "regulatory meeting",
+        "community awareness"
+      ]
+    }
+  ],
+  "defaultTopics": [
+    "clinicalTrials",
+    "treatments",
+    "research",
+    "genetics",
+    "livingWithAls",
+    "caregiving",
+    "advocacy"
+  ],
+  "sourceIds": [
+    "lifearc",
+    "nih-research-matters",
+    "nih-news-releases"
+  ],
+  "externalSources": [
+    {
+      "id": "musculardystrophynews-feed-muscular-dystrophy",
+      "name": "Muscular Dystrophy News",
+      "url": "https://musculardystrophynews.com/feed/",
+      "category": "news",
       "kind": "headlineOnly",
       "enabledByDefault": false,
-      "rightsStatus": "Official topic RSS with stated integration conditions; locally filtered",
+      "rightsStatus": "Condition-focused news and community features",
       "sourceDetails": {
-        "publisher": "ScienceDaily",
-        "classification": "Muscular Dystrophy topic RSS with mixed muscle coverage",
+        "publisher": "Muscular Dystrophy News",
+        "classification": "Condition-focused news and community features",
         "reviewed": "1 August 2026",
-        "fields_displayed": "Exact headline, publication date, ScienceDaily attribution and outbound link only",
-        "permission": "ScienceDaily encourages RSS integration with attribution and links under its published terms; full stories may not be reproduced.",
-        "commercial_use": "Use is limited to the publisher's RSS conditions; broader reuse is not included.",
-        "attribution": "Credit ScienceDaily and link to the original item.",
-        "termsUrl": "https://www.sciencedaily.com/terms.htm",
-        "rights_or_corrections_contact": "https://www.sciencedaily.com/contact.htm",
-        "notes": "HTTP 200 application/xml exact-topic endpoint, but current items include unrelated general-muscle coverage. Disabled and strictly locally filtered; no summary, image or article body is stored or displayed.",
-        "termsExcerpt": "RSS integration is permitted with attribution and an original-source link; full stories are excluded."
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "Availability and reviewed terms do not establish blanket reuse permission.",
+        "commercial_use": "Not assumed; retain conservative display.",
+        "attribution": "Display publisher, headline, date when supplied, and original outbound link only.",
+        "termsUrl": "https://bionews.com/terms-service/",
+        "rights_or_corrections_contact": "https://bionews.com/corrections-policy/",
+        "notes": "Sample includes muscular-dystrophy science, Duchenne care, advocacy, and regulatory coverage.",
+        "termsExcerpt": "No verbatim terms copied; consult the linked current policy."
       }
     }
   ],
   "donationLinks": [
-    {"name": "Muscular Dystrophy UK", "detail": "Funds research and provides information, advocacy and support across more than 60 muscle-wasting and weakening conditions in the UK.", "url": "https://www.musculardystrophyuk.org/get-involved/donate/"},
-    {"name": "Duchenne UK", "detail": "Funds Duchenne muscular dystrophy research and supports affected families in the UK.", "url": "https://www.duchenneuk.org/donate"},
-    {"name": "Muscular Dystrophy Association", "detail": "Funds research, care, advocacy and community programmes for muscular dystrophy and related neuromuscular conditions in the United States.", "url": "https://www.mda.org/ways-to-give"},
-    {"name": "Parent Project Muscular Dystrophy", "detail": "Supports Duchenne muscular dystrophy research, advocacy, care and community programmes in the United States.", "url": "https://www.parentprojectmd.org/donate-to-ppmd-today-and-help-make-tomorrow-twice-as-strong/"}
+    {
+      "name": "Muscular Dystrophy Association donation",
+      "detail": "Direct HTTPS giving page supporting an organization focused on muscular dystrophy and related neuromuscular diseases.",
+      "url": "https://giving.mda.org/-/XDMGBWMK"
+    },
+    {
+      "name": "Muscular Dystrophy Association donation",
+      "detail": "Direct HTTPS donation route found on the inspected Quest page.",
+      "url": "https://mda.org/donate"
+    }
   ]
 }

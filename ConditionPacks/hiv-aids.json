@@ -3,6 +3,17 @@
   "id": "hiv-aids",
   "displayName": "HIV/AIDS",
   "description": "Curated terminology and sources for HIV/AIDS, including testing, prevention, treatment, research, daily life, caregiving and advocacy. This pack is not medical advice.",
+  "synopsis": {
+    "overview": "Human immunodeficiency virus (HIV) attacks the immune system. Without treatment it can progress to advanced HIV or AIDS, a stage in which serious opportunistic infections and some cancers can occur.",
+    "manifestations": "Some people develop a short flu-like illness soon after infection, while others have no symptoms for years. Untreated HIV gradually weakens immune defences; the only way to know HIV status is through testing.",
+    "management": "There is no cure, but antiretroviral therapy can suppress the virus to an undetectable level and protect the immune system. Ongoing care includes viral-load monitoring, prevention and treatment of other infections, and support for physical and mental health.",
+    "outlook": "With effective, sustained treatment, most people with HIV can live a long and healthy life and do not develop AIDS. A person who maintains an undetectable viral load does not transmit HIV through sex; outcomes are poorer when diagnosis or effective treatment is delayed.",
+    "reviewed": "2026-08-01",
+    "sources": [
+      {"name": "NHS: HIV and AIDS", "url": "https://www.nhs.uk/conditions/hiv-and-aids/"},
+      {"name": "CDC: About HIV", "url": "https://www.cdc.gov/hiv/about/index.html"}
+    ]
+  },
   "trialTerms": ["HIV", "HIV infection", "human immunodeficiency virus", "AIDS", "acquired immunodeficiency syndrome", "advanced HIV"],
   "publicationTerms": ["HIV", "HIV infection", "human immunodeficiency virus", "AIDS", "acquired immunodeficiency syndrome", "advanced HIV", "antiretroviral therapy", "HIV prevention"],
   "relevanceTerms": ["HIV/AIDS", "HIV", "HIV infection", "human immunodeficiency virus", "AIDS", "acquired immunodeficiency syndrome", "advanced HIV", "antiretroviral therapy", "antiretroviral treatment", "ART", "viral load", "viral suppression", "undetectable", "U=U", "PrEP", "pre-exposure prophylaxis", "PEP", "post-exposure prophylaxis", "HIV testing", "HIV prevention", "HIV cure", "HIV vaccine", "opportunistic infection", "CD4", "vertical transmission", "mother-to-child transmission", "HIV stigma"],

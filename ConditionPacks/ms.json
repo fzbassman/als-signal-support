@@ -3,6 +3,16 @@
   "id": "ms",
   "displayName": "Multiple Sclerosis",
   "description": "Curated terminology for multiple sclerosis research, trials, treatments and life with MS.",
+  "synopsis": {
+    "overview": "Multiple sclerosis (MS) is a condition in which the immune system damages the brain, spinal cord and the protective covering of nerves. It can disrupt messages between the brain and the body.",
+    "manifestations": "Possible symptoms include fatigue, vision problems, numbness or tingling, balance and coordination difficulties, muscle spasms or stiffness, bladder problems and changes in memory or concentration. Symptoms may relapse and remit or gradually progress, and each person is affected differently.",
+    "management": "There is no cure. Management may include disease-modifying therapies to reduce relapses or slow progression, steroids for some relapses, medicines for individual symptoms, rehabilitation, physiotherapy, occupational therapy and mobility support.",
+    "outlook": "The course of MS is unpredictable. Some people have limited effects on daily life while others develop substantial disability. Treatments and supportive care continue to improve; most people with MS live into old age, although average life expectancy is a few years shorter than in the general population.",
+    "reviewed": "2026-08-01",
+    "sources": [
+      {"name": "NHS: Multiple sclerosis", "url": "https://www.nhs.uk/conditions/multiple-sclerosis/"}
+    ]
+  },
   "trialTerms": [
     "multiple sclerosis",
     "relapsing-remitting multiple sclerosis",
