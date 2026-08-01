@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "muscular-dystrophy",
+  "displayName": "Muscular Dystrophy",
+  "description": "Curated terminology and sources for Muscular Dystrophy, including research, treatment, daily life, caregiving and advocacy. This pack is not medical advice.",
+  "trialTerms": [
+    "Muscular Dystrophy"
+  ],
+  "publicationTerms": [
+    "Muscular Dystrophy"
+  ],
+  "relevanceTerms": [
+    "Muscular Dystrophy",
+    "clinical trial",
+    "research",
+    "treatment",
+    "therapy",
+    "support",
+    "caregiver",
+    "carer",
+    "advocacy",
+    "MD"
+  ],
+  "topics": [
+    {
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "terms": [
+        "clinical trial",
+        "clinical study",
+        "recruiting",
+        "participant",
+        "enrollment",
+        "enrolment"
+      ]
+    },
+    {
+      "id": "treatments",
+      "heading": "Treatment and prevention",
+      "terms": [
+        "treatment",
+        "therapy",
+        "medicine",
+        "medication",
+        "care",
+        "prevention",
+        "monitoring"
+      ]
+    },
+    {
+      "id": "research",
+      "heading": "Muscular Dystrophy research",
+      "terms": [
+        "research",
+        "study",
+        "scientist",
+        "discovery",
+        "innovation",
+        "clinical research"
+      ]
+    },
+    {
+      "id": "genetics",
+      "heading": "Biology, immunity and genetics",
+      "terms": [
+        "genetic",
+        "genetics",
+        "gene",
+        "genome",
+        "risk factor",
+        "immune",
+        "biology"
+      ]
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with Muscular Dystrophy",
+      "terms": [
+        "living with Muscular Dystrophy",
+        "daily life",
+        "quality of life",
+        "self-management",
+        "self management",
+        "peer support"
+      ]
+    },
+    {
+      "id": "caregiving",
+      "heading": "Caregiving and support",
+      "terms": [
+        "caregiver",
+        "caregiving",
+        "carer",
+        "care partner",
+        "family support",
+        "peer support"
+      ]
+    },
+    {
+      "id": "advocacy",
+      "heading": "Advocacy and awareness",
+      "terms": [
+        "advocacy",
+        "awareness",
+        "public health",
+        "policy",
+        "foundation",
+        "funding",
+        "access",
+        "stigma"
+      ]
+    }
+  ],
+  "defaultTopics": [
+    "clinicalTrials",
+    "treatments",
+    "research",
+    "genetics",
+    "livingWithAls",
+    "caregiving",
+    "advocacy"
+  ],
+  "sourceIds": [
+    "nih-news-releases",
+    "nih-research-matters"
+  ],
+  "externalSources": [],
+  "donationLinks": []
+}
