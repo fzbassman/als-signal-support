@@ -2,119 +2,70 @@
   "schemaVersion": 1,
   "id": "hiv-aids",
   "displayName": "HIV/AIDS",
-  "description": "Curated terminology and sources for HIV/AIDS, including research, treatment, daily life, caregiving and advocacy. This pack is not medical advice.",
-  "trialTerms": [
-    "HIV/AIDS"
-  ],
-  "publicationTerms": [
-    "HIV/AIDS"
-  ],
-  "relevanceTerms": [
-    "HIV/AIDS",
-    "clinical trial",
-    "research",
-    "treatment",
-    "therapy",
-    "support",
-    "caregiver",
-    "carer",
-    "advocacy"
-  ],
+  "description": "Curated terminology and sources for HIV/AIDS, including testing, prevention, treatment, research, daily life, caregiving and advocacy. This pack is not medical advice.",
+  "trialTerms": ["HIV", "HIV infection", "human immunodeficiency virus", "AIDS", "acquired immunodeficiency syndrome", "advanced HIV"],
+  "publicationTerms": ["HIV", "HIV infection", "human immunodeficiency virus", "AIDS", "acquired immunodeficiency syndrome", "advanced HIV", "antiretroviral therapy", "HIV prevention"],
+  "relevanceTerms": ["HIV/AIDS", "HIV", "HIV infection", "human immunodeficiency virus", "AIDS", "acquired immunodeficiency syndrome", "advanced HIV", "antiretroviral therapy", "antiretroviral treatment", "ART", "viral load", "viral suppression", "undetectable", "U=U", "PrEP", "pre-exposure prophylaxis", "PEP", "post-exposure prophylaxis", "HIV testing", "HIV prevention", "HIV cure", "HIV vaccine", "opportunistic infection", "CD4", "vertical transmission", "mother-to-child transmission", "HIV stigma"],
   "topics": [
+    {"id": "clinicalTrials", "heading": "Clinical trials", "terms": ["clinical trial", "clinical study", "phase 1", "phase 2", "phase 3", "participant", "enrollment", "recruiting", "investigational"]},
+    {"id": "treatments", "heading": "Treatment and prevention", "terms": ["treatment", "therapy", "antiretroviral", "ART", "viral suppression", "viral load", "PrEP", "pre-exposure prophylaxis", "PEP", "post-exposure prophylaxis", "long-acting injectable"]},
+    {"id": "research", "heading": "HIV/AIDS research", "terms": ["research", "study", "scientist", "HIV cure", "HIV vaccine", "reservoir", "remission", "prevention", "innovation"]},
+    {"id": "genetics", "heading": "Virology, immunity and genetics", "terms": ["virus", "viral", "immune", "immunity", "antibody", "broadly neutralizing antibody", "genetic", "genome", "mutation", "resistance", "CD4"]},
+    {"id": "livingWithAls", "heading": "Living with HIV", "terms": ["living with HIV", "quality of life", "mental health", "wellbeing", "self-management", "adherence", "peer support", "workplace", "aging with HIV", "ageing with HIV"]},
+    {"id": "caregiving", "heading": "Caregiving and support", "terms": ["caregiver", "caregiving", "carer", "caring", "family support", "care partner", "peer support", "community support"]},
+    {"id": "advocacy", "heading": "Advocacy and access", "terms": ["advocacy", "awareness", "public health", "testing", "access", "affordability", "policy", "foundation", "funding", "stigma", "discrimination", "U=U"]}
+  ],
+  "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
+  "sourceIds": ["nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "yahoo-health", "rnz-world", "lifearc"],
+  "externalSources": [
     {
-      "id": "clinicalTrials",
-      "heading": "Clinical trials",
-      "terms": [
-        "clinical trial",
-        "clinical study",
-        "recruiting",
-        "participant",
-        "enrollment",
-        "enrolment"
-      ]
+      "id": "medicinenet-hiv",
+      "name": "MedicineNet · HIV",
+      "url": "https://www.medicinenet.com/rss/general/hiv.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Express RSS syndication permission; HIV channel",
+      "sourceDetails": {
+        "publisher": "MedicineNet / WebMD LLC",
+        "classification": "HIV RSS with express syndication permission",
+        "reviewed": "1 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "MedicineNet expressly encourages use and website syndication of its health and medical RSS feeds provided the entire article is not posted and proper attribution and links back to MedicineNet are supplied.",
+        "commercial_use": "Permitted for RSS syndication subject to the publisher's stated conditions; broader content use is not included.",
+        "attribution": "Credit MedicineNet and link to the original article.",
+        "termsUrl": "https://www.medicinenet.com/rss_feeds_and_news_syndication/info.htm",
+        "rights_or_corrections_contact": "https://www.medicinenet.com/about_us/info.htm",
+        "notes": "Official HIV RSS channel. Disabled by default and locally filtered for explicit HIV/AIDS relevance; no description, image or article body is stored or displayed.",
+        "termsExcerpt": "MedicineNet permits RSS syndication with proper attribution and backlinks provided the entire article is not posted."
+      }
     },
     {
-      "id": "treatments",
-      "heading": "Treatments",
-      "terms": [
-        "treatment",
-        "therapy",
-        "medicine",
-        "medication",
-        "care"
-      ]
-    },
-    {
-      "id": "research",
-      "heading": "HIV/AIDS research",
-      "terms": [
-        "research",
-        "study",
-        "scientist",
-        "discovery",
-        "innovation"
-      ]
-    },
-    {
-      "id": "genetics",
-      "heading": "Genetics and risk",
-      "terms": [
-        "genetic",
-        "genetics",
-        "gene",
-        "genome",
-        "risk factor"
-      ]
-    },
-    {
-      "id": "livingWithAls",
-      "heading": "Living with HIV/AIDS",
-      "terms": [
-        "living with HIV/AIDS",
-        "daily life",
-        "quality of life",
-        "self-management",
-        "self management"
-      ]
-    },
-    {
-      "id": "caregiving",
-      "heading": "Caregiving and support",
-      "terms": [
-        "caregiver",
-        "caregiving",
-        "carer",
-        "care partner",
-        "family support",
-        "peer support"
-      ]
-    },
-    {
-      "id": "advocacy",
-      "heading": "Advocacy and awareness",
-      "terms": [
-        "advocacy",
-        "awareness",
-        "public health",
-        "policy",
-        "foundation",
-        "funding"
-      ]
+      "id": "sciencedaily-hiv-aids",
+      "name": "ScienceDaily · HIV and AIDS",
+      "url": "https://www.sciencedaily.com/rss/health_medicine/hiv_and_aids.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Official topic RSS with stated RSS integration conditions",
+      "sourceDetails": {
+        "publisher": "ScienceDaily",
+        "classification": "HIV and AIDS research-news RSS",
+        "reviewed": "1 August 2026",
+        "fields_displayed": "Exact headline, publication date, ScienceDaily attribution and outbound link only",
+        "permission": "ScienceDaily permits RSS integration with attribution and links under its published terms; full stories may not be reproduced.",
+        "commercial_use": "Use is limited to the publisher's RSS conditions; broader reuse is not included.",
+        "attribution": "Credit ScienceDaily and link to the original item.",
+        "termsUrl": "https://www.sciencedaily.com/terms.htm",
+        "rights_or_corrections_contact": "https://www.sciencedaily.com/contact.htm",
+        "notes": "Verified official HIV and AIDS topic RSS. Disabled by default; no summary, image or article body is stored or displayed.",
+        "termsExcerpt": "RSS integration is permitted with attribution and an original-source link; full stories are excluded."
+      }
     }
   ],
-  "defaultTopics": [
-    "clinicalTrials",
-    "treatments",
-    "research",
-    "genetics",
-    "livingWithAls",
-    "caregiving",
-    "advocacy"
-  ],
-  "sourceIds": [
-    "nih-news-releases",
-    "nih-research-matters"
-  ],
-  "externalSources": [],
-  "donationLinks": []
+  "donationLinks": [
+    {"name": "Terrence Higgins Trust", "detail": "Supports people living with HIV and works on HIV prevention, testing and stigma across the UK.", "url": "https://terrencehigginstrust.donorsupport.co/page/FUNBQYWRCYY"},
+    {"name": "National AIDS Trust", "detail": "Supports UK policy, rights and advocacy work for people affected by HIV.", "url": "https://donate.nat.org.uk/?cid=1&lang=en_EN"},
+    {"name": "amfAR", "detail": "Funds HIV research and advocacy in the United States and internationally.", "url": "https://www.amfar.org/ways-to-support/"}
+  ]
 }
