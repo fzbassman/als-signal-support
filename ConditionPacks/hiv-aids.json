@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "hiv-aids",
+  "displayName": "HIV/AIDS",
+  "description": "Curated terminology and sources for HIV/AIDS, including research, treatment, daily life, caregiving and advocacy. This pack is not medical advice.",
+  "trialTerms": [
+    "HIV/AIDS"
+  ],
+  "publicationTerms": [
+    "HIV/AIDS"
+  ],
+  "relevanceTerms": [
+    "HIV/AIDS",
+    "clinical trial",
+    "research",
+    "treatment",
+    "therapy",
+    "support",
+    "caregiver",
+    "carer",
+    "advocacy"
+  ],
+  "topics": [
+    {
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "terms": [
+        "clinical trial",
+        "clinical study",
+        "recruiting",
+        "participant",
+        "enrollment",
+        "enrolment"
+      ]
+    },
+    {
+      "id": "treatments",
+      "heading": "Treatments",
+      "terms": [
+        "treatment",
+        "therapy",
+        "medicine",
+        "medication",
+        "care"
+      ]
+    },
+    {
+      "id": "research",
+      "heading": "HIV/AIDS research",
+      "terms": [
+        "research",
+        "study",
+        "scientist",
+        "discovery",
+        "innovation"
+      ]
+    },
+    {
+      "id": "genetics",
+      "heading": "Genetics and risk",
+      "terms": [
+        "genetic",
+        "genetics",
+        "gene",
+        "genome",
+        "risk factor"
+      ]
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with HIV/AIDS",
+      "terms": [
+        "living with HIV/AIDS",
+        "daily life",
+        "quality of life",
+        "self-management",
+        "self management"
+      ]
+    },
+    {
+      "id": "caregiving",
+      "heading": "Caregiving and support",
+      "terms": [
+        "caregiver",
+        "caregiving",
+        "carer",
+        "care partner",
+        "family support",
+        "peer support"
+      ]
+    },
+    {
+      "id": "advocacy",
+      "heading": "Advocacy and awareness",
+      "terms": [
+        "advocacy",
+        "awareness",
+        "public health",
+        "policy",
+        "foundation",
+        "funding"
+      ]
+    }
+  ],
+  "defaultTopics": [
+    "clinicalTrials",
+    "treatments",
+    "research",
+    "genetics",
+    "livingWithAls",
+    "caregiving",
+    "advocacy"
+  ],
+  "sourceIds": [
+    "nih-news-releases",
+    "nih-research-matters"
+  ],
+  "externalSources": [],
+  "donationLinks": []
+}
