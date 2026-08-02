@@ -54,13 +54,13 @@
     "living with ms"
   ],
   "topics": [
-    {"id": "clinicalTrials", "heading": "Clinical trials", "terms": ["clinical trial", "clinicaltrials", "phase 1", "phase 2", "phase 3", "participant", "enrollment", "recruiting"]},
-    {"id": "treatments", "heading": "Treatments", "terms": ["treatment", "therapy", "therapeutic", "drug", "medicine", "ocrelizumab", "ofatumumab", "natalizumab", "siponimod", "cladribine", "alemtuzumab", "dimethyl fumarate", "glatiramer acetate", "interferon beta", "ublituximab"]},
-    {"id": "research", "heading": "Research", "terms": ["research", "study", "scientist", "discovery", "biomarker", "neuroinflammation", "myelin", "oligodendrocyte", "optic neuritis", "transverse myelitis"]},
-    {"id": "genetics", "heading": "Genetics", "terms": ["genetic", "gene", "mutation", "hereditary", "familial"]},
-    {"id": "livingWithAls", "heading": "Living with MS", "terms": ["living with ms", "quality of life", "assistive", "accessibility", "mobility", "fatigue", "spasticity", "cognition", "rehabilitation", "support services"]},
-    {"id": "caregiving", "heading": "Caregiving", "terms": ["caregiver", "caregiving", "carer", "care partner", "family support", "palliative", "hospice"]},
-    {"id": "advocacy", "heading": "Advocacy", "terms": ["advocacy", "advocate", "awareness", "fundraising", "community", "policy", "campaign", "legislation"]}
+    {"id": "clinicalTrials", "heading": "Clinical trials", "description": "Registered multiple sclerosis studies, including recruitment, study progress and reported results. A listing does not indicate eligibility or that a study is recommended.", "terms": ["clinical trial", "clinicaltrials", "phase 1", "phase 2", "phase 3", "participant", "enrollment", "recruiting"]},
+    {"id": "treatments", "heading": "Treatments", "description": "Disease-modifying medicines, relapse and symptom management, rehabilitation and supportive care for multiple sclerosis.", "terms": ["treatment", "therapy", "therapeutic", "drug", "medicine", "ocrelizumab", "ofatumumab", "natalizumab", "siponimod", "cladribine", "alemtuzumab", "dimethyl fumarate", "glatiramer acetate", "interferon beta", "ublituximab"]},
+    {"id": "research", "heading": "Research", "description": "Research into myelin, neuroinflammation, progression, repair, biomarkers and new approaches to MS care and treatment.", "terms": ["research", "study", "scientist", "discovery", "biomarker", "neuroinflammation", "myelin", "oligodendrocyte", "optic neuritis", "transverse myelitis"]},
+    {"id": "genetics", "heading": "Genetics", "description": "Inherited susceptibility and genetic or biological factors studied in the development and course of multiple sclerosis.", "terms": ["genetic", "gene", "mutation", "hereditary", "familial"]},
+    {"id": "livingWithAls", "heading": "Living with MS", "description": "Daily life with MS, including fatigue, mobility, cognition, work, exercise, rehabilitation and quality of life.", "terms": ["living with ms", "quality of life", "assistive", "accessibility", "mobility", "fatigue", "spasticity", "cognition", "rehabilitation", "support services"]},
+    {"id": "caregiving", "heading": "Caregiving", "description": "Practical and emotional information for families and care partners, including respite, home support and palliative care.", "terms": ["caregiver", "caregiving", "carer", "care partner", "family support", "palliative", "hospice"]},
+    {"id": "advocacy", "heading": "Advocacy", "description": "MS awareness, disability rights, access to treatment and services, public policy and research support.", "terms": ["advocacy", "advocate", "awareness", "fundraising", "community", "policy", "campaign", "legislation"]}
   ],
   "defaultTopics": [
     "clinicalTrials",

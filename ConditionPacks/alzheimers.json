@@ -54,6 +54,7 @@
     {
       "id": "clinicalTrials",
       "heading": "Clinical trials",
+      "description": "Registered Alzheimer's disease studies, including recruitment, study progress and reported results. A listing does not indicate eligibility or that a study is recommended.",
       "terms": [
         "clinical trial",
         "clinicaltrials",
@@ -68,6 +69,7 @@
     {
       "id": "treatments",
       "heading": "Treatments and diagnostics",
+      "description": "Medicines, symptom management, diagnostic methods and supportive care used or studied for Alzheimer's disease and related dementia.",
       "terms": [
         "treatment",
         "therapy",
@@ -85,6 +87,7 @@
     {
       "id": "research",
       "heading": "Research",
+      "description": "Research into memory and cognition, amyloid, tau, neuroinflammation, biomarkers and the progression of Alzheimer's disease.",
       "terms": [
         "research",
         "study",
@@ -100,6 +103,7 @@
     {
       "id": "genetics",
       "heading": "Genetics and biomarkers",
+      "description": "Inherited risk, familial Alzheimer's disease, genes such as APOE and biological markers studied for detection and progression.",
       "terms": [
         "genetic",
         "gene",
@@ -113,6 +117,7 @@
     {
       "id": "livingWithAls",
       "heading": "Living with Alzheimer's",
+      "description": "Daily life with memory and cognitive changes, including communication, independence, safety, routines and wellbeing.",
       "terms": [
         "living with dementia",
         "quality of life",
@@ -127,6 +132,7 @@
     {
       "id": "caregiving",
       "heading": "Caregiving",
+      "description": "Practical and emotional information for families and care partners, including respite, coordinated, residential and palliative care.",
       "terms": [
         "caregiver",
         "caregiving",
@@ -141,6 +147,7 @@
     {
       "id": "advocacy",
       "heading": "Advocacy and community",
+      "description": "Dementia awareness, inclusive communities, access to support, public policy and research advocacy.",
       "terms": [
         "advocacy",
         "advocate",

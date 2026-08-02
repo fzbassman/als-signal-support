@@ -56,36 +56,43 @@
     {
       "id": "clinicalTrials",
       "heading": "Clinical trials",
+      "description": "Registered thoracic aortic aneurysm studies, including recruitment, progress and reported results. A listing does not indicate eligibility or that a study is recommended.",
       "terms": ["thoracic aortic aneurysm clinical trial", "aortic repair clinical trial", "clinical study", "recruiting", "enrollment", "enrolment", "trial results"]
     },
     {
       "id": "treatments",
       "heading": "Monitoring and treatment",
+      "description": "Imaging surveillance, blood-pressure management and open or endovascular procedures used in thoracic aortic aneurysm care.",
       "terms": ["surveillance imaging", "echocardiography", "CT angiography", "magnetic resonance angiography", "blood pressure management", "open aortic repair", "thoracic endovascular aortic repair", "TEVAR", "valve-sparing aortic root replacement"]
     },
     {
       "id": "research",
       "heading": "Aortic research",
+      "description": "Research into aortic-wall biology, biomechanics, aneurysm growth, dissection risk, imaging and approaches to repair.",
       "terms": ["thoracic aortic aneurysm research", "aortic biomechanics", "aneurysm growth", "risk prediction", "biomarker", "natural history", "registry", "clinical research"]
     },
     {
       "id": "genetics",
       "heading": "Genetics and inherited aortic disease",
+      "description": "Heritable thoracic aortic disease, relevant genes and syndromes, genetic testing and screening of relatives.",
       "terms": ["heritable thoracic aortic disease", "familial thoracic aortic aneurysm", "genetic testing", "genetic counselling", "genetic counseling", "family screening", "FBN1", "TGFBR1", "TGFBR2", "ACTA2"]
     },
     {
       "id": "livingWithAls",
       "heading": "Living with thoracic aortic aneurysm",
+      "description": "Daily life with a thoracic aortic aneurysm, including surveillance, activity, anxiety, pregnancy considerations and recovery from repair.",
       "terms": ["living with thoracic aortic aneurysm", "aortic surveillance", "quality of life", "physical activity", "blood pressure monitoring", "mental health", "anxiety", "recovery after aortic surgery"]
     },
     {
       "id": "caregiving",
       "heading": "Caregiving and support",
+      "description": "Practical and emotional support around surveillance, surgery and recovery, including family, peer and bereavement resources.",
       "terms": ["aortic disease caregiver", "aortic disease carer", "family support", "care partner", "peer support", "bereavement support", "surgical recovery support"]
     },
     {
       "id": "advocacy",
       "heading": "Awareness and access",
+      "description": "Aortic-disease awareness, timely imaging and diagnosis, access to specialist care, public policy and research support.",
       "terms": ["thoracic aortic aneurysm awareness", "aortic disease advocacy", "aortic dissection awareness", "access to imaging", "specialist aortic care", "research funding", "patient voice", "health policy"]
     }
   ],

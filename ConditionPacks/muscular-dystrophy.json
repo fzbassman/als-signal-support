@@ -41,6 +41,7 @@
     {
       "id": "clinicalTrials",
       "heading": "Clinical trials",
+      "description": "Registered muscular dystrophy studies, including recruitment, study progress and reported results. A listing does not indicate eligibility or that a study is recommended.",
       "terms": [
         "muscular dystrophy clinical trial",
         "Duchenne muscular dystrophy clinical trial",
@@ -55,6 +56,7 @@
     {
       "id": "treatments",
       "heading": "Treatments and care",
+      "description": "Type-specific medicines and multidisciplinary care, including rehabilitation and respiratory, cardiac, orthopaedic and supportive care.",
       "terms": [
         "muscular dystrophy treatment",
         "gene-based therapy",
@@ -69,6 +71,7 @@
     {
       "id": "research",
       "heading": "Research",
+      "description": "Research into muscle biology, disease progression, biomarkers, natural history and new approaches across muscular dystrophy types.",
       "terms": [
         "muscular dystrophy research",
         "neuromuscular research",
@@ -83,6 +86,7 @@
     {
       "id": "genetics",
       "heading": "Genetics",
+      "description": "Genes, inheritance, testing and gene-targeted or molecular approaches across the different muscular dystrophies.",
       "terms": [
         "muscular dystrophy genetics",
         "genetic mutation",
@@ -97,6 +101,7 @@
     {
       "id": "livingWithAls",
       "heading": "Living with muscular dystrophy",
+      "description": "Daily life with muscular dystrophy, including mobility, breathing and cardiac care, accessibility, education, work and independence.",
       "terms": [
         "living with muscular dystrophy",
         "mobility support",
@@ -111,6 +116,7 @@
     {
       "id": "caregiving",
       "heading": "Caregiving",
+      "description": "Family and professional caregiving, respite, equipment, home adaptations and transitions between child and adult services.",
       "terms": [
         "muscular dystrophy caregiver",
         "family caregiving",
@@ -125,6 +131,7 @@
     {
       "id": "advocacy",
       "heading": "Advocacy",
+      "description": "Muscular dystrophy awareness, disability rights, access to specialist care and technology, public policy and research support.",
       "terms": [
         "muscular dystrophy advocacy",
         "research funding",

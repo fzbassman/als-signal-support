@@ -49,36 +49,43 @@
     {
       "id": "clinicalTrials",
       "heading": "Clinical trials",
+      "description": "Registered Marfan syndrome studies, including recruitment, study progress and reported results. A listing does not indicate eligibility or that a study is recommended.",
       "terms": ["clinical trial", "clinical study", "recruiting", "enrollment", "participant", "investigational", "ClinicalTrials.gov"]
     },
     {
       "id": "treatments",
       "heading": "Treatment and monitoring",
+      "description": "Cardiovascular, eye and orthopaedic monitoring and care, including medicines and surgical approaches used in Marfan syndrome.",
       "terms": ["treatment", "therapy", "monitoring", "beta blocker", "angiotensin receptor blocker", "losartan", "irbesartan", "AIMS trial", "surgery", "aortic root replacement", "aortic valve repair", "mitral valve repair", "PEARS", "personalised external aortic root support", "echocardiogram", "CT scan", "MRI"]
     },
     {
       "id": "research",
       "heading": "Marfan research",
+      "description": "Research into connective tissue, fibrillin, aortic disease, skeletal and eye manifestations and improved monitoring or care.",
       "terms": ["research", "study", "scientist", "biomarker", "aortopathy", "connective tissue", "fibrillin", "TGF-beta", "translational"]
     },
     {
       "id": "genetics",
       "heading": "Genetics and diagnosis",
+      "description": "FBN1 and other genetic findings, inheritance, diagnosis, testing, family screening and reproductive information.",
       "terms": ["FBN1", "fibrillin-1", "genetic testing", "gene variant", "mutation", "de novo mutation", "germline mosaicism", "cascade predictive testing", "preimplantation genetic testing", "preimplantation genetic diagnosis", "PGD", "chorionic villus sampling", "amniocentesis", "autosomal dominant", "diagnosis", "Ghent criteria", "Ghent nosology", "family history"]
     },
     {
       "id": "livingWithAls",
       "heading": "Living with Marfan syndrome",
+      "description": "Daily life with Marfan syndrome, including activity, pregnancy, pain, fatigue, surveillance and managing varied body-system effects.",
       "terms": ["living with Marfan", "quality of life", "exercise", "physical activity", "school", "work", "pregnancy", "mental health", "chronic pain", "fatigue", "spondylolisthesis", "daily living", "self-management"]
     },
     {
       "id": "caregiving",
       "heading": "Caregiving and support",
+      "description": "Family, specialist-clinic and community support for children and adults living with Marfan syndrome.",
       "terms": ["caregiver", "caregiving", "carer", "care partner", "family support", "parent", "child", "support group", "clinic directory"]
     },
     {
       "id": "advocacy",
       "heading": "Awareness and advocacy",
+      "description": "Marfan and rare-disease awareness, timely diagnosis, access to specialist care, policy and research support.",
       "terms": ["awareness", "advocacy", "community", "foundation", "policy", "patient organization", "rare disease", "education", "funding"]
     }
   ],

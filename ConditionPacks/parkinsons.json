@@ -55,36 +55,43 @@
     {
       "id": "clinicalTrials",
       "heading": "Clinical trials",
+      "description": "Registered Parkinson's disease studies, including recruitment, study progress and reported results. A listing does not indicate eligibility or that a study is recommended.",
       "terms": ["clinical trial", "clinical study", "recruiting", "enrollment", "participant", "investigational", "ClinicalTrials.gov"]
     },
     {
       "id": "treatments",
       "heading": "Treatment and management",
+      "description": "Medicines, deep brain stimulation, exercise, rehabilitation and supportive therapies used to manage Parkinson's symptoms.",
       "terms": ["treatment", "therapy", "levodopa", "carbidopa", "dopamine agonist", "MAO-B inhibitor", "COMT inhibitor", "amantadine", "deep brain stimulation", "DBS", "focused ultrasound", "physiotherapy", "physical therapy", "occupational therapy", "speech therapy", "exercise", "medication management"]
     },
     {
       "id": "research",
       "heading": "Parkinson's research",
+      "description": "Research into dopamine, alpha-synuclein, progression, biomarkers, neuroprotection and new approaches to care and treatment.",
       "terms": ["research", "study", "scientist", "biomarker", "alpha-synuclein", "synuclein", "Lewy body", "dopamine neuron", "neuroprotection", "disease-modifying", "PPMI", "stem cell", "gene therapy"]
     },
     {
       "id": "genetics",
       "heading": "Genetics and diagnosis",
+      "description": "Genetic contributors, testing, biomarkers and diagnostic research for Parkinson's disease and related parkinsonism.",
       "terms": ["genetic testing", "gene variant", "familial Parkinson", "LRRK2", "GBA1", "SNCA", "PRKN", "PARK2", "PINK1", "PARK7", "DJ-1", "VPS35", "diagnosis", "DaTscan", "dopamine transporter scan"]
     },
     {
       "id": "livingWithAls",
       "heading": "Living with Parkinson's",
+      "description": "Daily life with movement and non-movement symptoms, including exercise, communication, sleep, work, driving and wellbeing.",
       "terms": ["living with Parkinson", "quality of life", "daily living", "mobility", "freezing of gait", "falls", "sleep", "fatigue", "constipation", "speech", "swallowing", "mental health", "depression", "anxiety", "driving", "work", "self-management"]
     },
     {
       "id": "caregiving",
       "heading": "Care partners and support",
+      "description": "Practical and emotional information for care partners, including respite, home support, coordinated and palliative care.",
       "terms": ["care partner", "caregiver", "caregiving", "carer", "family support", "respite", "support group", "home care", "palliative care", "helpline"]
     },
     {
       "id": "advocacy",
       "heading": "Awareness and advocacy",
+      "description": "Parkinson's awareness, access to specialist services, public policy, community action and research support.",
       "terms": ["awareness", "advocacy", "community", "foundation", "charity", "policy", "patient organization", "education", "research funding", "World Parkinson's Day"]
     }
   ],

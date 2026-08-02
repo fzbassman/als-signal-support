@@ -54,36 +54,43 @@
     {
       "id": "clinicalTrials",
       "heading": "Clinical trials",
+      "description": "Registered ALS and motor neurone disease studies, including recruitment, study progress and reported results. A listing does not indicate eligibility or that a study is recommended.",
       "terms": ["clinical trial", "clinicaltrials", "phase 1", "phase 2", "phase 3", "participant", "enrollment", "recruiting"]
     },
     {
       "id": "treatments",
       "heading": "Treatments",
+      "description": "Medicines and multidisciplinary ALS care, including symptom management, respiratory and nutritional support, rehabilitation and assistive care.",
       "terms": ["treatment", "therapy", "therapeutic", "drug", "medicine", "riluzole", "edaravone", "tofersen"]
     },
     {
       "id": "research",
       "heading": "Research",
+      "description": "Research into motor-neuron biology, disease progression, biomarkers and new approaches to ALS care and treatment.",
       "terms": ["research", "study", "scientist", "discovery", "biomarker", "neuron", "laboratory"]
     },
     {
       "id": "genetics",
       "heading": "Genetics",
+      "description": "Inherited and genetic contributors to ALS, including genes such as C9orf72 and SOD1 and research into gene-targeted approaches.",
       "terms": ["genetic", "gene", "mutation", "c9orf72", "sod1", "fus ", "tardbp", "hereditary"]
     },
     {
       "id": "livingWithAls",
       "heading": "Living with ALS",
+      "description": "Daily life with ALS, including mobility, communication, nutrition, breathing support, accessibility and quality of life.",
       "terms": ["living with", "quality of life", "assistive", "assistive technology", "accessibility", "voice preservation", "voice banking", "message banking", "synthetic voice", "communication device", "speech generating device", "eye gaze", "wheelchair", "mobility equipment", "adventure", "pals", "mobility", "communication", "nutrition", "respiratory", "resources"]
     },
     {
       "id": "caregiving",
       "heading": "Caregiving",
+      "description": "Practical and emotional information for family, professional and community caregivers, including coordinated, palliative and respite care.",
       "terms": ["caregiver", "caregiving", "carer", "care partner", "care services", "support services", "family support", "family care", "palliative", "hospice"]
     },
     {
       "id": "advocacy",
       "heading": "Advocacy",
+      "description": "ALS awareness, access, public policy, community action and fundraising for care and research.",
       "terms": ["advocacy", "advocate", "awareness", "fundraising", "partnership", "community", "policy", "campaign", "legislation"]
     }
   ],
