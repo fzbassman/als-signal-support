@@ -60,6 +60,12 @@
       "displayName": "Thoracic Aortic Aneurysm",
       "version": 1,
       "asset": "assets/condition_packs/thoracic-aortic-aneurysm.json"
+    },
+    {
+      "id": "follicular-lymphoma",
+      "displayName": "Follicular Lymphoma",
+      "version": 1,
+      "asset": "assets/condition_packs/follicular-lymphoma.json"
     }
   ]
 }

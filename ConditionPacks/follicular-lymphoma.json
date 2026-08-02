@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "id": "follicular-lymphoma",
+  "displayName": "Follicular Lymphoma",
+  "description": "A focused information-discovery profile for follicular lymphoma, including grades 1, 2 and 3A, relapsed or refractory disease and transformation. It does not provide medical advice, recommend treatment or studies, assess eligibility, or interpret findings.",
+  "synopsis": {
+    "overview": "Follicular lymphoma is a B-cell non-Hodgkin lymphoma in which abnormal lymphocytes usually grow slowly in lymph nodes and sometimes in bone marrow or other tissues. It is commonly described as an indolent lymphoma, although its behaviour and grade can vary.",
+    "manifestations": "Some people have no symptoms when it is found. Possible manifestations include painless swollen lymph nodes, tiredness, fever, drenching night sweats, unexplained weight loss or symptoms caused by enlarged nodes or involvement of other tissues. These symptoms can have many other causes.",
+    "management": "Management depends on symptoms, disease extent, grade, previous treatment and general health. It can include active monitoring without immediate treatment, radiotherapy for selected localised disease, antibody treatment with or without chemotherapy, targeted or immune-based medicines, and cellular therapy or stem-cell transplantation in selected relapsed disease.",
+    "outlook": "The course varies widely. Many people live with follicular lymphoma for years through periods of remission and relapse, while some have disease that progresses earlier or transforms into a faster-growing lymphoma. Individual outlook depends on several clinical and biological factors and response to treatment.",
+    "reviewed": "2026-08-02",
+    "sources": [
+      {
+        "name": "NCI Dictionary of Cancer Terms: Follicular lymphoma",
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/follicular-lymphoma"
+      },
+      {
+        "name": "NHS: Non-Hodgkin lymphoma",
+        "url": "https://www.nhs.uk/conditions/non-hodgkin-lymphoma/"
+      }
+    ]
+  },
+  "trialTerms": [
+    "Follicular Lymphoma",
+    "Follicular Lymphoma Grade 1",
+    "Follicular Lymphoma Grade 2",
+    "Follicular Lymphoma Grade 3A",
+    "Relapsed Follicular Lymphoma",
+    "Refractory Follicular Lymphoma",
+    "Transformed Follicular Lymphoma"
+  ],
+  "publicationTerms": [
+    "follicular lymphoma",
+    "grade 1 follicular lymphoma",
+    "grade 2 follicular lymphoma",
+    "grade 3A follicular lymphoma",
+    "relapsed follicular lymphoma",
+    "refractory follicular lymphoma",
+    "transformed follicular lymphoma",
+    "follicular lymphoma transformation",
+    "follicular lymphoma treatment",
+    "follicular lymphoma prognosis"
+  ],
+  "relevanceTerms": [
+    "follicular lymphoma",
+    "follicular lymphomas",
+    "follicular non-Hodgkin lymphoma",
+    "follicular non-Hodgkin's lymphoma",
+    "grade 1 follicular lymphoma",
+    "grade 2 follicular lymphoma",
+    "grade 3A follicular lymphoma",
+    "relapsed follicular lymphoma",
+    "refractory follicular lymphoma",
+    "transformed follicular lymphoma",
+    "follicular lymphoma transformation"
+  ],
+  "topics": [
+    {
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "description": "Registered follicular lymphoma studies, including recruitment, study progress and reported results. A listing does not indicate eligibility or that a study is recommended.",
+      "terms": ["follicular lymphoma clinical trial", "follicular lymphoma clinical study", "phase 1", "phase 2", "phase 3", "recruiting", "enrollment", "enrolment", "trial results"],
+      "termDefinitions": {
+        "phase 1": "An early clinical-trial phase that primarily examines safety, dose and how an intervention behaves in the body.",
+        "phase 2": "A clinical-trial phase that further examines safety and whether an intervention shows activity in the condition being studied.",
+        "phase 3": "A later clinical-trial phase that usually compares an intervention with an existing approach in a larger group.",
+        "recruiting": "A study status indicating that the research team is currently seeking participants.",
+        "enrollment": "The process and recorded number of people joining a clinical study; UK spelling is enrolment.",
+        "enrolment": "The process and recorded number of people joining a clinical study; US spelling is enrollment."
+      }
+    },
+    {
+      "id": "treatments",
+      "heading": "Treatment and monitoring",
+      "description": "Active monitoring, radiotherapy, antibody and drug combinations, targeted medicines, cellular therapies and transplantation studied or used in follicular lymphoma care.",
+      "terms": ["watch and wait", "active surveillance", "radiotherapy", "rituximab", "obinutuzumab", "bendamustine", "lenalidomide", "tazemetostat", "bispecific antibody", "CAR T-cell therapy", "stem cell transplant"],
+      "termDefinitions": {
+        "watch and wait": "Regular monitoring without immediate treatment while lymphoma is not causing problems that require therapy; it is also called active surveillance.",
+        "active surveillance": "Planned monitoring with assessments and tests before treatment is needed; it is sometimes called watch and wait.",
+        "radiotherapy": "Treatment that uses targeted high-energy radiation to damage cancer cells in a defined area.",
+        "rituximab": "An antibody medicine that targets the CD20 protein on B cells and is used in several B-cell lymphomas.",
+        "obinutuzumab": "An antibody medicine that targets CD20 on B cells and can be used in some follicular lymphoma treatment combinations.",
+        "bendamustine": "A chemotherapy medicine used in some treatment combinations for B-cell lymphomas.",
+        "lenalidomide": "An immune-modulating medicine used with other treatment in some forms of follicular lymphoma.",
+        "tazemetostat": "A targeted medicine that inhibits EZH2 and is used in some relapsed or refractory follicular lymphoma settings.",
+        "bispecific antibody": "An engineered antibody that binds two targets, commonly a lymphoma-cell marker and a T-cell marker, to bring immune cells to the cancer cell.",
+        "CAR T-cell therapy": "A cellular treatment in which a person's T cells are modified to recognise a target on cancer cells and returned to the body.",
+        "stem cell transplant": "A procedure that restores blood-forming stem cells after intensive treatment; its role depends on the disease and individual circumstances."
+      }
+    },
+    {
+      "id": "research",
+      "heading": "Follicular lymphoma research",
+      "description": "Research into lymphoma biology, the tumour microenvironment, biomarkers, treatment response, remission, relapse and transformation.",
+      "terms": ["follicular lymphoma research", "tumour microenvironment", "tumor microenvironment", "biomarker", "minimal residual disease", "measurable residual disease", "circulating tumour DNA", "circulating tumor DNA", "remission", "relapse", "transformation", "POD24"],
+      "termDefinitions": {
+        "tumour microenvironment": "The cancer cells together with nearby immune cells, support cells, signals and structures that can influence lymphoma behaviour; US spelling is tumor microenvironment.",
+        "tumor microenvironment": "The cancer cells together with nearby immune cells, support cells, signals and structures that can influence lymphoma behaviour; UK spelling is tumour microenvironment.",
+        "biomarker": "A measurable biological characteristic studied as a sign of disease, disease behaviour or response to an intervention.",
+        "minimal residual disease": "A very small amount of disease detectable with sensitive tests after treatment; it is increasingly called measurable residual disease.",
+        "measurable residual disease": "A very small amount of disease detectable with sensitive tests after treatment, also known as minimal residual disease.",
+        "circulating tumour DNA": "Small fragments of DNA released by tumour cells into the bloodstream that can be studied with a blood test; US spelling is circulating tumor DNA.",
+        "circulating tumor DNA": "Small fragments of DNA released by tumor cells into the bloodstream that can be studied with a blood test; UK spelling is circulating tumour DNA.",
+        "remission": "A period when signs and symptoms of lymphoma have reduced or are no longer detectable, although this does not always mean the disease cannot return.",
+        "relapse": "The return of lymphoma after a period of improvement or remission.",
+        "transformation": "A change in which follicular lymphoma develops features of a faster-growing lymphoma, most often diffuse large B-cell lymphoma.",
+        "POD24": "Progression of disease within 24 months, a research and risk term usually measured from the start of first-line treatment."
+      }
+    },
+    {
+      "id": "genetics",
+      "heading": "Biology, genetics and testing",
+      "description": "Chromosome changes, genes, proteins and diagnostic or prognostic tests studied in follicular lymphoma biology.",
+      "terms": ["B-cell", "CD20", "BCL2", "BCL6", "EZH2", "t(14;18)", "IGH::BCL2", "KMT2D", "CREBBP", "lymph node biopsy", "immunohistochemistry", "flow cytometry", "FLIPI"],
+      "termDefinitions": {
+        "B-cell": "A type of lymphocyte that normally helps the immune system by producing antibodies; follicular lymphoma develops from abnormal B cells.",
+        "CD20": "A protein found on many B cells and the target of antibody medicines including rituximab and obinutuzumab.",
+        "BCL2": "A protein that helps cells avoid programmed cell death; altered BCL2 regulation is common in follicular lymphoma.",
+        "BCL6": "A gene and protein involved in normal B-cell development that can also be altered in some lymphomas.",
+        "EZH2": "A gene encoding an enzyme involved in controlling gene activity; mutations are found in a subset of follicular lymphomas.",
+        "t(14;18)": "A chromosome rearrangement frequently found in follicular lymphoma that places BCL2 next to an immunoglobulin gene control region.",
+        "IGH::BCL2": "The gene-fusion notation commonly used for the result of the t(14;18) chromosome rearrangement.",
+        "KMT2D": "A gene involved in regulating gene activity that is frequently altered in follicular lymphoma research samples.",
+        "CREBBP": "A gene involved in regulating gene activity and immune signalling that is frequently altered in follicular lymphoma.",
+        "lymph node biopsy": "Removal of some or all of a lymph node so its cells and tissue structure can be examined to establish a diagnosis.",
+        "immunohistochemistry": "A laboratory method that uses antibodies to identify proteins in tissue and help classify lymphoma cells.",
+        "flow cytometry": "A laboratory method that measures markers on individual cells and can help characterise abnormal lymphocyte populations.",
+        "FLIPI": "The Follicular Lymphoma International Prognostic Index, a group-level risk tool based on clinical factors; it does not predict an individual's course with certainty."
+      }
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with follicular lymphoma",
+      "description": "Daily life during monitoring, treatment, remission or relapse, including symptoms, emotional wellbeing, work, relationships and follow-up care.",
+      "terms": ["living with follicular lymphoma", "quality of life", "fatigue", "B symptoms", "follow-up care", "scan anxiety", "mental health", "work and employment", "relationships", "remission", "relapse"],
+      "termDefinitions": {
+        "fatigue": "Persistent physical or mental tiredness that is not always relieved by rest and can have many causes.",
+        "B symptoms": "A lymphoma term for unexplained fever, drenching night sweats and significant unintentional weight loss.",
+        "follow-up care": "Planned appointments and assessments after diagnosis or treatment to review health, symptoms and any need for further investigation.",
+        "scan anxiety": "Worry or distress associated with having medical imaging or waiting for its results.",
+        "remission": "A period when signs and symptoms of lymphoma have reduced or are no longer detectable, although this does not always mean the disease cannot return.",
+        "relapse": "The return of lymphoma after a period of improvement or remission."
+      }
+    },
+    {
+      "id": "caregiving",
+      "heading": "Caregiving and support",
+      "description": "Practical and emotional support for people with follicular lymphoma and those close to them during monitoring, treatment and recovery.",
+      "terms": ["follicular lymphoma caregiver", "follicular lymphoma carer", "care partner", "family support", "peer support", "care coordination", "treatment support", "respite care", "support group"]
+    },
+    {
+      "id": "advocacy",
+      "heading": "Awareness and access",
+      "description": "Follicular lymphoma awareness, access to specialist care and medicines, research participation, patient involvement, policy and funding.",
+      "terms": ["follicular lymphoma advocacy", "follicular lymphoma awareness", "access to treatment", "specialist lymphoma care", "patient involvement", "patient voice", "research funding", "drug approval", "health policy"],
+      "termDefinitions": {
+        "patient involvement": "Research or service-development activity carried out with or by patients and the public, rather than research conducted about them alone.",
+        "drug approval": "A regulator's authorisation for a medicine to be marketed for specified uses after reviewing evidence on quality, safety and effectiveness."
+      }
+    }
+  ],
+  "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
+  "sourceIds": ["nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "lifearc"],
+  "externalSources": [
+    {
+      "id": "medicinenet-cancer-follicular-lymphoma",
+      "name": "MedicineNet · Cancer",
+      "url": "https://www.medicinenet.com/rss/general/cancer.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Express RSS syndication permission; broad cancer channel",
+      "sourceDetails": {
+        "publisher": "MedicineNet / WebMD LLC",
+        "classification": "Broad cancer RSS with express syndication permission; locally filtered",
+        "reviewed": "2 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "MedicineNet encourages website syndication of its RSS feeds when the entire article is not posted and proper attribution and links are supplied.",
+        "commercial_use": "Permitted for RSS syndication subject to the publisher's conditions; broader content use is not included.",
+        "attribution": "Credit MedicineNet and link to the original article.",
+        "termsUrl": "https://www.medicinenet.com/rss_feeds_and_news_syndication/info.htm",
+        "rights_or_corrections_contact": "https://www.medicinenet.com/about_us/info.htm",
+        "notes": "Verified HTTP 200 XML cancer feed. Disabled and locally filtered for full follicular-lymphoma phrases; no summary, image or article body is stored or displayed.",
+        "termsExcerpt": "MedicineNet permits RSS syndication with attribution and backlinks when the entire article is not posted."
+      }
+    },
+    {
+      "id": "sciencedaily-lymphoma-follicular-lymphoma",
+      "name": "ScienceDaily · Lymphoma",
+      "url": "https://www.sciencedaily.com/rss/health_medicine/lymphoma.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Official broad topic RSS with stated integration conditions",
+      "sourceDetails": {
+        "publisher": "ScienceDaily",
+        "classification": "Broad lymphoma research RSS; locally filtered",
+        "reviewed": "2 August 2026",
+        "fields_displayed": "Exact headline, publication date, ScienceDaily attribution and outbound link only",
+        "permission": "ScienceDaily permits integration of RSS feeds with attribution and links under its published terms; full stories may not be reproduced.",
+        "commercial_use": "RSS use is permitted for commercial and non-commercial organizations subject to the publisher's conditions; users may not charge for the feed content.",
+        "attribution": "Credit ScienceDaily and link directly to the original story.",
+        "termsUrl": "https://www.sciencedaily.com/terms.htm",
+        "rights_or_corrections_contact": "https://www.sciencedaily.com/contact.htm",
+        "notes": "Verified HTTP 200 XML lymphoma feed. Disabled and locally filtered for full follicular-lymphoma phrases; no summary, image or article body is stored or displayed.",
+        "termsExcerpt": "ScienceDaily encourages RSS integration with attribution and original-story links while excluding full-text republication."
+      }
+    }
+  ],
+  "donationLinks": [
+    {
+      "name": "Follicular Lymphoma Foundation",
+      "detail": "Supports international follicular-lymphoma research and patient involvement through its UK and US charitable entities.",
+      "url": "https://www.theflf.org/donate/"
+    },
+    {
+      "name": "Lymphoma Research Foundation follicular lymphoma initiative",
+      "detail": "Direct United States giving page supporting follicular-lymphoma research through the Lymphoma Research Foundation.",
+      "url": "https://giving.lymphoma.org/campaign/651027/donate"
+    }
+  ]
+}
