@@ -180,6 +180,28 @@
         "notes": "Sample includes muscular-dystrophy science, Duchenne care, advocacy, and regulatory coverage.",
         "termsExcerpt": "No verbatim terms copied; consult the linked current policy."
       }
+    },
+    {
+      "id": "medicinenet-neurology-muscular-dystrophy",
+      "name": "MedicineNet · Neurology",
+      "url": "https://www.medicinenet.com/rss/general/neurology.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Express RSS syndication permission; broad neurology channel",
+      "sourceDetails": {
+        "publisher": "MedicineNet / WebMD LLC",
+        "classification": "Broad neurology RSS with express syndication permission; locally filtered",
+        "reviewed": "2 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "MedicineNet encourages website syndication of its RSS feeds when the entire article is not posted and proper attribution and links are supplied.",
+        "commercial_use": "Permitted for RSS syndication subject to the publisher's stated conditions; broader content use is not included.",
+        "attribution": "Credit MedicineNet and link to the original article.",
+        "termsUrl": "https://www.medicinenet.com/rss_feeds_and_news_syndication/info.htm",
+        "rights_or_corrections_contact": "https://www.medicinenet.com/about_us/info.htm",
+        "notes": "Verified broad neurology feed. Disabled and locally filtered for complete muscular-dystrophy and named-subtype phrases; no summary, image or article body is stored or displayed.",
+        "termsExcerpt": "MedicineNet permits RSS syndication with attribution and backlinks when the entire article is not posted."
+      }
     }
   ],
   "donationLinks": [
