@@ -61,19 +61,34 @@
       "id": "treatments",
       "heading": "Treatments",
       "description": "Medicines and multidisciplinary ALS care, including symptom management, respiratory and nutritional support, rehabilitation and assistive care.",
-      "terms": ["treatment", "therapy", "therapeutic", "drug", "medicine", "riluzole", "edaravone", "tofersen"]
+      "terms": ["treatment", "therapy", "therapeutic", "drug", "medicine", "riluzole", "edaravone", "tofersen"],
+      "termDefinitions": {
+        "riluzole": "A medicine used for ALS that reduces glutamate activity and can modestly slow disease progression for some people.",
+        "edaravone": "A medicine used for ALS that acts as an antioxidant and may slow functional decline for some people.",
+        "tofersen": "An antisense medicine for adults with ALS associated with a harmful SOD1 gene variant; it targets SOD1 messenger RNA."
+      }
     },
     {
       "id": "research",
       "heading": "Research",
       "description": "Research into motor-neuron biology, disease progression, biomarkers and new approaches to ALS care and treatment.",
-      "terms": ["research", "study", "scientist", "discovery", "biomarker", "neuron", "laboratory"]
+      "terms": ["research", "study", "scientist", "discovery", "biomarker", "neuron", "laboratory"],
+      "termDefinitions": {
+        "neuron": "A nerve cell that receives and transmits information. ALS principally damages motor neurons that control voluntary muscles.",
+        "laboratory": "A controlled setting where scientists examine biological samples, cells, models or data before findings may be studied clinically."
+      }
     },
     {
       "id": "genetics",
       "heading": "Genetics",
       "description": "Inherited and genetic contributors to ALS, including genes such as C9orf72 and SOD1 and research into gene-targeted approaches.",
-      "terms": ["genetic", "gene", "mutation", "c9orf72", "sod1", "fus ", "tardbp", "hereditary"]
+      "terms": ["genetic", "gene", "mutation", "c9orf72", "sod1", "fus ", "tardbp", "hereditary"],
+      "termDefinitions": {
+        "c9orf72": "A gene in which an expanded repeated DNA sequence is a common genetic cause of familial ALS and frontotemporal dementia.",
+        "sod1": "A gene that makes the superoxide dismutase 1 enzyme. Certain harmful SOD1 variants can cause inherited ALS.",
+        "fus": "A gene involved in processing RNA. Certain harmful FUS variants can cause ALS, often through altered FUS protein behavior.",
+        "tardbp": "A gene that makes the TDP-43 protein. Harmful variants can cause ALS, and abnormal TDP-43 is found in most ALS cases."
+      }
     },
     {
       "id": "livingWithAls",
