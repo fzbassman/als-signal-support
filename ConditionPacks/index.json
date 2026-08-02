@@ -54,6 +54,12 @@
       "displayName": "Muscular Dystrophy",
       "version": 1,
       "asset": "assets/condition_packs/muscular-dystrophy.json"
+    },
+    {
+      "id": "thoracic-aortic-aneurysm",
+      "displayName": "Thoracic Aortic Aneurysm",
+      "version": 1,
+      "asset": "assets/condition_packs/thoracic-aortic-aneurysm.json"
     }
   ]
 }

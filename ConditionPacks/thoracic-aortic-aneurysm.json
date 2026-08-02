@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "thoracic-aortic-aneurysm",
+  "displayName": "Thoracic Aortic Aneurysm",
+  "description": "A focused information-discovery profile for thoracic aortic aneurysm, including aortic root, ascending, arch, descending and heritable thoracic aortic disease. It does not provide medical advice, assess urgency or recommend treatment or studies.",
+  "synopsis": {
+    "overview": "A thoracic aortic aneurysm is an abnormal bulge or enlargement in the part of the aorta that runs through the chest. It can involve the aortic root, ascending aorta, arch or descending thoracic aorta and may be related to ageing, cardiovascular risk factors, a bicuspid aortic valve or an inherited condition.",
+    "manifestations": "Many thoracic aortic aneurysms cause no symptoms and are found during imaging for another reason. A larger aneurysm can cause chest or upper-back pain, hoarseness, shortness of breath or swallowing difficulty. Rupture or aortic dissection can cause sudden severe chest or back pain and is a medical emergency.",
+    "management": "Management depends on the aneurysm's location, size, growth, cause and the person's wider health. Specialist care may include repeat imaging, management of blood pressure and other cardiovascular risks, genetic assessment and family screening where appropriate, and planned open or endovascular repair when the expected risk warrants it.",
+    "outlook": "The course varies: some aneurysms remain stable for years, while others enlarge and may lead to dissection or rupture. Monitoring and appropriately timed treatment aim to reduce those risks. Individual outlook depends on the affected aortic segment, growth rate, underlying cause, other conditions and whether complications occur.",
+    "reviewed": "2026-08-02",
+    "sources": [
+      {
+        "name": "NHLBI: Aortic aneurysm",
+        "url": "https://www.nhlbi.nih.gov/health/aortic-aneurysm"
+      },
+      {
+        "name": "British Heart Foundation: Thoracic aortic aneurysm",
+        "url": "https://www.bhf.org.uk/informationsupport/conditions/thoracic-aortic-aneurysm"
+      }
+    ]
+  },
+  "trialTerms": [
+    "Thoracic Aortic Aneurysm",
+    "Ascending Thoracic Aortic Aneurysm",
+    "Descending Thoracic Aortic Aneurysm",
+    "Aortic Root Aneurysm",
+    "Aortic Arch Aneurysm",
+    "Heritable Thoracic Aortic Disease"
+  ],
+  "publicationTerms": [
+    "thoracic aortic aneurysm",
+    "ascending aortic aneurysm",
+    "descending thoracic aortic aneurysm",
+    "aortic root aneurysm",
+    "aortic arch aneurysm",
+    "heritable thoracic aortic disease",
+    "familial thoracic aortic aneurysm and dissection",
+    "thoracic aortic aneurysm repair"
+  ],
+  "relevanceTerms": [
+    "thoracic aortic aneurysm",
+    "thoracic aortic aneurysms",
+    "ascending thoracic aortic aneurysm",
+    "ascending aortic aneurysm",
+    "descending thoracic aortic aneurysm",
+    "descending aortic aneurysm",
+    "aortic root aneurysm",
+    "aortic arch aneurysm",
+    "heritable thoracic aortic disease",
+    "familial thoracic aortic aneurysm",
+    "familial thoracic aortic aneurysm and dissection",
+    "thoracic aortic disease"
+  ],
+  "topics": [
+    {
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "terms": ["thoracic aortic aneurysm clinical trial", "aortic repair clinical trial", "clinical study", "recruiting", "enrollment", "enrolment", "trial results"]
+    },
+    {
+      "id": "treatments",
+      "heading": "Monitoring and treatment",
+      "terms": ["surveillance imaging", "echocardiography", "CT angiography", "magnetic resonance angiography", "blood pressure management", "open aortic repair", "thoracic endovascular aortic repair", "TEVAR", "valve-sparing aortic root replacement"]
+    },
+    {
+      "id": "research",
+      "heading": "Aortic research",
+      "terms": ["thoracic aortic aneurysm research", "aortic biomechanics", "aneurysm growth", "risk prediction", "biomarker", "natural history", "registry", "clinical research"]
+    },
+    {
+      "id": "genetics",
+      "heading": "Genetics and inherited aortic disease",
+      "terms": ["heritable thoracic aortic disease", "familial thoracic aortic aneurysm", "genetic testing", "genetic counselling", "genetic counseling", "family screening", "FBN1", "TGFBR1", "TGFBR2", "ACTA2"]
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with thoracic aortic aneurysm",
+      "terms": ["living with thoracic aortic aneurysm", "aortic surveillance", "quality of life", "physical activity", "blood pressure monitoring", "mental health", "anxiety", "recovery after aortic surgery"]
+    },
+    {
+      "id": "caregiving",
+      "heading": "Caregiving and support",
+      "terms": ["aortic disease caregiver", "aortic disease carer", "family support", "care partner", "peer support", "bereavement support", "surgical recovery support"]
+    },
+    {
+      "id": "advocacy",
+      "heading": "Awareness and access",
+      "terms": ["thoracic aortic aneurysm awareness", "aortic disease advocacy", "aortic dissection awareness", "access to imaging", "specialist aortic care", "research funding", "patient voice", "health policy"]
+    }
+  ],
+  "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
+  "sourceIds": ["nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "lifearc"],
+  "externalSources": [
+    {
+      "id": "medicinenet-heart-thoracic-aortic-aneurysm",
+      "name": "MedicineNet · Heart",
+      "url": "https://www.medicinenet.com/rss/general/heart.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Express RSS syndication permission; broad heart channel",
+      "sourceDetails": {
+        "publisher": "MedicineNet / WebMD LLC",
+        "classification": "Broad heart RSS with express syndication permission; locally filtered",
+        "reviewed": "2 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "MedicineNet expressly encourages website syndication of its RSS feeds when the entire article is not posted and proper attribution and links are supplied.",
+        "commercial_use": "Permitted for RSS syndication subject to the publisher's stated conditions; broader content use is not included.",
+        "attribution": "Credit MedicineNet and link to the original article.",
+        "termsUrl": "https://www.medicinenet.com/rss_feeds_and_news_syndication/info.htm",
+        "rights_or_corrections_contact": "https://www.medicinenet.com/about_us/info.htm",
+        "notes": "Verified HTTP 200 XML heart feed. Disabled by default and locally filtered for full thoracic-aortic-aneurysm phrases; no summary, image or article body is stored or displayed.",
+        "termsExcerpt": "MedicineNet permits RSS syndication with attribution and backlinks when the entire article is not posted."
+      }
+    },
+    {
+      "id": "sciencedaily-heart-disease-thoracic-aortic-aneurysm",
+      "name": "ScienceDaily · Heart Disease",
+      "url": "https://www.sciencedaily.com/rss/health_medicine/heart_disease.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Official broad topic RSS with stated integration conditions",
+      "sourceDetails": {
+        "publisher": "ScienceDaily",
+        "classification": "Broad heart-disease research RSS; locally filtered",
+        "reviewed": "2 August 2026",
+        "fields_displayed": "Exact headline, publication date, ScienceDaily attribution and outbound link only",
+        "permission": "ScienceDaily permits integration of its RSS feeds with attribution and links under its published terms; full stories may not be reproduced.",
+        "commercial_use": "RSS use is permitted for commercial and non-commercial organizations subject to the publisher's conditions; users may not charge for the feed content.",
+        "attribution": "Credit ScienceDaily and link directly to the original story.",
+        "termsUrl": "https://www.sciencedaily.com/terms.htm",
+        "rights_or_corrections_contact": "https://www.sciencedaily.com/contact.htm",
+        "notes": "Verified HTTP 200 XML heart-disease feed. Disabled by default and locally filtered for full thoracic-aortic-aneurysm phrases; no summary, image or article body is stored or displayed.",
+        "termsExcerpt": "ScienceDaily encourages RSS integration with proper attribution and original-story links while excluding full-text republication."
+      }
+    }
+  ],
+  "donationLinks": [
+    {
+      "name": "The Aortic Dissection Charitable Trust",
+      "detail": "Supports UK and Ireland research, education and services for people affected by or at risk of aortic dissection and related aortic disease.",
+      "url": "https://aorticdissectioncharitabletrust.org/donate/"
+    },
+    {
+      "name": "The John Ritter Foundation for Aortic Health",
+      "detail": "Funds United States research, education and awareness relating to thoracic aortic aneurysm and dissection.",
+      "url": "https://johnritterfoundation.org/ways-to-give/"
+    }
+  ]
+}
