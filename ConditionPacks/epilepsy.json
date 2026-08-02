@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "epilepsy",
+  "displayName": "Epilepsy",
+  "description": "A focused information pack for epilepsy, epileptic seizures, seizure types, epilepsy syndromes, treatment research and life with epilepsy. It is an information-discovery aid, not medical advice.",
+  "synopsis": {
+    "overview": "Epilepsy is a neurological condition involving an enduring tendency to have epileptic seizures, which are temporary changes in brain activity. It includes many seizure types, causes and epilepsy syndromes.",
+    "manifestations": "Seizures can affect awareness, movement, sensation, emotion or behaviour and may last from seconds to minutes. Their appearance varies by seizure type and by the brain networks involved; some people also experience effects between seizures.",
+    "management": "Assessment may include a clinical history, examination, electroencephalography and brain imaging when appropriate. Management can include antiseizure medicines and, for some people, surgery, stimulation devices, dietary therapy, safety planning or other specialist care.",
+    "outlook": "Outlook varies with the epilepsy type, cause, age of onset, seizure control and other health factors. Many people achieve good seizure control and live full lives, while some have persistent or treatment-resistant seizures requiring specialist care.",
+    "reviewed": "2026-08-02",
+    "sources": [
+      {"name": "CDC: Epilepsy Basics", "url": "https://www.cdc.gov/epilepsy/about/index.html"},
+      {"name": "NHS: Epilepsy", "url": "https://www.nhs.uk/conditions/epilepsy/"},
+      {"name": "ILAE: Definition and Classification", "url": "https://www.ilae.org/guidelines/definition-and-classification"},
+      {"name": "NINDS: Epilepsy and Seizures", "url": "https://www.ninds.nih.gov/health-information/disorders/epilepsy-and-seizures"},
+      {"name": "NICE: Epilepsies diagnosis and management", "url": "https://www.nice.org.uk/guidance/cg137"}
+    ]
+  },
+  "trialTerms": ["epilepsy", "epileptic seizure", "focal epilepsy", "generalized epilepsy", "drug-resistant epilepsy", "refractory epilepsy", "Lennox-Gastaut syndrome", "Dravet syndrome", "juvenile myoclonic epilepsy", "childhood absence epilepsy"],
+  "publicationTerms": ["epilepsy", "epileptic seizure", "seizure type", "focal epilepsy", "generalized epilepsy", "epilepsy syndrome", "antiseizure medicine", "drug-resistant epilepsy", "Lennox-Gastaut syndrome", "Dravet syndrome"],
+  "relevanceTerms": ["epilepsy", "epileptic seizure", "epilepsy syndrome", "focal epilepsy", "generalized epilepsy", "temporal lobe epilepsy", "frontal lobe epilepsy", "juvenile myoclonic epilepsy", "childhood absence epilepsy", "juvenile absence epilepsy", "Lennox-Gastaut syndrome", "Dravet syndrome", "infantile spasms", "developmental and epileptic encephalopathy", "drug-resistant epilepsy", "refractory epilepsy", "status epilepticus", "epilepsy surgery", "epilepsy treatment", "epilepsy research", "epilepsy genetics", "epilepsy diagnosis", "epilepsy foundation", "seizure first aid"],
+  "topics": [
+    {
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "description": "Registered epilepsy studies, including trials of medicines, devices, surgery, dietary approaches and seizure monitoring. A listing does not indicate eligibility or that a study is recommended.",
+      "terms": ["epilepsy clinical trial", "epilepsy clinical study", "phase 1", "phase 2", "phase 3", "trial participant", "study recruitment", "recruiting", "investigational", "trial results"],
+      "termDefinitions": {
+        "epilepsy clinical trial": "A planned study involving people that evaluates an intervention or approach for epilepsy under a defined protocol.",
+        "epilepsy clinical study": "A structured investigation involving people with epilepsy or related seizure conditions.",
+        "trial participant": "A person who takes part in a clinical study.",
+        "study recruitment": "The process of identifying and enrolling people who may take part in a study.",
+        "investigational": "Being studied and not yet established or approved for the use being investigated.",
+        "trial results": "Findings reported after researchers analyse information collected during a clinical trial."
+      }
+    },
+    {
+      "id": "treatments",
+      "heading": "Treatment and seizure care",
+      "description": "Antiseizure medicines, specialist assessment, surgery, stimulation devices, dietary therapy, seizure monitoring and safety-focused care for epilepsy.",
+      "terms": ["epilepsy treatment", "antiseizure medication", "antiseizure medicine", "epilepsy surgery", "vagus nerve stimulation", "responsive neurostimulation", "ketogenic diet", "seizure monitoring", "status epilepticus", "seizure first aid"],
+      "termDefinitions": {
+        "antiseizure medication": "A medicine used to reduce the likelihood or severity of epileptic seizures.",
+        "antiseizure medicine": "A medicine used to reduce the likelihood or severity of epileptic seizures.",
+        "epilepsy surgery": "A surgical approach considered for some people whose seizures arise from a treatable brain network and remain uncontrolled.",
+        "vagus nerve stimulation": "A treatment using an implanted device to deliver intermittent stimulation to the vagus nerve.",
+        "responsive neurostimulation": "An implanted device that detects selected abnormal brain activity and responds with stimulation.",
+        "ketogenic diet": "A high-fat, low-carbohydrate dietary therapy sometimes used under specialist supervision for selected epilepsies.",
+        "seizure monitoring": "Recording and observing events to help describe seizures, their triggers, frequency or treatment response.",
+        "status epilepticus": "A prolonged seizure or repeated seizures without recovery between them that requires urgent medical assessment.",
+        "seizure first aid": "Immediate safety measures intended to protect someone during and after a seizure."
+      }
+    },
+    {
+      "id": "research",
+      "heading": "Epilepsy research",
+      "description": "Research into seizure biology, epilepsy syndromes, treatments, devices, causes, prevention, diagnosis and outcomes.",
+      "terms": ["epilepsy research", "seizure research", "epilepsy study", "epilepsy scientist", "epilepsy biomarker", "seizure detection", "epilepsy innovation", "epilepsy prevention", "epilepsy outcomes"],
+      "termDefinitions": {
+        "epilepsy biomarker": "A measurable feature that may help study epilepsy, its cause, seizure risk, progression or response to treatment.",
+        "seizure detection": "Identifying seizure-related patterns using clinical observation, brain recordings or technology.",
+        "epilepsy outcomes": "Measures describing seizure control, health, function, wellbeing or other results in people with epilepsy."
+      }
+    },
+    {
+      "id": "genetics",
+      "heading": "Causes, genetics and diagnosis",
+      "description": "Genetic and structural causes, epilepsy syndromes, seizure classification, EEG, imaging and other approaches used to understand and diagnose epilepsy.",
+      "terms": ["epilepsy genetics", "genetic epilepsy", "epilepsy gene", "epilepsy syndrome", "focal seizure", "generalized seizure", "electroencephalogram", "EEG", "brain MRI", "epilepsy diagnosis", "genetic testing"],
+      "termDefinitions": {
+        "epilepsy genetics": "The study of how inherited or newly occurring genetic variation can contribute to epilepsy.",
+        "genetic epilepsy": "Epilepsy in which genetic factors are known or suspected to contribute to the condition.",
+        "epilepsy gene": "A gene in which variation may contribute to epilepsy risk, seizure biology or an epilepsy syndrome.",
+        "epilepsy syndrome": "A recognizable pattern of seizure types, clinical features, EEG findings, age of onset and sometimes cause.",
+        "focal seizure": "A seizure that begins in a network on one side of the brain.",
+        "generalized seizure": "A seizure involving networks on both sides of the brain from its onset.",
+        "electroencephalogram": "A recording of electrical brain activity made with sensors placed on the scalp.",
+        "EEG": "Electroencephalography or an electroencephalogram, which records electrical brain activity from the scalp.",
+        "brain MRI": "Magnetic resonance imaging used to create detailed pictures of brain structure.",
+        "epilepsy diagnosis": "The clinical process of determining whether recurrent unprovoked seizures or an epilepsy syndrome is present and characterising it.",
+        "genetic testing": "Laboratory analysis of DNA or related material to look for genetic variants; results require appropriate interpretation."
+      }
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with epilepsy",
+      "description": "Daily life with epilepsy, including wellbeing, sleep, memory, independence, school, work, driving, safety and self-management.",
+      "terms": ["living with epilepsy", "epilepsy quality of life", "epilepsy and sleep", "epilepsy mental health", "epilepsy memory", "epilepsy self-management", "epilepsy and driving", "epilepsy at school", "epilepsy at work", "seizure safety"],
+      "termDefinitions": {
+        "living with epilepsy": "Managing everyday life, health and wellbeing while living with epilepsy.",
+        "epilepsy quality of life": "The physical, emotional, social and practical effects of epilepsy and its treatment on daily life.",
+        "epilepsy and sleep": "The relationship between sleep, sleep disruption and seizure patterns in people with epilepsy.",
+        "epilepsy mental health": "Emotional and psychological wellbeing in the context of epilepsy and its effects.",
+        "epilepsy memory": "Memory or learning concerns that may relate to seizures, treatment, sleep or other factors.",
+        "epilepsy self-management": "Everyday strategies used with clinical care to track seizures, take medicines safely and reduce avoidable risks.",
+        "epilepsy and driving": "Information about driving and epilepsy, including safety requirements that vary by jurisdiction.",
+        "seizure safety": "Planning and practical measures intended to reduce injury and other risks around seizures."
+      }
+    },
+    {
+      "id": "caregiving",
+      "heading": "Caregiving and support",
+      "description": "Information for family members, care partners and support networks, including seizure response, communication, care coordination and respite.",
+      "terms": ["epilepsy caregiver", "epilepsy caregiving", "epilepsy carer", "care partner", "family support", "peer support", "epilepsy support group", "care coordination", "respite care", "community support"],
+      "termDefinitions": {
+        "epilepsy caregiver": "A family member, friend or professional who provides practical, personal or emotional support to someone with epilepsy.",
+        "epilepsy caregiving": "The practical, personal and emotional work of supporting someone with epilepsy.",
+        "epilepsy carer": "A person who provides ongoing unpaid or paid support to someone with epilepsy.",
+        "epilepsy support group": "People affected by epilepsy meeting or communicating to exchange information and emotional support.",
+        "care coordination": "Organising communication and services among the people and teams involved in someone’s care.",
+        "respite care": "Short-term care or support that gives a regular caregiver a temporary break from caring responsibilities."
+      }
+    },
+    {
+      "id": "advocacy",
+      "heading": "Advocacy and access",
+      "description": "Public understanding, stigma reduction, health policy, access to epilepsy care, disability rights, education, community organisations and research funding.",
+      "terms": ["epilepsy advocacy", "epilepsy awareness", "epilepsy public health", "epilepsy access", "epilepsy policy", "epilepsy education", "epilepsy foundation", "epilepsy funding", "epilepsy stigma", "epilepsy rights"],
+      "termDefinitions": {
+        "epilepsy advocacy": "Speaking or acting to improve epilepsy awareness, rights, services, policy or research.",
+        "epilepsy awareness": "Efforts to improve public understanding of epilepsy, seizures and the experiences of people affected.",
+        "epilepsy public health": "Population-level work addressing epilepsy prevention, access, safety, education and health outcomes.",
+        "epilepsy access": "The availability and affordability of appropriate epilepsy information, assessment, treatment and support.",
+        "epilepsy policy": "Rules, priorities and decisions that shape epilepsy services, rights, research or public health.",
+        "epilepsy foundation": "An organisation that supports epilepsy education, advocacy, research or community services.",
+        "epilepsy stigma": "Negative stereotypes, misunderstanding or discrimination directed at people because of epilepsy.",
+        "epilepsy rights": "Legal and social protections supporting equal participation and fair treatment for people with epilepsy."
+      }
+    }
+  ],
+  "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
+  "sourceIds": ["nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "lifearc"],
+  "externalSources": [
+    {
+      "id": "medicinenet-neurology-epilepsy",
+      "name": "MedicineNet · Neurology",
+      "url": "https://www.medicinenet.com/rss/general/neurology.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Express RSS syndication permission; broad neurology channel",
+      "sourceDetails": {
+        "publisher": "MedicineNet / WebMD LLC",
+        "classification": "Broad neurology RSS with express syndication permission; locally filtered",
+        "reviewed": "2 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "MedicineNet encourages website syndication of its RSS feeds when the entire article is not posted and proper attribution and links are supplied.",
+        "commercial_use": "Permitted for RSS syndication subject to the publisher's conditions; broader content use is not included.",
+        "attribution": "Credit MedicineNet and link to the original article.",
+        "termsUrl": "https://www.medicinenet.com/rss_feeds_and_news_syndication/info.htm",
+        "rights_or_corrections_contact": "https://www.medicinenet.com/about_us/info.htm",
+        "notes": "Verified neurology XML feed and locally filtered for explicit epilepsy relevance. Disabled by default; no summary, image or article body is stored or displayed.",
+        "termsExcerpt": "MedicineNet permits RSS syndication with attribution and backlinks when the entire article is not posted."
+      }
+    },
+    {
+      "id": "sciencedaily-epilepsy",
+      "name": "ScienceDaily · Epilepsy",
+      "url": "https://www.sciencedaily.com/rss/health_medicine/epilepsy.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "Official topic RSS with stated RSS integration conditions",
+      "sourceDetails": {
+        "publisher": "ScienceDaily",
+        "classification": "Epilepsy research-news RSS",
+        "reviewed": "2 August 2026",
+        "fields_displayed": "Exact headline, publication date, ScienceDaily attribution and outbound link only",
+        "permission": "ScienceDaily permits RSS integration with attribution and links under its published terms; full stories may not be reproduced.",
+        "commercial_use": "Use is limited to the publisher's RSS conditions; broader reuse is not included.",
+        "attribution": "Credit ScienceDaily and link to the original item.",
+        "termsUrl": "https://www.sciencedaily.com/terms.htm",
+        "rights_or_corrections_contact": "https://www.sciencedaily.com/contact.htm",
+        "notes": "Verified HTTP 200 XML epilepsy feed. Disabled by default; no summary, image or article body is stored or displayed.",
+        "termsExcerpt": "RSS integration is permitted with attribution and an original-source link; full stories are excluded."
+      }
+    }
+  ],
+  "donationLinks": [
+    {"name": "Epilepsy Action", "detail": "Supports epilepsy information, advice, advocacy and services in the UK.", "url": "https://www.epilepsy.org.uk/donate"},
+    {"name": "Epilepsy Research UK", "detail": "Funds UK research intended to improve understanding and treatment of epilepsy.", "url": "https://epilepsyresearch.org.uk/donate/"},
+    {"name": "Epilepsy Foundation", "detail": "Supports epilepsy education, advocacy, research and connection in the United States.", "url": "https://give.epilepsy.com/"}
+  ]
+}
