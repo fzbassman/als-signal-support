@@ -78,6 +78,12 @@
     "displayName": "Emphysema",
     "version": 1,
     "asset": "assets/condition_packs/emphysema.json"
+  },
+  {
+    "id": "ataxia-telangiectasia",
+    "displayName": "Ataxia-Telangiectasia",
+    "version": 1,
+    "asset": "assets/condition_packs/ataxia-telangiectasia.json"
   }
 ]
 }
