@@ -135,6 +135,7 @@
   "sourceIds": ["nih-research-matters", "nih-news-releases"],
   "externalSources": [],
   "donationLinks": [
+    {"name": "Emphysema Foundation", "detail": "Supports emphysema education, advocacy and research initiatives.", "url": "https://emphysema.org/ways-to-give/"},
     {"name": "Asthma + Lung UK", "detail": "Supports lung-health research, information and services across the UK.", "url": "https://www.asthmaandlung.org.uk/support-us/ways-donate"},
     {"name": "COPD Foundation", "detail": "Supports COPD research, education, advocacy and community support in the United States.", "url": "https://www.copdfoundation.org/Ways-to-Give/Donate/Donate-Now.aspx"},
     {"name": "American Lung Association", "detail": "Supports lung-disease research, education and advocacy in the United States.", "url": "https://www.lung.org/get-involved/ways-to-give"}
