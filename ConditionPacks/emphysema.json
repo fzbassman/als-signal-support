@@ -13,7 +13,8 @@
       {"name": "NHS: Chronic obstructive pulmonary disease (COPD)", "url": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/"},
       {"name": "NHLBI: COPD", "url": "https://www.nhlbi.nih.gov/health/copd?answers=1"},
       {"name": "MedlinePlus: Emphysema", "url": "https://medlineplus.gov/emphysema.html"},
-      {"name": "American Lung Association: Emphysema", "url": "https://www.lung.org/lung-health-diseases/lung-disease-lookup/emphysema"}
+      {"name": "American Lung Association: Emphysema", "url": "https://www.lung.org/lung-health-diseases/lung-disease-lookup/emphysema"},
+      {"name": "Asthma + Lung UK: Emphysema", "url": "https://www.asthmaandlung.org.uk/conditions/copd-chronic-obstructive-pulmonary-disease/emphysema"}
     ]
   },
   "trialTerms": ["emphysema", "pulmonary emphysema", "centrilobular emphysema", "panlobular emphysema", "bullous emphysema", "alpha-1 antitrypsin deficiency emphysema", "COPD with emphysema", "lung volume reduction", "endobronchial valve"],

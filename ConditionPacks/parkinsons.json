@@ -108,11 +108,12 @@
       "rightsStatus": "Official U.S. government safety feed; locally filtered",
       "sourceDetails": {
         "publisher": "U.S. Food and Drug Administration · MedWatch",
-        "classification": "Official U.S. government drug and device safety feed",
+        "classification": "GREEN — open U.S. government drug and device safety feed",
         "reviewed": "31 July 2026",
         "fields_displayed": "Exact headline, publication date, source name and outbound article URL only",
         "permission": "FDA states that, unless otherwise noted, content on its website is public domain. Individual feed items can still contain protected third-party material.",
         "commercial_use": "Generally permitted for public-domain FDA text; verify each linked item's notices and do not imply FDA endorsement.",
+        "reuse_classification": "green",
         "attribution": "Credit FDA MedWatch and link to the original safety communication.",
         "termsUrl": "https://www.fda.gov/about-fda/about-website/website-policies",
         "rights_or_corrections_contact": "https://www.fda.gov/about-fda/contact-fda",

@@ -13,7 +13,8 @@
       {"name": "NINDS: Ataxia-Telangiectasia", "url": "https://www.ninds.nih.gov/health-information/disorders/ataxia-telangiectasia"},
       {"name": "MedlinePlus Genetics: Ataxia-telangiectasia", "url": "https://medlineplus.gov/genetics/condition/ataxia-telangiectasia/"},
       {"name": "MedlinePlus: Ataxia Telangiectasia", "url": "https://medlineplus.gov/ataxiatelangiectasia.html"},
-      {"name": "NHS: Ataxia", "url": "https://www.nhs.uk/conditions/ataxia/"}
+      {"name": "NHS: Ataxia", "url": "https://www.nhs.uk/conditions/ataxia/"},
+      {"name": "Nature Reviews Molecular Cell Biology: Ataxia-telangiectasia", "url": "https://www.nature.com/articles/nrm2514"}
     ]
   },
   "trialTerms": ["ataxia-telangiectasia", "ataxia telangiectasia", "ATM deficiency", "Louis-Bar syndrome", "ATM-related disorder"],
