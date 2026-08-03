@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "id": "emphysema",
+  "displayName": "Emphysema",
+  "description": "A focused information pack for emphysema, pulmonary emphysema, COPD-related lung damage, treatment research and life with chronic breathing disease. It is an information-discovery aid, not medical advice.",
+  "synopsis": {
+    "overview": "Emphysema is a type of chronic obstructive pulmonary disease (COPD) in which damage to the walls of lung air sacs reduces elastic recoil and makes it harder to move air and exchange gases. Many people have emphysema together with chronic bronchitis, and severity varies.",
+    "manifestations": "Symptoms may develop gradually and can include breathlessness with activity, persistent cough, mucus, wheezing, chest tightness, reduced exercise tolerance and flare-ups or respiratory infections. Some people have few early symptoms; advanced disease can affect daily activities and general strength.",
+    "management": "Assessment commonly includes history, examination and lung-function testing such as spirometry, with imaging or blood tests when clinically indicated. Management may include avoiding smoke and other irritants, inhaled medicines, vaccinations, pulmonary rehabilitation, oxygen for selected people, and specialist procedures or surgery for some severe patterns.",
+    "outlook": "Emphysema is usually long-term and progressive, but its course differs with the extent and distribution of lung damage, exposures, other conditions, treatment response and access to care. Treatments and rehabilitation can reduce symptoms and support activity; outlook should be discussed with a qualified clinician who knows the individual situation.",
+    "reviewed": "2026-08-03",
+    "sources": [
+      {"name": "NHS: Chronic obstructive pulmonary disease (COPD)", "url": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/"},
+      {"name": "NHLBI: COPD", "url": "https://www.nhlbi.nih.gov/health/copd?answers=1"},
+      {"name": "MedlinePlus: Emphysema", "url": "https://medlineplus.gov/emphysema.html"},
+      {"name": "American Lung Association: Emphysema", "url": "https://www.lung.org/lung-health-diseases/lung-disease-lookup/emphysema"}
+    ]
+  },
+  "trialTerms": ["emphysema", "pulmonary emphysema", "centrilobular emphysema", "panlobular emphysema", "bullous emphysema", "alpha-1 antitrypsin deficiency emphysema", "COPD with emphysema", "lung volume reduction", "endobronchial valve"],
+  "publicationTerms": ["emphysema", "pulmonary emphysema", "COPD emphysema", "centrilobular emphysema", "panlobular emphysema", "alpha-1 antitrypsin deficiency", "lung volume reduction", "endobronchial valve"],
+  "relevanceTerms": ["emphysema", "pulmonary emphysema", "centrilobular emphysema", "panlobular emphysema", "bullous emphysema", "COPD with emphysema", "alpha-1 antitrypsin deficiency", "lung volume reduction", "endobronchial valve", "pulmonary rehabilitation for COPD", "emphysema research", "emphysema treatment", "emphysema diagnosis", "emphysema clinical trial", "emphysema support"],
+  "topics": [
+    {
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "description": "Registered emphysema and COPD studies, including trials of inhaled medicines, devices, procedures, rehabilitation and monitoring. A listing does not indicate eligibility or that a study is recommended.",
+      "terms": ["emphysema clinical trial", "emphysema clinical study", "COPD clinical trial", "lung volume reduction trial", "endobronchial valve trial", "trial recruitment", "recruiting", "investigational", "trial results"],
+      "termDefinitions": {
+        "emphysema clinical trial": "A planned study involving people that evaluates an intervention or approach for emphysema under a defined protocol.",
+        "emphysema clinical study": "A structured investigation involving people with emphysema or related COPD.",
+        "COPD clinical trial": "A clinical study addressing chronic obstructive pulmonary disease, which may include emphysema and chronic bronchitis.",
+        "lung volume reduction trial": "A study evaluating a procedure intended to reduce the effect of over-expanded, damaged lung regions.",
+        "endobronchial valve trial": "A study of one-way valves placed in selected airways to alter trapped air in severe emphysema.",
+        "trial recruitment": "The process of identifying and enrolling people who may take part in a clinical study.",
+        "investigational": "Being studied and not yet established or approved for the use being investigated.",
+        "trial results": "Findings reported after researchers analyse information collected during a clinical trial."
+      }
+    },
+    {
+      "id": "treatments",
+      "heading": "Treatment and breathing care",
+      "description": "Information about medicines, oxygen, pulmonary rehabilitation, vaccinations, exposure reduction and specialist procedures used in emphysema and COPD care.",
+      "terms": ["emphysema treatment", "bronchodilator", "inhaled corticosteroid", "oxygen therapy", "pulmonary rehabilitation", "lung volume reduction surgery", "endobronchial valve", "lung transplant", "COPD exacerbation"],
+      "termDefinitions": {
+        "emphysema treatment": "Care intended to reduce symptoms, prevent complications, support activity or address severe lung damage; options depend on the person and disease pattern.",
+        "bronchodilator": "A medicine that relaxes airway muscle and can make it easier for air to move through the airways.",
+        "inhaled corticosteroid": "An inhaled anti-inflammatory medicine used in selected COPD situations under clinical guidance.",
+        "oxygen therapy": "Prescribed supplemental oxygen used when a person has clinically significant low blood oxygen.",
+        "pulmonary rehabilitation": "A supervised programme combining exercise, education and support for people with chronic lung disease.",
+        "lung volume reduction surgery": "A procedure that removes selected severely damaged lung tissue in carefully assessed people.",
+        "endobronchial valve": "A one-way airway device intended to let trapped air leave a selected lung region while limiting incoming air.",
+        "lung transplant": "A major operation replacing one or both lungs for a small group with advanced lung disease.",
+        "COPD exacerbation": "A sustained worsening of respiratory symptoms beyond usual day-to-day variation."
+      }
+    },
+    {
+      "id": "research",
+      "heading": "Emphysema research",
+      "description": "Research into lung-tissue injury, airflow limitation, environmental exposures, biomarkers, medicines, devices, procedures, rehabilitation and long-term outcomes.",
+      "terms": ["emphysema research", "COPD research", "emphysema biomarker", "lung function", "air trapping", "hyperinflation", "lung volume reduction", "emphysema outcomes"],
+      "termDefinitions": {
+        "emphysema biomarker": "A measurable feature studied as an indicator of emphysema biology, severity, progression or response to an intervention.",
+        "lung function": "Measures describing how much air the lungs move and how quickly it flows, often obtained with pulmonary function tests.",
+        "air trapping": "Retention of air in the lungs because it cannot leave normally during exhalation.",
+        "hyperinflation": "An increase in the amount of air remaining in the lungs, which can make breathing more difficult.",
+        "emphysema outcomes": "Measures of symptoms, lung function, activity, quality of life, exacerbations or other results in people with emphysema."
+      }
+    },
+    {
+      "id": "genetics",
+      "heading": "Causes, genetics and diagnosis",
+      "description": "Causes and risk factors for emphysema, alpha-1 antitrypsin deficiency, spirometry, imaging, blood tests and other approaches used to understand lung damage.",
+      "terms": ["emphysema genetics", "alpha-1 antitrypsin deficiency", "AAT deficiency", "SERPINA1", "spirometry", "pulmonary function test", "chest CT", "diffusing capacity", "emphysema diagnosis"],
+      "termDefinitions": {
+        "emphysema genetics": "The study of inherited or newly occurring genetic factors that can contribute to emphysema risk or lung damage.",
+        "alpha-1 antitrypsin deficiency": "An inherited condition in which low or abnormal alpha-1 antitrypsin can increase the risk of emphysema, sometimes at a younger age.",
+        "AAT deficiency": "A shortened name for alpha-1 antitrypsin deficiency.",
+        "SERPINA1": "The gene that provides instructions for alpha-1 antitrypsin; variants in it can cause alpha-1 antitrypsin deficiency.",
+        "spirometry": "A lung-function test measuring how much air a person can exhale and how quickly.",
+        "pulmonary function test": "A group of tests measuring aspects of breathing and lung performance.",
+        "chest CT": "Computed tomography that creates detailed cross-sectional images of the chest and lungs.",
+        "diffusing capacity": "A lung-function measure of how efficiently gases pass from air sacs into the bloodstream.",
+        "emphysema diagnosis": "The clinical process of identifying emphysema and characterising lung function, imaging findings and possible causes."
+      }
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with emphysema",
+      "description": "Daily life with emphysema, including breathlessness, activity, sleep, nutrition, work, travel, air quality, smoking cessation and planning for flare-ups.",
+      "terms": ["living with emphysema", "COPD quality of life", "breathlessness management", "emphysema and exercise", "emphysema and sleep", "air pollution", "smoking cessation", "COPD action plan"],
+      "termDefinitions": {
+        "living with emphysema": "Managing everyday activities, health and wellbeing while living with emphysema.",
+        "COPD quality of life": "The physical, emotional, social and practical effects of COPD and its treatment on daily life.",
+        "breathlessness management": "Strategies and clinical support intended to help a person cope with or reduce the impact of breathlessness.",
+        "emphysema and exercise": "The relationship between physical activity, conditioning, symptoms and safety in people with emphysema.",
+        "emphysema and sleep": "The relationship between emphysema, sleep quality, nighttime breathing and fatigue.",
+        "air pollution": "Particles and gases in indoor or outdoor air that can irritate the lungs or worsen respiratory symptoms.",
+        "smoking cessation": "Stopping tobacco use, often with behavioural and clinical support.",
+        "COPD action plan": "A written plan agreed with a healthcare team describing usual care and what to do if symptoms worsen."
+      }
+    },
+    {
+      "id": "caregiving",
+      "heading": "Caregiving and support",
+      "description": "Information for family members, care partners and support networks, including breathlessness support, oxygen safety, appointments, care coordination and respite.",
+      "terms": ["emphysema caregiver", "COPD caregiver", "emphysema carer", "care partner", "family support", "peer support", "COPD support group", "care coordination", "respite care"],
+      "termDefinitions": {
+        "emphysema caregiver": "A family member, friend or professional who provides practical, personal or emotional support to someone with emphysema.",
+        "COPD caregiver": "A person who supports someone living with COPD, including emphysema.",
+        "emphysema carer": "A person who provides ongoing unpaid or paid support to someone with emphysema.",
+        "COPD support group": "People affected by COPD meeting or communicating to exchange information and emotional support.",
+        "care coordination": "Organising communication and services among the people and teams involved in someone’s care.",
+        "respite care": "Short-term care or support that gives a regular caregiver a temporary break from caring responsibilities."
+      }
+    },
+    {
+      "id": "advocacy",
+      "heading": "Advocacy and access",
+      "description": "Public understanding, clean-air and tobacco policy, access to respiratory care, disability inclusion, support services, research funding and lung-health organisations.",
+      "terms": ["emphysema advocacy", "COPD advocacy", "lung health awareness", "clean air policy", "COPD access", "emphysema education", "COPD foundation", "emphysema funding", "COPD stigma", "lung health rights"],
+      "termDefinitions": {
+        "emphysema advocacy": "Speaking or acting to improve emphysema awareness, rights, services, policy or research.",
+        "COPD advocacy": "Efforts to improve understanding, care, access, research or policy for people affected by COPD.",
+        "lung health awareness": "Efforts to improve public understanding of lung conditions, prevention, symptoms and support.",
+        "clean air policy": "Rules and public-health measures intended to reduce harmful air pollution exposures.",
+        "COPD access": "The availability and affordability of appropriate COPD information, assessment, treatment and support.",
+        "emphysema education": "Information and learning resources about emphysema, its effects, care and support.",
+        "COPD foundation": "An organisation supporting COPD education, advocacy, research or community services.",
+        "COPD stigma": "Negative stereotypes, misunderstanding or discrimination directed at people because of COPD.",
+        "lung health rights": "Legal and social protections supporting fair treatment and participation for people with lung disease."
+      }
+    }
+  ],
+  "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
+  "sourceIds": ["nih-research-matters", "nih-news-releases"],
+  "externalSources": [],
+  "donationLinks": [
+    {"name": "Asthma + Lung UK", "detail": "Supports lung-health research, information and services across the UK.", "url": "https://www.asthmaandlung.org.uk/support-us/ways-donate"},
+    {"name": "COPD Foundation", "detail": "Supports COPD research, education, advocacy and community support in the United States.", "url": "https://www.copdfoundation.org/Ways-to-Give/Donate/Donate-Now.aspx"},
+    {"name": "American Lung Association", "detail": "Supports lung-disease research, education and advocacy in the United States.", "url": "https://www.lung.org/get-involved/ways-to-give"}
+  ]
+}

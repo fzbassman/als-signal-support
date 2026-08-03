@@ -96,7 +96,7 @@
     }
   ],
   "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
-  "sourceIds": ["nih-research-matters", "nih-news-releases"],
+  "sourceIds": ["medlineplus-parkinsons", "nih-research-matters", "nih-news-releases"],
   "externalSources": [
     {
       "id": "fda-medwatch-parkinsons",

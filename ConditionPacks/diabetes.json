@@ -42,7 +42,7 @@
     {"id": "advocacy", "heading": "Prevention and advocacy", "description": "Diabetes prevention, awareness, affordability, access to medicines and technology, public health and community advocacy.", "terms": ["advocacy", "awareness", "prevention", "public health", "screening", "access", "affordability", "policy", "foundation", "funding"]}
   ],
   "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
-  "sourceIds": ["nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "yahoo-health", "rnz-world", "lifearc"],
+  "sourceIds": ["rnz-world", "medlineplus-diabetes", "nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "yahoo-health", "lifearc"],
   "externalSources": [
     {
       "id": "medicinenet-diabetes",

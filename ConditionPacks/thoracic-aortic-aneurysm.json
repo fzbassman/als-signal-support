@@ -97,7 +97,7 @@
     }
   ],
   "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
-  "sourceIds": ["nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "lifearc"],
+  "sourceIds": ["medlineplus-thoracic-aortic-aneurysm", "nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "lifearc"],
   "externalSources": [
     {
       "id": "medicinenet-heart-thoracic-aortic-aneurysm",

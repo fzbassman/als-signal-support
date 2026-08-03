@@ -130,7 +130,7 @@
     }
   ],
   "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
-  "sourceIds": ["nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "lifearc"],
+  "sourceIds": ["medlineplus-epilepsy", "nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "lifearc"],
   "externalSources": [
     {
       "id": "medicinenet-neurology-epilepsy",

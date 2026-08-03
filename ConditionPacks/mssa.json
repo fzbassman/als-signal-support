@@ -61,7 +61,7 @@
     {"id": "advocacy", "heading": "Public health and advocacy", "description": "Infection surveillance, prevention, antimicrobial stewardship, public-health policy and patient-safety advocacy.", "terms": ["public health", "surveillance", "outbreak", "prevention", "stewardship", "awareness", "policy", "guideline", "foundation", "funding"]}
   ],
   "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
-  "sourceIds": ["nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "yahoo-health", "rnz-world", "lifearc"],
+  "sourceIds": ["rnz-world", "medlineplus-mssa", "nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "yahoo-health", "lifearc"],
   "externalSources": [
     {
       "id": "cdc-eid-infectious-disease",

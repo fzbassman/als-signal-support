@@ -10,7 +10,10 @@
     "outlook": "The course of MS is unpredictable. Some people have limited effects on daily life while others develop substantial disability. Treatments and supportive care continue to improve; most people with MS live into old age, although average life expectancy is a few years shorter than in the general population.",
     "reviewed": "2026-08-01",
     "sources": [
-      {"name": "NHS: Multiple sclerosis", "url": "https://www.nhs.uk/conditions/multiple-sclerosis/"}
+      {
+        "name": "NHS: Multiple sclerosis",
+        "url": "https://www.nhs.uk/conditions/multiple-sclerosis/"
+      }
     ]
   },
   "trialTerms": [
@@ -54,13 +57,118 @@
     "living with ms"
   ],
   "topics": [
-    {"id": "clinicalTrials", "heading": "Clinical trials", "description": "Registered multiple sclerosis studies, including recruitment, study progress and reported results. A listing does not indicate eligibility or that a study is recommended.", "terms": ["clinical trial", "clinicaltrials", "phase 1", "phase 2", "phase 3", "participant", "enrollment", "recruiting"]},
-    {"id": "treatments", "heading": "Treatments", "description": "Disease-modifying medicines, relapse and symptom management, rehabilitation and supportive care for multiple sclerosis.", "terms": ["treatment", "therapy", "therapeutic", "drug", "medicine", "ocrelizumab", "ofatumumab", "natalizumab", "siponimod", "cladribine", "alemtuzumab", "dimethyl fumarate", "glatiramer acetate", "interferon beta", "ublituximab"]},
-    {"id": "research", "heading": "Research", "description": "Research into myelin, neuroinflammation, progression, repair, biomarkers and new approaches to MS care and treatment.", "terms": ["research", "study", "scientist", "discovery", "biomarker", "neuroinflammation", "myelin", "oligodendrocyte", "optic neuritis", "transverse myelitis"]},
-    {"id": "genetics", "heading": "Genetics", "description": "Inherited susceptibility and genetic or biological factors studied in the development and course of multiple sclerosis.", "terms": ["genetic", "gene", "mutation", "hereditary", "familial"]},
-    {"id": "livingWithAls", "heading": "Living with MS", "description": "Daily life with MS, including fatigue, mobility, cognition, work, exercise, rehabilitation and quality of life.", "terms": ["living with ms", "quality of life", "assistive", "accessibility", "mobility", "fatigue", "spasticity", "cognition", "rehabilitation", "support services"]},
-    {"id": "caregiving", "heading": "Caregiving", "description": "Practical and emotional information for families and care partners, including respite, home support and palliative care.", "terms": ["caregiver", "caregiving", "carer", "care partner", "family support", "palliative", "hospice"]},
-    {"id": "advocacy", "heading": "Advocacy", "description": "MS awareness, disability rights, access to treatment and services, public policy and research support.", "terms": ["advocacy", "advocate", "awareness", "fundraising", "community", "policy", "campaign", "legislation"]}
+    {
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "description": "Registered multiple sclerosis studies, including recruitment, study progress and reported results. A listing does not indicate eligibility or that a study is recommended.",
+      "terms": [
+        "clinical trial",
+        "clinicaltrials",
+        "phase 1",
+        "phase 2",
+        "phase 3",
+        "participant",
+        "enrollment",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "treatments",
+      "heading": "Treatments",
+      "description": "Disease-modifying medicines, relapse and symptom management, rehabilitation and supportive care for multiple sclerosis.",
+      "terms": [
+        "treatment",
+        "therapy",
+        "therapeutic",
+        "drug",
+        "medicine",
+        "ocrelizumab",
+        "ofatumumab",
+        "natalizumab",
+        "siponimod",
+        "cladribine",
+        "alemtuzumab",
+        "dimethyl fumarate",
+        "glatiramer acetate",
+        "interferon beta",
+        "ublituximab"
+      ]
+    },
+    {
+      "id": "research",
+      "heading": "Research",
+      "description": "Research into myelin, neuroinflammation, progression, repair, biomarkers and new approaches to MS care and treatment.",
+      "terms": [
+        "research",
+        "study",
+        "scientist",
+        "discovery",
+        "biomarker",
+        "neuroinflammation",
+        "myelin",
+        "oligodendrocyte",
+        "optic neuritis",
+        "transverse myelitis"
+      ]
+    },
+    {
+      "id": "genetics",
+      "heading": "Genetics",
+      "description": "Inherited susceptibility and genetic or biological factors studied in the development and course of multiple sclerosis.",
+      "terms": [
+        "genetic",
+        "gene",
+        "mutation",
+        "hereditary",
+        "familial"
+      ]
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with MS",
+      "description": "Daily life with MS, including fatigue, mobility, cognition, work, exercise, rehabilitation and quality of life.",
+      "terms": [
+        "living with ms",
+        "quality of life",
+        "assistive",
+        "accessibility",
+        "mobility",
+        "fatigue",
+        "spasticity",
+        "cognition",
+        "rehabilitation",
+        "support services"
+      ]
+    },
+    {
+      "id": "caregiving",
+      "heading": "Caregiving",
+      "description": "Practical and emotional information for families and care partners, including respite, home support and palliative care.",
+      "terms": [
+        "caregiver",
+        "caregiving",
+        "carer",
+        "care partner",
+        "family support",
+        "palliative",
+        "hospice"
+      ]
+    },
+    {
+      "id": "advocacy",
+      "heading": "Advocacy",
+      "description": "MS awareness, disability rights, access to treatment and services, public policy and research support.",
+      "terms": [
+        "advocacy",
+        "advocate",
+        "awareness",
+        "fundraising",
+        "community",
+        "policy",
+        "campaign",
+        "legislation"
+      ]
+    }
   ],
   "defaultTopics": [
     "clinicalTrials",
@@ -72,12 +180,13 @@
     "advocacy"
   ],
   "sourceIds": [
+    "rnz-world",
+    "medlineplus-ms",
     "nih-research-matters",
     "nih-news-releases",
     "yahoo-health",
     "london-standard",
     "johns-hopkins-hub",
-    "rnz-world",
     "lifearc"
   ],
   "externalSources": [
@@ -88,7 +197,19 @@
       "category": "news",
       "kind": "headlineOnly",
       "enabledByDefault": false,
-      "rightsStatus": "unreviewed"
+      "rightsStatus": "unreviewed",
+      "sourceDetails": {
+        "publisher": "Multiple Sclerosis News Today",
+        "classification": "News RSS source; locally filtered where applicable",
+        "reviewed": "3 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "RSS availability does not establish blanket reuse permission; display headline, date, attribution and outbound link only pending publisher authorization.",
+        "commercial_use": "Not verified; broader reuse is not assumed.",
+        "attribution": "Credit Multiple Sclerosis News Today and link to the original article.",
+        "termsUrl": "https://multiplesclerosisnewstoday.com/terms-service/",
+        "rights_or_corrections_contact": "Use the publisher contact page linked from the source website.",
+        "notes": "Disabled by default. No summary, image or article body is stored or displayed. The linked official publisher page is retained as terms/evidence; RSS-specific reuse permission should be confirmed before enabling."
+      }
     },
     {
       "id": "msaa-conversations",
@@ -97,7 +218,19 @@
       "category": "community",
       "kind": "headlineOnly",
       "enabledByDefault": false,
-      "rightsStatus": "unreviewed"
+      "rightsStatus": "unreviewed",
+      "sourceDetails": {
+        "publisher": "MSAA Conversations",
+        "classification": "Community RSS source; locally filtered where applicable",
+        "reviewed": "3 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "RSS availability does not establish blanket reuse permission; display headline, date, attribution and outbound link only pending publisher authorization.",
+        "commercial_use": "Not verified; broader reuse is not assumed.",
+        "attribution": "Credit MSAA Conversations and link to the original article.",
+        "termsUrl": "https://mymsaa.org/privacy",
+        "rights_or_corrections_contact": "Use the publisher contact page linked from the source website.",
+        "notes": "Disabled by default. No summary, image or article body is stored or displayed. The linked official publisher page is retained as terms/evidence; RSS-specific reuse permission should be confirmed before enabling."
+      }
     },
     {
       "id": "ms-research-blog",
@@ -106,7 +239,19 @@
       "category": "research",
       "kind": "headlineOnly",
       "enabledByDefault": false,
-      "rightsStatus": "unreviewed"
+      "rightsStatus": "unreviewed",
+      "sourceDetails": {
+        "publisher": "The MS-Blog",
+        "classification": "Research RSS source; locally filtered where applicable",
+        "reviewed": "3 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "RSS availability does not establish blanket reuse permission; display headline, date, attribution and outbound link only pending publisher authorization.",
+        "commercial_use": "Not verified; broader reuse is not assumed.",
+        "attribution": "Credit The MS-Blog and link to the original article.",
+        "termsUrl": "https://multiple-sclerosis-research.org/",
+        "rights_or_corrections_contact": "Use the publisher contact page linked from the source website.",
+        "notes": "Disabled by default. No summary, image or article body is stored or displayed. The linked official publisher page is retained as terms/evidence; RSS-specific reuse permission should be confirmed before enabling."
+      }
     },
     {
       "id": "nature-multiple-sclerosis",
@@ -115,7 +260,19 @@
       "category": "research",
       "kind": "headlineOnly",
       "enabledByDefault": false,
-      "rightsStatus": "unreviewed"
+      "rightsStatus": "unreviewed",
+      "sourceDetails": {
+        "publisher": "Nature",
+        "classification": "Research RSS source; locally filtered where applicable",
+        "reviewed": "3 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "RSS availability does not establish blanket reuse permission; display headline, date, attribution and outbound link only pending publisher authorization.",
+        "commercial_use": "Not verified; broader reuse is not assumed.",
+        "attribution": "Credit Nature and link to the original article.",
+        "termsUrl": "https://www.nature.com/subjects/multiple-sclerosis.rss",
+        "rights_or_corrections_contact": "Use the publisher contact page linked from the source website.",
+        "notes": "Disabled by default. No summary, image or article body is stored or displayed. The linked official publisher page is retained as terms/evidence; RSS-specific reuse permission should be confirmed before enabling."
+      }
     },
     {
       "id": "ms-canada-blog",
@@ -124,7 +281,19 @@
       "category": "community",
       "kind": "headlineOnly",
       "enabledByDefault": false,
-      "rightsStatus": "unreviewed"
+      "rightsStatus": "unreviewed",
+      "sourceDetails": {
+        "publisher": "MS Canada Blog",
+        "classification": "Community RSS source; locally filtered where applicable",
+        "reviewed": "3 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "RSS availability does not establish blanket reuse permission; display headline, date, attribution and outbound link only pending publisher authorization.",
+        "commercial_use": "Not verified; broader reuse is not assumed.",
+        "attribution": "Credit MS Canada Blog and link to the original article.",
+        "termsUrl": "https://mscanada.ca/",
+        "rights_or_corrections_contact": "Use the publisher contact page linked from the source website.",
+        "notes": "Disabled by default. No summary, image or article body is stored or displayed. The linked official publisher page is retained as terms/evidence; RSS-specific reuse permission should be confirmed before enabling."
+      }
     },
     {
       "id": "msif-news",
@@ -133,7 +302,19 @@
       "category": "community",
       "kind": "headlineOnly",
       "enabledByDefault": false,
-      "rightsStatus": "unreviewed"
+      "rightsStatus": "unreviewed",
+      "sourceDetails": {
+        "publisher": "Multiple Sclerosis International Federation",
+        "classification": "Community RSS source; locally filtered where applicable",
+        "reviewed": "3 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "RSS availability does not establish blanket reuse permission; display headline, date, attribution and outbound link only pending publisher authorization.",
+        "commercial_use": "Not verified; broader reuse is not assumed.",
+        "attribution": "Credit Multiple Sclerosis International Federation and link to the original article.",
+        "termsUrl": "https://www.msif.org/feed/",
+        "rights_or_corrections_contact": "Use the publisher contact page linked from the source website.",
+        "notes": "Disabled by default. No summary, image or article body is stored or displayed. The linked official publisher page is retained as terms/evidence; RSS-specific reuse permission should be confirmed before enabling."
+      }
     },
     {
       "id": "ms-views-news",
@@ -142,7 +323,19 @@
       "category": "community",
       "kind": "headlineOnly",
       "enabledByDefault": false,
-      "rightsStatus": "unreviewed"
+      "rightsStatus": "unreviewed",
+      "sourceDetails": {
+        "publisher": "MS Views and News",
+        "classification": "Community RSS source; locally filtered where applicable",
+        "reviewed": "3 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "RSS availability does not establish blanket reuse permission; display headline, date, attribution and outbound link only pending publisher authorization.",
+        "commercial_use": "Not verified; broader reuse is not assumed.",
+        "attribution": "Credit MS Views and News and link to the original article.",
+        "termsUrl": "https://msviewsandrelatednews.blogspot.com/",
+        "rights_or_corrections_contact": "Use the publisher contact page linked from the source website.",
+        "notes": "Disabled by default. No summary, image or article body is stored or displayed. The linked official publisher page is retained as terms/evidence; RSS-specific reuse permission should be confirmed before enabling."
+      }
     },
     {
       "id": "overcoming-ms",
@@ -151,7 +344,19 @@
       "category": "community",
       "kind": "headlineOnly",
       "enabledByDefault": false,
-      "rightsStatus": "unreviewed"
+      "rightsStatus": "unreviewed",
+      "sourceDetails": {
+        "publisher": "Overcoming MS",
+        "classification": "Community RSS source; locally filtered where applicable",
+        "reviewed": "3 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "RSS availability does not establish blanket reuse permission; display headline, date, attribution and outbound link only pending publisher authorization.",
+        "commercial_use": "Not verified; broader reuse is not assumed.",
+        "attribution": "Credit Overcoming MS and link to the original article.",
+        "termsUrl": "https://overcomingms.org/",
+        "rights_or_corrections_contact": "Use the publisher contact page linked from the source website.",
+        "notes": "Disabled by default. No summary, image or article body is stored or displayed. The linked official publisher page is retained as terms/evidence; RSS-specific reuse permission should be confirmed before enabling."
+      }
     },
     {
       "id": "aism-news",
@@ -160,7 +365,19 @@
       "category": "community",
       "kind": "headlineOnly",
       "enabledByDefault": false,
-      "rightsStatus": "unreviewed"
+      "rightsStatus": "unreviewed",
+      "sourceDetails": {
+        "publisher": "AISM",
+        "classification": "Community RSS source; locally filtered where applicable",
+        "reviewed": "3 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "RSS availability does not establish blanket reuse permission; display headline, date, attribution and outbound link only pending publisher authorization.",
+        "commercial_use": "Not verified; broader reuse is not assumed.",
+        "attribution": "Credit AISM and link to the original article.",
+        "termsUrl": "https://www.aism.it/feed_rss",
+        "rights_or_corrections_contact": "Use the publisher contact page linked from the source website.",
+        "notes": "Disabled by default. No summary, image or article body is stored or displayed. The linked official publisher page is retained as terms/evidence; RSS-specific reuse permission should be confirmed before enabling."
+      }
     },
     {
       "id": "gregory-ms-trials",
@@ -169,7 +386,19 @@
       "category": "research",
       "kind": "headlineOnly",
       "enabledByDefault": false,
-      "rightsStatus": "unreviewed"
+      "rightsStatus": "unreviewed",
+      "sourceDetails": {
+        "publisher": "Gregory MS",
+        "classification": "Research RSS source; locally filtered where applicable",
+        "reviewed": "3 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "RSS availability does not establish blanket reuse permission; display headline, date, attribution and outbound link only pending publisher authorization.",
+        "commercial_use": "Not verified; broader reuse is not assumed.",
+        "attribution": "Credit Gregory MS and link to the original article.",
+        "termsUrl": "https://api.gregory-ms.com/",
+        "rights_or_corrections_contact": "Use the publisher contact page linked from the source website.",
+        "notes": "Disabled by default. No summary, image or article body is stored or displayed. The linked official publisher page is retained as terms/evidence; RSS-specific reuse permission should be confirmed before enabling."
+      }
     },
     {
       "id": "ms-trust-news",
@@ -178,7 +407,19 @@
       "category": "community",
       "kind": "headlineOnly",
       "enabledByDefault": false,
-      "rightsStatus": "unreviewed"
+      "rightsStatus": "unreviewed",
+      "sourceDetails": {
+        "publisher": "MS Trust",
+        "classification": "Community RSS source; locally filtered where applicable",
+        "reviewed": "3 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "RSS availability does not establish blanket reuse permission; display headline, date, attribution and outbound link only pending publisher authorization.",
+        "commercial_use": "Not verified; broader reuse is not assumed.",
+        "attribution": "Credit MS Trust and link to the original article.",
+        "termsUrl": "https://mstrust.org.uk/",
+        "rights_or_corrections_contact": "Use the publisher contact page linked from the source website.",
+        "notes": "Disabled by default. No summary, image or article body is stored or displayed. The linked official publisher page is retained as terms/evidence; RSS-specific reuse permission should be confirmed before enabling."
+      }
     },
     {
       "id": "ms-uk-blog",
@@ -187,7 +428,19 @@
       "category": "community",
       "kind": "headlineOnly",
       "enabledByDefault": false,
-      "rightsStatus": "unreviewed"
+      "rightsStatus": "unreviewed",
+      "sourceDetails": {
+        "publisher": "MS-UK",
+        "classification": "Community RSS source; locally filtered where applicable",
+        "reviewed": "3 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "RSS availability does not establish blanket reuse permission; display headline, date, attribution and outbound link only pending publisher authorization.",
+        "commercial_use": "Not verified; broader reuse is not assumed.",
+        "attribution": "Credit MS-UK and link to the original article.",
+        "termsUrl": "https://ms-uk.org/",
+        "rights_or_corrections_contact": "Use the publisher contact page linked from the source website.",
+        "notes": "Disabled by default. No summary, image or article body is stored or displayed. The linked official publisher page is retained as terms/evidence; RSS-specific reuse permission should be confirmed before enabling."
+      }
     },
     {
       "id": "google-ms-general",
@@ -196,7 +449,19 @@
       "category": "news",
       "kind": "google",
       "enabledByDefault": false,
-      "rightsStatus": "unreviewed"
+      "rightsStatus": "unreviewed",
+      "sourceDetails": {
+        "publisher": "Google News (intermediary index)",
+        "classification": "News RSS source; locally filtered where applicable",
+        "reviewed": "3 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "Google News terms and each underlying publisher's terms apply; no blanket permission to reproduce summaries or article text was verified.",
+        "commercial_use": "Not verified; broader reuse is not assumed.",
+        "attribution": "Credit the underlying publisher shown in each item and link to the original article.",
+        "termsUrl": "https://news.google.com/terms",
+        "rights_or_corrections_contact": "Use the publisher contact page linked from the source website.",
+        "notes": "Disabled by default. No summary, image or article body is stored or displayed. The linked official publisher page is retained as terms/evidence; RSS-specific reuse permission should be confirmed before enabling."
+      }
     },
     {
       "id": "google-ms-research",
@@ -205,7 +470,19 @@
       "category": "research",
       "kind": "google",
       "enabledByDefault": false,
-      "rightsStatus": "unreviewed"
+      "rightsStatus": "unreviewed",
+      "sourceDetails": {
+        "publisher": "Google News (intermediary index)",
+        "classification": "Research RSS source; locally filtered where applicable",
+        "reviewed": "3 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "Google News terms and each underlying publisher's terms apply; no blanket permission to reproduce summaries or article text was verified.",
+        "commercial_use": "Not verified; broader reuse is not assumed.",
+        "attribution": "Credit the underlying publisher shown in each item and link to the original article.",
+        "termsUrl": "https://news.google.com/terms",
+        "rights_or_corrections_contact": "Use the publisher contact page linked from the source website.",
+        "notes": "Disabled by default. No summary, image or article body is stored or displayed. The linked official publisher page is retained as terms/evidence; RSS-specific reuse permission should be confirmed before enabling."
+      }
     },
     {
       "id": "google-ms-trials",
@@ -214,7 +491,19 @@
       "category": "research",
       "kind": "google",
       "enabledByDefault": false,
-      "rightsStatus": "unreviewed"
+      "rightsStatus": "unreviewed",
+      "sourceDetails": {
+        "publisher": "Google News (intermediary index)",
+        "classification": "Research RSS source; locally filtered where applicable",
+        "reviewed": "3 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "Google News terms and each underlying publisher's terms apply; no blanket permission to reproduce summaries or article text was verified.",
+        "commercial_use": "Not verified; broader reuse is not assumed.",
+        "attribution": "Credit the underlying publisher shown in each item and link to the original article.",
+        "termsUrl": "https://news.google.com/terms",
+        "rights_or_corrections_contact": "Use the publisher contact page linked from the source website.",
+        "notes": "Disabled by default. No summary, image or article body is stored or displayed. The linked official publisher page is retained as terms/evidence; RSS-specific reuse permission should be confirmed before enabling."
+      }
     },
     {
       "id": "google-ms-community",
@@ -223,7 +512,19 @@
       "category": "community",
       "kind": "google",
       "enabledByDefault": false,
-      "rightsStatus": "unreviewed"
+      "rightsStatus": "unreviewed",
+      "sourceDetails": {
+        "publisher": "Google News (intermediary index)",
+        "classification": "Community RSS source; locally filtered where applicable",
+        "reviewed": "3 August 2026",
+        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
+        "permission": "Google News terms and each underlying publisher's terms apply; no blanket permission to reproduce summaries or article text was verified.",
+        "commercial_use": "Not verified; broader reuse is not assumed.",
+        "attribution": "Credit the underlying publisher shown in each item and link to the original article.",
+        "termsUrl": "https://news.google.com/terms",
+        "rights_or_corrections_contact": "Use the publisher contact page linked from the source website.",
+        "notes": "Disabled by default. No summary, image or article body is stored or displayed. The linked official publisher page is retained as terms/evidence; RSS-specific reuse permission should be confirmed before enabling."
+      }
     },
     {
       "id": "medicinenet-neurology-ms",

@@ -170,12 +170,13 @@
     "advocacy"
   ],
   "sourceIds": [
+    "rnz-world",
+    "medlineplus-alzheimers",
     "nih-research-matters",
     "nih-news-releases",
     "yahoo-health",
     "london-standard",
     "johns-hopkins-hub",
-    "rnz-world",
     "lifearc"
   ],
   "externalSources": [

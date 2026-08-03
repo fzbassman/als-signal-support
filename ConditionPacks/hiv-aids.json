@@ -27,7 +27,7 @@
     {"id": "advocacy", "heading": "Advocacy and access", "description": "Testing and treatment access, U=U awareness, stigma reduction, human rights, policy and community advocacy.", "terms": ["advocacy", "awareness", "public health", "testing", "access", "affordability", "policy", "foundation", "funding", "stigma", "discrimination", "U=U"]}
   ],
   "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
-  "sourceIds": ["nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "yahoo-health", "rnz-world", "lifearc"],
+  "sourceIds": ["rnz-world", "medlineplus-hiv-aids", "nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "yahoo-health", "lifearc"],
   "externalSources": [
     {
       "id": "medicinenet-hiv",

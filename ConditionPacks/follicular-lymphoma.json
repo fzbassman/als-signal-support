@@ -160,7 +160,7 @@
     }
   ],
   "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
-  "sourceIds": ["nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "lifearc"],
+  "sourceIds": ["medlineplus-follicular-lymphoma", "nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "lifearc"],
   "externalSources": [
     {
       "id": "medicinenet-cancer-follicular-lymphoma",
