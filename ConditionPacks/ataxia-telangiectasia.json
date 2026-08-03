@@ -29,7 +29,7 @@
     {"id": "advocacy", "heading": "Advocacy and awareness", "description": "A-T advocacy, awareness, research funding, policy, access to specialist services and communication about the needs of affected families.", "terms": ["ataxia-telangiectasia advocacy", "A-T awareness", "A-T research funding", "rare disease policy", "ATM advocacy"], "termDefinitions": {"ataxia-telangiectasia advocacy": "Activities intended to improve awareness, services, research or policy for people affected by A-T.", "A-T awareness": "Efforts to improve recognition and understanding of ataxia-telangiectasia.", "A-T research funding": "Financial support for research into A-T biology, care, treatments or outcomes.", "rare disease policy": "Rules or public initiatives affecting people with uncommon conditions and their access to care or research.", "ATM advocacy": "Advocacy focused on ATM-related disease and the needs of affected people and families."}}
   ],
   "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics"],
-  "sourceIds": ["medlineplus-ataxia-telangiectasia", "nih-research-matters", "nih-news-releases"],
+  "sourceIds": ["nih-research-matters", "nih-news-releases"],
   "externalSources": [],
   "donationLinks": [
     {"name": "A-T Children's Project", "detail": "Supports ataxia-telangiectasia research, education and family support.", "url": "https://atcp.org/donate/"},
