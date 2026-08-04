@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "id": "huntingtons-disease",
+  "displayName": "Huntington's Disease",
+  "description": "A focused information pack for Huntington's disease, HTT genetics, symptoms, research, clinical trials and life with the condition. It is an information-discovery aid, not medical advice.",
+  "synopsis": {
+    "overview": "Huntington's disease (HD) is an inherited neurodegenerative condition caused by a disease-associated expansion in the HTT gene. Progressive changes in brain cells can affect movement, thinking, mood and behaviour.",
+    "manifestations": "Symptoms vary and may include involuntary movements, stiffness, impaired coordination, changes in speech or swallowing, difficulties with planning and concentration, depression, irritability or other psychiatric symptoms. Juvenile-onset disease can have a different pattern and progression.",
+    "management": "There is currently no cure. Specialist multidisciplinary care may include medicines for movement or psychiatric symptoms, physiotherapy, occupational and speech therapy, nutritional and swallowing support, mental-health care, advance planning and genetic counselling. Predictive testing should be undertaken through an appropriate genetics service.",
+    "outlook": "HD is lifelong and progressive, but its timing, symptoms and rate of change vary widely. Research includes disease-modifying, gene-targeted and symptom-focused approaches. A personal outlook should be discussed with the treating team and should not be inferred from a search result or family history alone.",
+    "reviewed": "2026-08-04",
+    "sources": [
+      {
+        "name": "NHS: Huntington's disease",
+        "url": "https://www.nhs.uk/conditions/huntingtons-disease/"
+      },
+      {
+        "name": "MedlinePlus: Huntington's disease",
+        "url": "https://medlineplus.gov/huntingtonsdisease.html"
+      },
+      {
+        "name": "MedlinePlus Genetics: Huntington disease",
+        "url": "https://medlineplus.gov/genetics/condition/huntingtons-disease/"
+      },
+      {
+        "name": "Huntington's Disease Society of America",
+        "url": "https://hdsa.org/"
+      }
+    ]
+  },
+  "trialTerms": [
+    "Huntington disease",
+    "Huntington's disease",
+    "HTT",
+    "Huntington clinical trial",
+    "gene silencing Huntington",
+    "antisense Huntington",
+    "gene therapy Huntington",
+    "tetrabenazine"
+  ],
+  "publicationTerms": [
+    "Huntington disease",
+    "Huntington's disease",
+    "HTT",
+    "Huntington research",
+    "Huntington genetics",
+    "Huntington treatment",
+    "Huntington symptoms"
+  ],
+  "relevanceTerms": [
+    "Huntington disease",
+    "Huntington's disease",
+    "Huntington disease",
+    "Huntington’s disease",
+    "HTT gene",
+    "HTT CAG repeat",
+    "juvenile Huntington disease",
+    "Huntington clinical trial",
+    "Huntington research",
+    "Huntington treatment",
+    "Huntington support",
+    "Huntington genetics"
+  ],
+  "topics": [
+    {
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "description": "Registered Huntington's disease studies, including gene-targeted, antisense, biomarker, rehabilitation and symptom-treatment research. A listing does not indicate eligibility or recommendation.",
+      "terms": [
+        "Huntington clinical trial",
+        "Huntington study",
+        "HTT clinical trial",
+        "gene silencing Huntington",
+        "antisense Huntington",
+        "trial recruitment",
+        "recruiting",
+        "investigational"
+      ],
+      "termDefinitions": {}
+    },
+    {
+      "id": "treatments",
+      "heading": "Treatment and symptom care",
+      "description": "Medicines and multidisciplinary care addressing movement, mood, thinking, swallowing, communication, nutrition, mobility and daily function in Huntington's disease.",
+      "terms": [
+        "Huntington treatment",
+        "chorea",
+        "tetrabenazine",
+        "movement symptoms",
+        "speech therapy Huntington",
+        "occupational therapy Huntington",
+        "swallowing support Huntington"
+      ],
+      "termDefinitions": {
+        "tetrabenazine": "A medicine used in some settings to reduce chorea; suitability and monitoring require clinical advice.",
+        "chorea": "Involuntary, irregular, flowing movements that may occur in Huntington disease."
+      }
+    },
+    {
+      "id": "research",
+      "heading": "Research and innovation",
+      "description": "Research into HTT biology, CAG repeats, disease mechanisms, biomarkers, gene silencing, gene therapy, neuroprotection, cognition and care approaches.",
+      "terms": [
+        "Huntington research",
+        "HTT research",
+        "Huntington gene therapy",
+        "Huntington antisense",
+        "Huntington biomarker",
+        "CAG repeat research"
+      ],
+      "termDefinitions": {}
+    },
+    {
+      "id": "genetics",
+      "heading": "Genetics and testing",
+      "description": "HTT inheritance, CAG repeats, family risk, genetic counselling, predictive testing and reproductive options; results require qualified interpretation.",
+      "terms": [
+        "HTT gene",
+        "HTT CAG repeat",
+        "genetic counselling",
+        "predictive testing",
+        "Huntington genetics",
+        "autosomal dominant"
+      ],
+      "termDefinitions": {
+        "HTT gene": "The gene in which a disease-associated CAG repeat expansion causes Huntington disease.",
+        "HTT CAG repeat": "A repeated DNA sequence in the HTT gene; its length is interpreted by a genetics service in clinical context.",
+        "genetic counselling": "A specialist process explaining inherited-condition risks, testing choices, results and family-planning considerations.",
+        "predictive testing": "Testing an asymptomatic person with relevant family risk to determine whether a disease-associated genetic change is present; it requires specialist counselling."
+      }
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with Huntington's disease",
+      "description": "Daily life, movement and communication support, mental wellbeing, relationships, work, activities, nutrition, safety and future planning for people living with HD.",
+      "terms": [
+        "living with Huntington's disease",
+        "Huntington daily life",
+        "Huntington mental health",
+        "Huntington communication",
+        "Huntington nutrition",
+        "Huntington safety"
+      ],
+      "termDefinitions": {}
+    },
+    {
+      "id": "caregiving",
+      "heading": "Family and caregiving",
+      "description": "Information for families and care partners about changing needs, communication, support services, safeguarding, respite and care coordination.",
+      "terms": [
+        "Huntington caregiver",
+        "Huntington family support",
+        "Huntington care partner",
+        "Huntington respite",
+        "Huntington care planning"
+      ],
+      "termDefinitions": {}
+    },
+    {
+      "id": "advocacy",
+      "heading": "Advocacy and access",
+      "description": "Patient organisations, research participation, public awareness, equitable access to specialist services, disability inclusion and community support.",
+      "terms": [
+        "Huntington advocacy",
+        "Huntington support",
+        "Huntington patient organisation",
+        "Huntington awareness",
+        "Huntington access",
+        "Huntington funding"
+      ],
+      "termDefinitions": {}
+    }
+  ],
+  "defaultTopics": [
+    "clinicalTrials",
+    "treatments",
+    "research",
+    "genetics",
+    "livingWithAls",
+    "caregiving",
+    "advocacy"
+  ],
+  "sourceIds": [
+    "nih-research-matters",
+    "nih-news-releases"
+  ],
+  "externalSources": [],
+  "donationLinks": [
+    {
+      "name": "Huntington's Disease Society of America",
+      "detail": "Supports HD family services, education, advocacy and research in the United States.",
+      "url": "https://hdsa.org/get-involved/donate/"
+    },
+    {
+      "name": "Huntington's Disease Association",
+      "detail": "Supports people and families affected by HD in the UK.",
+      "url": "https://www.hda.org.uk/donate"
+    },
+    {
+      "name": "Huntington Society of Canada",
+      "detail": "Supports HD education, advocacy, research and family services in Canada.",
+      "url": "https://www.huntingtonsociety.ca/donate/"
+    }
+  ]
+}

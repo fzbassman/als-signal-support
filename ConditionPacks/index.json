@@ -90,6 +90,12 @@
     "displayName": "Cystic Fibrosis",
     "version": 1,
     "asset": "assets/condition_packs/cystic-fibrosis.json"
+  },
+  {
+    "id": "huntingtons-disease",
+    "displayName": "Huntington's Disease",
+    "version": 1,
+    "asset": "assets/condition_packs/huntingtons-disease.json"
   }
 ]
 }
