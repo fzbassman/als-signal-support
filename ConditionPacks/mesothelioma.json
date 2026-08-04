@@ -34,8 +34,9 @@
   "externalSources":[
     {"id":"medicinenet-cancer-mesothelioma","name":"MedicineNet · Mesothelioma","url":"https://www.medicinenet.com/mesothelioma/article.htm","category":"Research","kind":"headlineOnly","enabledByDefault":false,"rightsStatus":"Reviewed publisher page; disabled metadata/link-only use"},
     {"id":"mesothelioma-uk-feed","name":"Mesothelioma UK","url":"https://www.mesothelioma.uk.com/feed/","category":"Community","kind":"headlineOnly","enabledByDefault":false,"rightsStatus":"Reviewed organization feed; disabled metadata/link-only use"},
-    {"id":"adao-feed","name":"Asbestos Disease Awareness Organization","url":"https://www.adao.us/feed/","category":"Community","kind":"headlineOnly","enabledByDefault":false,"rightsStatus":"Reviewed organization feed; disabled metadata/link-only use"},
-    {"id":"june-hancock-feed","name":"June Hancock Mesothelioma Research Fund","url":"https://www.junehancockfund.org/feed/","category":"Research","kind":"headlineOnly","enabledByDefault":false,"rightsStatus":"Reviewed organization feed; disabled metadata/link-only use"},
+    {"id":"adao-feed","name":"Asbestos Disease Awareness Organization","url":"https://www.asbestosdiseaseawareness.org/feed/","category":"Community","kind":"headlineOnly","enabledByDefault":false,"rightsStatus":"Reviewed organization feed; disabled metadata/link-only use"},
+    {"id":"hasag-feed","name":"HASAG","url":"https://www.hasag.co.uk/feed/","category":"Community","kind":"headlineOnly","enabledByDefault":false,"rightsStatus":"Reviewed organization feed; disabled metadata/link-only use"},
+    {"id":"asbestos-support-ce-feed","name":"Asbestos Support Central England","url":"https://asbestossupportce.org/feed/","category":"Community","kind":"headlineOnly","enabledByDefault":false,"rightsStatus":"Reviewed organization feed; disabled metadata/link-only use"},
     {"id":"nature-mesothelioma","name":"Nature · Mesothelioma","url":"https://www.nature.com/subjects/mesothelioma.rss","category":"Research","kind":"headlineOnly","enabledByDefault":false,"rightsStatus":"Reviewed subject feed; disabled metadata/link-only use"},
     {"id":"clinicaltrials-mesothelioma","name":"ClinicalTrials.gov · Mesothelioma","url":"https://clinicaltrials.gov/api/rss?cond=Mesothelioma","category":"Research","kind":"headlineOnly","enabledByDefault":false,"rightsStatus":"Reviewed registry feed; disabled metadata/link-only use"},
     {"id":"arxiv-mesothelioma","name":"arXiv · Mesothelioma","url":"https://export.arxiv.org/api/query?search_query=all%3Amesothelioma&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending","category":"Research","kind":"headlineOnly","enabledByDefault":false,"rightsStatus":"Reviewed Atom query; disabled metadata/link-only use"},
@@ -58,7 +59,8 @@
     {"name":"Mesothelioma Applied Research Foundation","detail":"Supports mesothelioma research, education and patient support in the United States.","url":"https://www.curemeso.org/donate/donate-online/"},
     {"name":"Mesothelioma UK","detail":"Supports mesothelioma information, services and research in the United Kingdom.","url":"https://www.mesothelioma.uk.com/donate/"},
     {"name":"Canadian Mesothelioma Foundation","detail":"Supports mesothelioma awareness, education and research in Canada.","url":"https://cmfonline.org/donate"},
-    {"name":"Asbestos Disease Awareness Organization","detail":"Supports asbestos disease awareness, advocacy and prevention.","url":"https://www.adao.us/donate/"},
+    {"name":"Asbestos Disease Awareness Organization","detail":"Supports asbestos disease awareness, advocacy and prevention.","url":"https://www.asbestosdiseaseawareness.org/donate/"},
+    {"name":"Asbestos Support Central England","detail":"Supports people and families affected by asbestos-related disease in central England.","url":"https://asbestossupportce.org/donate/"},
     {"name":"Cancer Research UK","detail":"Supports cancer research and services in the United Kingdom.","url":"https://www.cancerresearchuk.org/get-involved/donate"}
   ]
 }
