@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "id": "cystic-fibrosis",
+  "displayName": "Cystic Fibrosis",
+  "description": "A focused information pack for cystic fibrosis, CFTR biology, respiratory and digestive care, research, clinical trials and life with the condition. It is an information-discovery aid, not medical advice.",
+  "synopsis": {
+    "overview": "Cystic fibrosis (CF) is an inherited condition caused by changes in the CFTR gene. Abnormal CFTR protein affects salt and water movement, producing thick, sticky mucus that can affect the lungs, digestive system and other organs.",
+    "manifestations": "CF commonly involves persistent cough, recurrent chest infections, wheeze, breathlessness, reduced lung function and difficulty clearing mucus. It may also cause pancreatic insufficiency, digestive symptoms, poor growth, CF-related diabetes, liver disease, infertility in many men and other complications; presentation varies widely.",
+    "management": "Care is coordinated by specialist teams and may include airway-clearance techniques, inhaled medicines, antibiotics when indicated, CFTR modulator medicines for eligible variants, pancreatic enzymes, nutrition support, exercise and monitoring of complications. Some people with advanced lung disease may be assessed for transplantation.",
+    "outlook": "CF is lifelong and variable. Advances in diagnosis, infection treatment, nutrition, specialist care and CFTR modulators have improved outcomes for many people, but complications and access to effective therapies differ. An individual outlook should be discussed with the CF care team.",
+    "reviewed": "2026-08-04",
+    "sources": [
+      {
+        "name": "NHS: Cystic fibrosis",
+        "url": "https://www.nhs.uk/conditions/cystic-fibrosis/"
+      },
+      {
+        "name": "MedlinePlus: Cystic fibrosis",
+        "url": "https://medlineplus.gov/cysticfibrosis.html"
+      },
+      {
+        "name": "Cystic Fibrosis Foundation: About cystic fibrosis",
+        "url": "https://www.cff.org/what-is-cystic-fibrosis"
+      }
+    ]
+  },
+  "trialTerms": [
+    "cystic fibrosis",
+    "CFTR",
+    "CFTR modulator",
+    "cystic fibrosis clinical trial",
+    "cystic fibrosis gene therapy",
+    "cystic fibrosis mRNA",
+    "airway clearance",
+    "pulmonary exacerbation"
+  ],
+  "publicationTerms": [
+    "cystic fibrosis",
+    "CFTR",
+    "cystic fibrosis research",
+    "CFTR modulator",
+    "cystic fibrosis lung disease",
+    "cystic fibrosis infection",
+    "cystic fibrosis nutrition"
+  ],
+  "relevanceTerms": [
+    "cystic fibrosis",
+    "cystic-fibrosis",
+    "CFTR",
+    "CFTR variant",
+    "cystic fibrosis clinical trial",
+    "cystic fibrosis research",
+    "cystic fibrosis treatment",
+    "cystic fibrosis support",
+    "cystic fibrosis advocacy",
+    "cystic fibrosis gene therapy",
+    "cystic fibrosis mRNA",
+    "CFTR modulator",
+    "cystic fibrosis lung disease",
+    "cystic fibrosis nutrition",
+    "cystic fibrosis care"
+  ],
+  "topics": [
+    {
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "description": "Registered cystic-fibrosis studies, including trials of CFTR modulators, infection treatments, airway clearance, nutrition, gene or mRNA therapies and monitoring. A listing does not indicate eligibility or recommendation.",
+      "terms": [
+        "cystic fibrosis clinical trial",
+        "CF clinical trial",
+        "CFTR modulator trial",
+        "cystic fibrosis study",
+        "trial recruitment",
+        "recruiting",
+        "investigational",
+        "trial results"
+      ],
+      "termDefinitions": {}
+    },
+    {
+      "id": "treatments",
+      "heading": "Treatment and care",
+      "description": "Medicines and specialist care for airway clearance, infections, CFTR variants, digestion, nutrition, diabetes and other complications.",
+      "terms": [
+        "cystic fibrosis treatment",
+        "CFTR modulator",
+        "airway clearance",
+        "nebulized treatment",
+        "inhaled antibiotic",
+        "pancreatic enzyme replacement",
+        "pulmonary exacerbation",
+        "lung transplant"
+      ],
+      "termDefinitions": {
+        "CFTR modulator": "A medicine designed to improve the function, amount or processing of altered CFTR protein for people with particular variants.",
+        "airway clearance": "Techniques and treatments used to move mucus out of the lungs.",
+        "pancreatic enzyme replacement": "Prescribed digestive enzymes used when pancreatic insufficiency reduces digestion or nutrient absorption.",
+        "pulmonary exacerbation": "A sustained worsening of respiratory symptoms or lung function that may require additional assessment or treatment.",
+        "lung transplant": "A major operation replacing diseased lungs for a small group with advanced lung disease."
+      }
+    },
+    {
+      "id": "research",
+      "heading": "Research and innovation",
+      "description": "Laboratory, translational and clinical research on CFTR biology, infection, inflammation, lung repair, gene and mRNA therapies, medicines and long-term outcomes.",
+      "terms": [
+        "cystic fibrosis research",
+        "CFTR research",
+        "cystic fibrosis gene therapy",
+        "cystic fibrosis mRNA",
+        "CF lung research",
+        "CF drug development",
+        "cystic fibrosis outcomes"
+      ],
+      "termDefinitions": {}
+    },
+    {
+      "id": "genetics",
+      "heading": "Genetics and testing",
+      "description": "CFTR inheritance, variant testing, newborn screening, carrier testing and precision treatment; genetic results require qualified interpretation.",
+      "terms": [
+        "CFTR",
+        "CFTR variant",
+        "cystic fibrosis mutation",
+        "cystic fibrosis carrier",
+        "newborn screening cystic fibrosis",
+        "CFTR genotype",
+        "autosomal recessive"
+      ],
+      "termDefinitions": {
+        "CFTR": "The gene that provides instructions for a protein regulating salt and water movement across cell surfaces; disease-causing variants can cause cystic fibrosis.",
+        "CFTR variant": "A change in the CFTR gene; its clinical significance depends on the specific variant and clinical context.",
+        "autosomal recessive": "An inheritance pattern in which a person generally needs disease-causing variants in both copies of a gene to have the condition."
+      }
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with cystic fibrosis",
+      "description": "Daily life, respiratory health, nutrition, exercise, school, work, mental wellbeing, relationships, fertility, transitions and practical support for people living with CF.",
+      "terms": [
+        "living with cystic fibrosis",
+        "cystic fibrosis daily life",
+        "CF nutrition",
+        "CF exercise",
+        "CF mental health",
+        "CF fertility",
+        "CF school support",
+        "CF adult care"
+      ],
+      "termDefinitions": {}
+    },
+    {
+      "id": "caregiving",
+      "heading": "Family and caregiving",
+      "description": "Information for parents, families, care partners and support networks, including treatment routines, infection precautions, education, emotional support and care coordination.",
+      "terms": [
+        "cystic fibrosis caregiver",
+        "CF parent support",
+        "cystic fibrosis family support",
+        "CF care coordination",
+        "CF transition care",
+        "CF respite"
+      ],
+      "termDefinitions": {}
+    },
+    {
+      "id": "advocacy",
+      "heading": "Advocacy and access",
+      "description": "Patient organisations, public policy, equitable access to specialist care and medicines, disability inclusion, research participation, awareness and community support.",
+      "terms": [
+        "cystic fibrosis advocacy",
+        "CF access",
+        "cystic fibrosis awareness",
+        "CF patient organisation",
+        "CF health policy",
+        "CF support group",
+        "cystic fibrosis funding"
+      ],
+      "termDefinitions": {}
+    }
+  ],
+  "defaultTopics": [
+    "clinicalTrials",
+    "treatments",
+    "research",
+    "genetics",
+    "livingWithAls",
+    "caregiving",
+    "advocacy"
+  ],
+  "sourceIds": [
+    "nih-research-matters",
+    "nih-news-releases"
+  ],
+  "externalSources": [],
+  "donationLinks": [
+    {
+      "name": "Cystic Fibrosis Foundation",
+      "detail": "Supports cystic-fibrosis research, care, advocacy and community programmes.",
+      "url": "https://www.cff.org/donate"
+    },
+    {
+      "name": "Cystic Fibrosis Trust",
+      "detail": "Supports people affected by CF, research, information and advocacy in the UK.",
+      "url": "https://www.cysticfibrosis.org.uk/get-involved/donate"
+    },
+    {
+      "name": "Cystic Fibrosis Canada",
+      "detail": "Supports CF research, advocacy and community services in Canada.",
+      "url": "https://www.cysticfibrosis.ca/donate"
+    }
+  ]
+}
