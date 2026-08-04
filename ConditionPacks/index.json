@@ -96,6 +96,12 @@
     "displayName": "Huntington's Disease",
     "version": 1,
     "asset": "assets/condition_packs/huntingtons-disease.json"
+  },
+  {
+    "id": "mesothelioma",
+    "displayName": "Mesothelioma",
+    "version": 1,
+    "asset": "assets/condition_packs/mesothelioma.json"
   }
 ]
 }
