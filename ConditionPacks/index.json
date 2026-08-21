@@ -102,6 +102,12 @@
     "displayName": "Mesothelioma",
     "version": 1,
     "asset": "assets/condition_packs/mesothelioma.json"
+  },
+  {
+    "id": "lupus",
+    "displayName": "Lupus (Systemic Lupus Erythematosus)",
+    "version": 1,
+    "asset": "assets/condition_packs/lupus.json"
   }
 ]
 }
