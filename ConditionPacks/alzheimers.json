@@ -263,6 +263,187 @@
         "rights_or_corrections_contact": "https://www.medicinenet.com/about_us/info.htm",
         "notes": "Verified live condition-specific RSS endpoint. Disabled by default and limited to headline, date, attribution and outbound link; no description, image or article body is stored or displayed."
       }
+    },
+    {
+      "id": "alzheimers-research-uk-news",
+      "name": "Alzheimer's Research UK · News",
+      "url": "https://www.alzheimersresearchuk.org/feed/",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "headlineAttributionLinkOnly",
+      "sourceDetails": {
+        "publisher": "Alzheimer's Research UK",
+        "classification": "Dementia research and charity news",
+        "reviewed": "23 September 2026",
+        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
+        "permission": "Official RSS endpoint verified, but no feed-specific republication licence was located. Use conservative metadata and link-only display.",
+        "commercial_use": "Not verified; disabled by default pending publisher confirmation",
+        "attribution": "Credit Alzheimer's Research UK and link to the original item.",
+        "termsUrl": "https://www.alzheimersresearchuk.org/terms-and-conditions/",
+        "rights_or_corrections_contact": "https://www.alzheimersresearchuk.org/about-us/how-we-do-it/our-supporters/supporter-care/",
+        "notes": "HTTP 200 application/rss+xml; XML parsed successfully. The feed is locally filtered for Alzheimer's and dementia relevance. No summary, image or article body is stored or displayed."
+      }
+    },
+    {
+      "id": "alzheimers-society-news",
+      "name": "Alzheimer's Society · Dementia News",
+      "url": "https://www.alzheimers.org.uk/rss.xml",
+      "category": "community",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "permissionRequiredMetadataOnly",
+      "sourceDetails": {
+        "publisher": "Alzheimer's Society",
+        "classification": "Dementia news, research and community coverage",
+        "reviewed": "23 September 2026",
+        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
+        "permission": "Official RSS endpoint verified. The Society requires permission for reuse of website content and prohibits commercial reuse without prior authorisation; retain this as a disabled, metadata-only candidate.",
+        "commercial_use": "Not permitted without prior authorisation",
+        "attribution": "Credit Alzheimer's Society and link to the original item.",
+        "termsUrl": "https://www.alzheimers.org.uk/form/request-to-reuse-information",
+        "rights_or_corrections_contact": "https://www.alzheimers.org.uk/form/request-to-reuse-information",
+        "notes": "HTTP 200 application/rss+xml; XML parsed successfully. The source is locally filtered for Alzheimer's and dementia relevance. No summary, image or article body is stored or displayed."
+      }
+    },
+    {
+      "id": "alzheimer-scotland-news",
+      "name": "Alzheimer Scotland · News",
+      "url": "https://www.alzscot.org/feed/",
+      "category": "community",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "permissionRequiredMetadataOnly",
+      "sourceDetails": {
+        "publisher": "Alzheimer Scotland",
+        "classification": "Scottish dementia news, research and community coverage",
+        "reviewed": "23 September 2026",
+        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
+        "permission": "Official RSS endpoint verified. Website terms permit private copying but require prior written permission for other reproduction; retain as a disabled, metadata-only candidate.",
+        "commercial_use": "Not permitted without prior written permission",
+        "attribution": "Credit Alzheimer Scotland and link to the original item.",
+        "termsUrl": "https://www.alzscot.org/terms-and-conditions/",
+        "rights_or_corrections_contact": "https://www.alzscot.org/contact-us/",
+        "notes": "HTTP 200 application/rss+xml; XML parsed successfully. The source is locally filtered for Alzheimer's and dementia relevance. No summary, image or article body is stored or displayed."
+      }
+    },
+    {
+      "id": "alzheimers-disease-international-news",
+      "name": "Alzheimer's Disease International · News",
+      "url": "https://www.alzint.org/feed/",
+      "category": "community",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "headlineAttributionLinkOnly",
+      "sourceDetails": {
+        "publisher": "Alzheimer's Disease International",
+        "classification": "International dementia advocacy, research and community news",
+        "reviewed": "23 September 2026",
+        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
+        "permission": "ADI permits linking and short attributed extracts, but no feed-specific republication licence was located. Health Signal retains only conservative metadata and the original link.",
+        "commercial_use": "Not verified; disabled by default",
+        "attribution": "Credit Alzheimer's Disease International and link to the original item.",
+        "termsUrl": "https://www.alzint.org/terms-of-use/",
+        "rights_or_corrections_contact": "mailto:info@alzint.org",
+        "notes": "HTTP 200 application/rss+xml; XML parsed successfully. The source is locally filtered for Alzheimer's and dementia relevance. No summary, image or article body is stored or displayed."
+      }
+    },
+    {
+      "id": "dementia-uk-news",
+      "name": "Dementia UK · News",
+      "url": "https://www.dementiauk.org/feed/",
+      "category": "community",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "permissionRequiredMetadataOnly",
+      "sourceDetails": {
+        "publisher": "Dementia UK",
+        "classification": "UK dementia support, research and charity news",
+        "reviewed": "23 September 2026",
+        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
+        "permission": "Official RSS endpoint verified. Dementia UK terms reserve website content and prohibit copying, storage, distribution or public display without prior written permission; retain as a disabled, metadata-only candidate.",
+        "commercial_use": "Not permitted without prior written permission",
+        "attribution": "Credit Dementia UK and link to the original item.",
+        "termsUrl": "https://www.dementiauk.org/policies/terms-and-conditions/",
+        "rights_or_corrections_contact": "https://www.dementiauk.org/contact-us/",
+        "notes": "HTTP 200 application/rss+xml; XML parsed successfully. The source is locally filtered for Alzheimer's and dementia relevance. No summary, image or article body is stored or displayed."
+      }
+    },
+    {
+      "id": "lewy-body-society-news",
+      "name": "Lewy Body Society · News",
+      "url": "https://www.lewybody.org/feed/",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "headlineAttributionLinkOnly",
+      "sourceDetails": {
+        "publisher": "Lewy Body Society",
+        "classification": "Lewy body dementia research and community news",
+        "reviewed": "23 September 2026",
+        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
+        "permission": "Official RSS endpoint verified, but no feed-specific republication licence was located. Use conservative metadata and link-only display.",
+        "commercial_use": "Not verified; disabled by default",
+        "attribution": "Credit Lewy Body Society and link to the original item.",
+        "termsUrl": "https://www.lewybody.org/terms-and-conditions/",
+        "rights_or_corrections_contact": "https://www.lewybody.org/about-us/contact-us/",
+        "notes": "HTTP 200 application/rss+xml; XML parsed successfully. The source is locally filtered for Alzheimer's and dementia relevance. No summary, image or article body is stored or displayed."
+      }
+    },
+    {
+      "id": "alzheimers-foundation-of-america-news",
+      "name": "Alzheimer's Foundation of America · News",
+      "url": "https://alzfdn.org/feed/",
+      "category": "community",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "headlineAttributionLinkOnly",
+      "sourceDetails": {
+        "publisher": "Alzheimer's Foundation of America",
+        "classification": "US Alzheimer's and dementia care, caregiver and foundation news",
+        "reviewed": "23 September 2026",
+        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
+        "permission": "Official RSS endpoint verified, but no feed-specific reuse licence was located. Use conservative metadata and link-only display.",
+        "commercial_use": "Not verified; disabled by default",
+        "attribution": "Credit Alzheimer's Foundation of America and link to the original item.",
+        "termsUrl": "https://alzfdn.org/terms-conditions/",
+        "rights_or_corrections_contact": "https://alzfdn.org/contact-us/",
+        "notes": "HTTP 200 application/rss+xml; XML parsed successfully. The source is locally filtered for Alzheimer's and dementia relevance. No summary, image or article body is stored or displayed."
+      }
+    },
+    {
+      "id": "alzheimers-research-prevention-foundation-news",
+      "name": "Alzheimer's Research & Prevention Foundation · News",
+      "url": "https://alzheimersprevention.org/feed/",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "headlineAttributionLinkOnly",
+      "sourceDetails": {
+        "publisher": "Alzheimer's Research & Prevention Foundation",
+        "classification": "US Alzheimer's prevention research and education news",
+        "reviewed": "23 September 2026",
+        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
+        "permission": "Official RSS endpoint verified, but no feed-specific reuse licence was located. Use conservative metadata and link-only display.",
+        "commercial_use": "Not verified; disabled by default",
+        "attribution": "Credit Alzheimer's Research & Prevention Foundation and link to the original item.",
+        "termsUrl": "https://alzheimersprevention.org/privacy-policy/",
+        "rights_or_corrections_contact": "https://alzheimersprevention.org/",
+        "notes": "HTTP 200 application/rss+xml; XML parsed successfully. The source is locally filtered for Alzheimer's and dementia relevance. No summary, image or article body is stored or displayed."
+      }
     }
+  ],
+  "donationLinks": [
+    {"name": "Alzheimer's Research UK", "detail": "Funds dementia research seeking better prevention, diagnosis and treatments.", "url": "https://www.alzheimersresearchuk.org/how-you-can-help/donate/"},
+    {"name": "Alzheimer's Society", "detail": "Supports people affected by dementia and funds research in the UK.", "url": "https://www.alzheimers.org.uk/get-involved/donate"},
+    {"name": "Alzheimer's Association", "detail": "Supports Alzheimer's care, education, advocacy and research in the United States.", "url": "https://www.alz.org/get-involved-now/donate"},
+    {"name": "Alzheimer Scotland", "detail": "Supports people affected by dementia and funds services, advocacy and research in Scotland.", "url": "https://www.alzscot.org/campaign-for-change/donate/"},
+    {"name": "Alzheimer's Disease International", "detail": "Supports the global federation of Alzheimer and dementia associations.", "url": "https://www.alzint.org/donate/"},
+    {"name": "Dementia UK", "detail": "Funds specialist dementia nursing and support for families across the UK.", "url": "https://www.dementiauk.org/donate/"},
+    {"name": "Alzheimer's Drug Discovery Foundation", "detail": "Funds research to accelerate drugs for Alzheimer's disease and related dementias.", "url": "https://www.alzdiscovery.org/donate"},
+    {"name": "Lewy Body Society", "detail": "Supports awareness and research for people affected by Lewy body dementia.", "url": "https://www.lewybody.org/donation/"},
+    {"name": "Alzheimer's Foundation of America", "detail": "Supports families affected by Alzheimer's disease and related dementias through care, education, support and research.", "url": "https://alzfdn.org/donate/"},
+    {"name": "Alzheimer's Research & Prevention Foundation", "detail": "Funds Alzheimer's prevention research, education and outreach programs.", "url": "https://alzheimersprevention.org/donate/"},
+    {"name": "BrightFocus Foundation · Alzheimer's Disease Research", "detail": "Funds Alzheimer's disease research and public information through a US charitable foundation program.", "url": "https://donate.brightfocus.org/adr/donate-5"}
   ]
 }
