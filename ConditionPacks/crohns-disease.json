@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "id": "crohns-disease",
+  "displayName": "Crohn's Disease",
+  "description": "An information-discovery profile for Crohn's disease. It surfaces public trials, publication metadata and carefully filtered headlines; it does not diagnose, recommend treatment or studies, assess eligibility, or interpret findings.",
+  "synopsis": {
+    "overview": "Crohn's disease is a chronic inflammatory disease that can affect anywhere from the mouth to the anus. It is one of the main forms of inflammatory bowel disease, but it is distinct from ulcerative colitis and irritable bowel syndrome.",
+    "manifestations": "Symptoms vary with the location and severity of inflammation and may include diarrhoea, abdominal cramping or pain, weight loss, tiredness, fever, anaemia, nausea, joint symptoms, eye inflammation, and skin changes. Periods of active symptoms can alternate with remission, and complications may include strictures, fistulas, abscesses or nutritional problems.",
+    "management": "There is no single treatment plan for everyone. Clinicians may use medicines to reduce inflammation and maintain remission, nutrition and supportive care, monitoring, and surgery for selected complications or disease that does not respond adequately to medicines. Diagnosis and treatment decisions require an appropriately qualified healthcare team.",
+    "outlook": "Crohn's disease varies widely between people and over time. Some people have long periods of remission, while others experience recurring inflammation or complications. Ongoing follow-up helps care teams monitor disease activity, treatment response and nutrition, but a general information profile cannot predict an individual's course.",
+    "reviewed": "2026-10-01",
+    "sources": [
+      {"name": "NIDDK: Crohn's Disease", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease"},
+      {"name": "NHS: Crohn's disease", "url": "https://www.nhs.uk/conditions/crohns-disease/"}
+    ]
+  },
+  "trialTerms": [
+    "Crohn's disease",
+    "Crohn disease",
+    "regional enteritis",
+    "ileitis",
+    "ileocolitis",
+    "pediatric Crohn's disease",
+    "perianal Crohn's disease",
+    "stricturing Crohn's disease",
+    "fistulizing Crohn's disease"
+  ],
+  "publicationTerms": [
+    "Crohn's disease",
+    "Crohn disease",
+    "regional enteritis",
+    "ileitis",
+    "ileocolitis",
+    "pediatric Crohn's disease",
+    "perianal Crohn's disease",
+    "stricturing Crohn's disease",
+    "fistulizing Crohn's disease",
+    "NOD2 Crohn's disease",
+    "Crohn's disease remission"
+  ],
+  "relevanceTerms": [
+    "Crohn's disease",
+    "Crohn disease",
+    "regional enteritis",
+    "Crohn's ileitis",
+    "Crohn's ileocolitis",
+    "perianal Crohn's disease",
+    "stricturing Crohn's disease",
+    "fistulizing Crohn's disease",
+    "pediatric Crohn's disease",
+    "Crohn's disease remission",
+    "Crohn's disease flare"
+  ],
+  "topics": [
+    {
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "description": "Registered Crohn's disease studies, including recruitment, study progress and reported results. A listing does not indicate eligibility or that a study is recommended.",
+      "terms": ["Crohn's disease clinical trial", "Crohn disease clinical study", "clinical trial", "study recruitment", "recruiting", "investigational", "trial results"]
+    },
+    {
+      "id": "treatments",
+      "heading": "Treatment and care",
+      "description": "Medicines, surgery and multidisciplinary care used to control Crohn's inflammation, manage complications and support remission; treatment choices require clinical assessment.",
+      "terms": ["Crohn's disease treatment", "Crohn's disease medicine", "biologic therapy", "budesonide", "infliximab", "adalimumab", "ustekinumab", "risankizumab", "upadacitinib", "corticosteroid", "immunomodulator", "bowel surgery", "nutrition support", "remission"],
+      "termDefinitions": {
+        "budesonide": "A corticosteroid medicine used in some inflammatory bowel disease treatment plans; its use and formulation depend on the clinical situation.",
+        "infliximab": "A biologic medicine that blocks tumour necrosis factor and may be used for selected inflammatory conditions, including Crohn's disease.",
+        "adalimumab": "A biologic medicine that blocks tumour necrosis factor and may be used for selected inflammatory conditions, including Crohn's disease.",
+        "ustekinumab": "A biologic medicine that targets interleukin pathways and may be used for selected inflammatory conditions, including Crohn's disease.",
+        "risankizumab": "A biologic medicine that targets an interleukin pathway and may be used for selected inflammatory conditions, including Crohn's disease.",
+        "upadacitinib": "A small-molecule medicine that affects immune signalling and may be used for selected inflammatory conditions; treatment decisions require clinical assessment.",
+        "biologic therapy": "Treatment made using biological molecules, often designed to act on specific immune or inflammatory pathways."
+      }
+    },
+    {
+      "id": "research",
+      "heading": "Research",
+      "description": "Research into Crohn's disease inflammation, immune pathways, genetics, microbiome, biomarkers, treatment response, complications and quality of life.",
+      "terms": ["Crohn's disease research", "Crohn research", "inflammatory bowel disease research", "gut inflammation", "microbiome", "biomarker", "natural history", "clinical research"]
+    },
+    {
+      "id": "genetics",
+      "heading": "Genetics and mechanisms",
+      "description": "Genetic, immune and microbiome research relevant to Crohn's disease, including inherited susceptibility and inflammatory pathways; genetic findings require qualified interpretation.",
+      "terms": ["Crohn's disease genetics", "NOD2", "IL23R", "TNF", "genetic susceptibility", "immune pathway", "gut microbiome", "genetic testing"],
+      "termDefinitions": {
+        "NOD2": "A gene involved in recognising components of microbes and regulating immune responses; variants are associated with susceptibility to some Crohn's disease patterns.",
+        "IL23R": "A gene encoding part of an interleukin-23 receptor; variation in this pathway has been studied in inflammatory bowel disease susceptibility.",
+        "TNF": "A signalling protein involved in inflammation. Tumour-necrosis-factor inhibitors are one class of medicines used in some inflammatory diseases.",
+        "genetic susceptibility": "An inherited tendency that may alter risk; it does not by itself establish that someone will develop Crohn's disease."
+      }
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with Crohn's disease",
+      "description": "Daily life with Crohn's disease, including fluctuating symptoms, fatigue, nutrition, work, school, relationships, mental wellbeing and planning around care.",
+      "terms": ["living with Crohn's disease", "Crohn's daily life", "Crohn's fatigue", "Crohn's nutrition", "quality of life", "work and Crohn's", "school and Crohn's", "Crohn's wellbeing"]
+    },
+    {
+      "id": "caregiving",
+      "heading": "Caregiving and support",
+      "description": "Family and care-partner support, practical help, communication, care coordination, education and services for people affected by Crohn's disease.",
+      "terms": ["Crohn's caregiver", "Crohn's care partner", "family support Crohn's", "Crohn's support group", "care coordination", "respite care", "patient support", "community support"]
+    },
+    {
+      "id": "advocacy",
+      "heading": "Advocacy and access",
+      "description": "Crohn's disease awareness, patient voice, access to diagnosis and specialist care, disability inclusion, policy, research funding and public advocacy.",
+      "terms": ["Crohn's advocacy", "Crohn's awareness", "access to care", "patient advocacy", "health policy", "research funding", "disability rights", "health equity"]
+    }
+  ],
+  "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
+  "sourceIds": ["nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "lifearc"],
+  "externalSources": [
+    {
+      "id": "medlineplus-crohns-disease",
+      "name": "MedlinePlus · Crohn's Disease",
+      "url": "https://medlineplus.gov/feeds/topics/crohnsdisease.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "personalUseMetadataOnly",
+      "sourceDetails": {
+        "publisher": "MedlinePlus / U.S. National Library of Medicine",
+        "classification": "Official Crohn's disease topic RSS with restricted reuse",
+        "reviewed": "1 October 2026",
+        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
+        "permission": "MedlinePlus RSS feeds are for personal use only. Health Signal uses this feed only in the user's personal, on-device feed reader; no broad website or information-service redistribution is performed.",
+        "commercial_use": "Personal use only; no commercial or broad information-service redistribution.",
+        "attribution": "Credit MedlinePlus and the U.S. National Library of Medicine and link to the original item.",
+        "termsUrl": "https://medlineplus.gov/about/using/usingcontent/",
+        "rights_or_corrections_contact": "https://medlineplus.gov/about/contactus.html",
+        "notes": "HTTP 200 text/xml; XML parsed successfully. Locally filtered for Crohn's disease relevance. No summary, image or article body is stored or displayed."
+      }
+    },
+    {
+      "id": "niddk-news-crohns-disease",
+      "name": "NIDDK · News",
+      "url": "https://www.niddk.nih.gov/rss/news",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "governmentMetadataLinkOnly",
+      "sourceDetails": {
+        "publisher": "National Institute of Diabetes and Digestive and Kidney Diseases",
+        "classification": "Official broad NIDDK RSS; locally filtered for Crohn's disease relevance",
+        "reviewed": "1 October 2026",
+        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
+        "permission": "NIDDK public information and disclaimer policies apply. Health Signal retains conservative metadata and links only; third-party linked material may have separate rights.",
+        "commercial_use": "Government-source reuse depends on the applicable work and third-party rights; no endorsement is implied.",
+        "attribution": "Credit NIDDK and link to the original item.",
+        "termsUrl": "https://www.niddk.nih.gov/disclaimers",
+        "rights_or_corrections_contact": "https://www.niddk.nih.gov/about-niddk/contact-us",
+        "notes": "HTTP 200 text/xml; XML parsed successfully. Broad NIDDK feed locally filtered for Crohn's and inflammatory bowel disease relevance. No summary, image or article body is stored or displayed."
+      }
+    },
+    {
+      "id": "patient-info-health-crohns-disease",
+      "name": "Patient.info · Health",
+      "url": "https://patient.info/health/rss",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "feedEmbeddingPermissionMetadataOnly",
+      "sourceDetails": {
+        "publisher": "Patient.info / Navigate Health Ltd",
+        "classification": "Broad patient-information RSS; locally filtered for Crohn's relevance",
+        "reviewed": "1 October 2026",
+        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
+        "permission": "Patient.info's official RSS information permits feed embedding in websites and healthcare sites, while its general terms still apply. Health Signal uses the source only in the user's personal, on-device feed reader.",
+        "commercial_use": "Feed embedding permission is subject to the publisher's stated conditions; no commercial redistribution or structured medical-resource reuse.",
+        "attribution": "Credit Patient.info and link to the original item.",
+        "termsUrl": "https://patient.info/terms-and-conditions",
+        "rights_or_corrections_contact": "https://patient.info/contact",
+        "notes": "HTTP 200 text/xml; XML parsed successfully. Locally filtered for explicit Crohn's disease relevance. No summary, image or article body is stored or displayed."
+      }
+    },
+    {
+      "id": "google-news-crohns-disease-news",
+      "name": "Google News · Crohn's disease coverage",
+      "url": "https://news.google.com/rss/search?q=%22Crohn%27s%20disease%22%20OR%20%22inflammatory%20bowel%20disease%22&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "news",
+      "kind": "google",
+      "enabledByDefault": false,
+      "rightsStatus": "personalNonCommercialGoogleFeed",
+      "sourceDetails": {
+        "publisher": "Google News and indexed publishers",
+        "classification": "Google News RSS for personal, non-commercial feed-reader use; underlying publisher terms also apply",
+        "reviewed": "1 October 2026",
+        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
+        "permission": "Copyright © 2026 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.",
+        "commercial_use": "Personal, non-commercial feed-reader use only; commercial use is expressly prohibited.",
+        "attribution": "Credit the underlying publisher shown in each item and link to the original article.",
+        "termsUrl": "https://news.google.com/terms",
+        "rights_or_corrections_contact": "https://support.google.com/news/",
+        "notes": "HTTP 200 XML; exact channel copyright declaration parsed. Global condition search; selected on-device only after user selection. No article body, image or summary is reproduced."
+      }
+    },
+    {
+      "id": "google-news-crohns-disease-research",
+      "name": "Google News · Crohn's disease research",
+      "url": "https://news.google.com/rss/search?q=%28%22Crohn%27s%20disease%22%20OR%20%22inflammatory%20bowel%20disease%22%29%20%28research%20OR%20study%20OR%20%22clinical%20trial%22%29&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "research",
+      "kind": "google",
+      "enabledByDefault": false,
+      "rightsStatus": "personalNonCommercialGoogleFeed",
+      "sourceDetails": {
+        "publisher": "Google News and indexed publishers",
+        "classification": "Google News RSS for personal, non-commercial feed-reader use; underlying publisher terms also apply",
+        "reviewed": "1 October 2026",
+        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
+        "permission": "Copyright © 2026 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.",
+        "commercial_use": "Personal, non-commercial feed-reader use only; commercial use is expressly prohibited.",
+        "attribution": "Credit the underlying publisher shown in each item and link to the original article.",
+        "termsUrl": "https://news.google.com/terms",
+        "rights_or_corrections_contact": "https://support.google.com/news/",
+        "notes": "HTTP 200 XML; exact channel copyright declaration parsed. Research and clinical-trial query; selected on-device only after user selection. No article body, image or summary is reproduced."
+      }
+    },
+    {
+      "id": "google-news-crohns-disease-community",
+      "name": "Google News · Crohn's disease support and community",
+      "url": "https://news.google.com/rss/search?q=%28%22Crohn%27s%20disease%22%20OR%20%22inflammatory%20bowel%20disease%22%29%20%28support%20OR%20caregiver%20OR%20advocacy%20OR%20community%29&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "community",
+      "kind": "google",
+      "enabledByDefault": false,
+      "rightsStatus": "personalNonCommercialGoogleFeed",
+      "sourceDetails": {
+        "publisher": "Google News and indexed publishers",
+        "classification": "Google News RSS for personal, non-commercial feed-reader use; underlying publisher terms also apply",
+        "reviewed": "1 October 2026",
+        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
+        "permission": "Copyright © 2026 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.",
+        "commercial_use": "Personal, non-commercial feed-reader use only; commercial use is expressly prohibited.",
+        "attribution": "Credit the underlying publisher shown in each item and link to the original article.",
+        "termsUrl": "https://news.google.com/terms",
+        "rights_or_corrections_contact": "https://support.google.com/news/",
+        "notes": "HTTP 200 XML; exact channel copyright declaration parsed. Support, caregiving and community query; selected on-device only after user selection. No article body, image or summary is reproduced."
+      }
+    },
+    {
+      "id": "bing-news-crohns-disease",
+      "name": "Bing News · Crohn's disease",
+      "url": "https://www.bing.com/news/search?q=%22Crohn%27s%20disease%22%20OR%20%22inflammatory%20bowel%20disease%22&format=rss",
+      "category": "news",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "headlineAttributionLinkOnly",
+      "sourceDetails": {
+        "publisher": "Bing News",
+        "classification": "Bing News RSS search; conservative metadata/link-only use",
+        "reviewed": "1 October 2026",
+        "fields_displayed": "Headline, publication date, source attribution and outbound link only",
+        "permission": "The endpoint returned parseable XML, but a feed-specific reuse grant was not verified. Keep disabled and use conservative metadata and original links only.",
+        "commercial_use": "Not verified; disabled by default.",
+        "attribution": "Credit the underlying publisher shown in each item and link to the original article.",
+        "termsUrl": "https://www.microsoft.com/en-us/servicesagreement",
+        "rights_or_corrections_contact": "https://support.microsoft.com/",
+        "notes": "HTTP 200 XML; global Crohn's disease and inflammatory bowel disease search. No article body, image or summary is reproduced."
+      }
+    }
+  ],
+  "donationLinks": [
+    {"name": "Crohn's & Colitis Foundation", "detail": "Supports inflammatory bowel disease research, education, advocacy and patient support in the United States.", "url": "https://www.crohnscolitisfoundation.org/donate"},
+    {"name": "Crohn's & Colitis UK", "detail": "Supports people affected by Crohn's and Colitis through information, research, campaigning and services in the UK.", "url": "https://crohnsandcolitis.org.uk/get-involved/donate"},
+    {"name": "Crohn's and Colitis Canada", "detail": "Supports Crohn's disease and colitis research, patient programs, advocacy and awareness in Canada.", "url": "https://crohnsandcolitis.ca/ways-to-give"}
+  ]
+}
