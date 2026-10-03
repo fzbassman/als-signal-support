@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "id": "breast-cancer",
+  "displayName": "Breast Cancer",
+  "description": "An information-discovery profile for breast cancer and condition-qualified subtypes. It surfaces public trials, publication metadata and carefully filtered headlines; it does not diagnose, recommend treatment or studies, assess eligibility, or interpret findings.",
+  "synopsis": {
+    "overview": "Breast cancer is a group of cancers that begins in breast tissue. It includes different histological and molecular subtypes, and can affect women and men; ductal carcinoma in situ is a non-invasive breast abnormality, while invasive cancers can spread beyond their original site.",
+    "manifestations": "A breast lump or change in breast size or shape, nipple change or discharge, skin dimpling or thickening, or a lump near the armpit can be signs that need clinical assessment. Early breast cancer may have no symptoms, and many breast changes are not cancer.",
+    "management": "Care depends on the cancer's type, stage, grade, receptor and biomarker findings, overall circumstances, and preferences. Treatment may combine surgery, radiotherapy, chemotherapy, endocrine therapy, immunotherapy, targeted therapy, and supportive or reconstructive care; decisions belong with the cancer care team.",
+    "outlook": "The outlook varies substantially by subtype, stage, grade, receptor status, response to treatment, and whether disease has recurred or spread. A general information profile cannot predict an individual's prognosis; current clinical guidance and the treating team provide the appropriate context.",
+    "reviewed": "2026-10-03",
+    "sources": [
+      {"name": "NCI: Breast Cancer", "url": "https://www.cancer.gov/types/breast"},
+      {"name": "NHS: Breast cancer", "url": "https://www.nhs.uk/conditions/breast-cancer/"}
+    ]
+  },
+  "trialTerms": [
+    "Breast cancer",
+    "breast carcinoma",
+    "mammary carcinoma",
+    "ductal carcinoma in situ",
+    "DCIS breast",
+    "invasive ductal carcinoma",
+    "invasive lobular carcinoma",
+    "inflammatory breast cancer",
+    "triple-negative breast cancer",
+    "HER2-positive breast cancer",
+    "hormone receptor-positive breast cancer",
+    "metastatic breast cancer",
+    "secondary breast cancer",
+    "male breast cancer"
+  ],
+  "publicationTerms": [
+    "breast cancer",
+    "breast carcinoma",
+    "mammary carcinoma",
+    "ductal carcinoma in situ",
+    "invasive ductal carcinoma",
+    "invasive lobular carcinoma",
+    "inflammatory breast cancer",
+    "triple-negative breast cancer",
+    "HER2-positive breast cancer",
+    "hormone receptor-positive breast cancer",
+    "metastatic breast cancer",
+    "secondary breast cancer",
+    "male breast cancer",
+    "ER-positive breast cancer",
+    "PR-positive breast cancer",
+    "breast cancer recurrence"
+  ],
+  "relevanceTerms": [
+    "breast cancer",
+    "breast carcinoma",
+    "mammary carcinoma",
+    "ductal carcinoma in situ",
+    "DCIS breast",
+    "invasive ductal carcinoma",
+    "invasive lobular carcinoma",
+    "inflammatory breast cancer",
+    "triple-negative breast cancer",
+    "HER2-positive breast cancer",
+    "hormone receptor-positive breast cancer",
+    "metastatic breast cancer",
+    "secondary breast cancer",
+    "male breast cancer",
+    "breast cancer recurrence"
+  ],
+  "topics": [
+    {
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "description": "Registered breast-cancer studies, including prevention, screening, diagnosis, treatment, survivorship and metastatic-disease research. A listing does not indicate eligibility or that a study is recommended.",
+      "terms": ["breast cancer clinical trial", "breast carcinoma clinical study", "clinical trial", "study recruitment", "recruiting", "investigational", "trial results"]
+    },
+    {
+      "id": "treatments",
+      "heading": "Treatment and care",
+      "description": "Surgery, radiotherapy, medicines, reconstruction and supportive care used in different breast-cancer settings; treatment choices depend on clinical and pathology findings and require an appropriately qualified care team.",
+      "terms": ["breast cancer treatment", "breast cancer surgery", "lumpectomy", "mastectomy", "radiation therapy", "chemotherapy", "endocrine therapy", "immunotherapy", "targeted therapy", "breast reconstruction"],
+      "termDefinitions": {
+        "lumpectomy": "Surgery that removes a breast tumour and a margin of surrounding tissue while leaving much of the breast in place; the appropriate operation depends on the clinical situation.",
+        "mastectomy": "Surgery to remove breast tissue. The extent and timing of surgery are determined by the cancer, the person and the care team's assessment.",
+        "endocrine therapy": "Treatment that blocks or lowers the effect of hormones on cancers whose growth is influenced by hormone receptors.",
+        "targeted therapy": "Treatment designed to act on a particular molecular feature or pathway of cancer cells; examples and suitability depend on tumour testing.",
+        "breast reconstruction": "Surgery or other reconstruction intended to restore breast shape after breast surgery; it is a personal clinical decision and may be immediate or delayed."
+      }
+    },
+    {
+      "id": "research",
+      "heading": "Research",
+      "description": "Research into breast-cancer biology, prevention, screening, diagnosis, treatment response, recurrence, metastasis, survivorship, disparities and quality of life.",
+      "terms": ["breast cancer research", "breast carcinoma research", "breast cancer study", "tumour biology", "biomarker", "metastasis", "cancer genomics", "clinical research"]
+    },
+    {
+      "id": "genetics",
+      "heading": "Genetics and tumour biology",
+      "description": "Inherited risk, tumour biomarkers, receptor status and molecular pathways studied in breast cancer; genetic and pathology results require qualified interpretation rather than self-assessment.",
+      "terms": ["breast cancer genetics", "BRCA1", "BRCA2", "PALB2", "HER2", "estrogen receptor", "progesterone receptor", "genetic testing"],
+      "termDefinitions": {
+        "BRCA1": "A gene involved in DNA repair. Inherited pathogenic variants can increase the risk of breast and other cancers, but a gene result requires professional genetic interpretation.",
+        "BRCA2": "A gene involved in DNA repair. Inherited pathogenic variants can increase the risk of breast and other cancers, but a gene result requires professional genetic interpretation.",
+        "PALB2": "A gene involved in DNA repair whose inherited variants can be associated with increased breast-cancer risk; results require qualified counselling and interpretation.",
+        "HER2": "Human epidermal growth factor receptor 2, a protein that can be present at higher levels in some breast cancers and may guide treatment decisions.",
+        "estrogen receptor": "A cell protein that can be tested in a breast tumour. Receptor results help clinicians classify disease and consider treatment options.",
+        "progesterone receptor": "A cell protein that can be tested in a breast tumour. Receptor results contribute to tumour classification and treatment planning."
+      }
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with breast cancer",
+      "description": "Life during and after breast-cancer care, including symptoms, treatment effects, work, relationships, body image, fertility, sexuality, follow-up and emotional wellbeing.",
+      "terms": ["living with breast cancer", "breast cancer survivorship", "breast cancer fatigue", "breast cancer quality of life", "breast cancer and work", "breast cancer fertility", "breast cancer body image", "breast cancer wellbeing"]
+    },
+    {
+      "id": "caregiving",
+      "heading": "Caregiving and support",
+      "description": "Practical, emotional and communication support for people affected by breast cancer, including family members, care partners, children and people living with advanced disease.",
+      "terms": ["breast cancer caregiver", "breast cancer care partner", "family support breast cancer", "breast cancer support group", "breast cancer patient support", "breast cancer community", "care coordination", "respite care"]
+    },
+    {
+      "id": "advocacy",
+      "heading": "Advocacy and access",
+      "description": "Patient voice, equitable screening and treatment access, research funding, policy, awareness, inclusion and advocacy for people affected by breast cancer.",
+      "terms": ["breast cancer advocacy", "breast cancer awareness", "breast cancer access to care", "patient advocacy breast cancer", "breast cancer research funding", "health equity breast cancer", "disability rights", "care policy"]
+    }
+  ],
+  "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
+  "sourceIds": ["nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "lifearc"],
+  "externalSources": [
+    {
+      "id": "medlineplus-breast-cancer",
+      "name": "MedlinePlus · Breast Cancer",
+      "url": "https://medlineplus.gov/feeds/topics/breastcancer.xml",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "personalUseMetadataOnly",
+      "sourceDetails": {"publisher": "MedlinePlus / U.S. National Library of Medicine", "classification": "Official breast-cancer topic RSS with restricted reuse", "reviewed": "3 October 2026", "fields_displayed": "Headline, publication date, source attribution and outbound link only", "permission": "MedlinePlus RSS feeds are for personal use only. Health Signal uses this feed only in the user's personal, on-device feed reader; no broad website or information-service redistribution is performed.", "commercial_use": "Personal use only; no commercial or broad information-service redistribution.", "attribution": "Credit MedlinePlus and the U.S. National Library of Medicine and link to the original item.", "termsUrl": "https://medlineplus.gov/about/using/usingcontent/", "rights_or_corrections_contact": "https://medlineplus.gov/about/contactus.html", "notes": "HTTP 200 text/xml; XML parsed successfully. Locally filtered for breast-cancer relevance. No summary, image or article body is stored or displayed."}
+    },
+    {
+      "id": "nci-news-releases-breast-cancer",
+      "name": "NCI · News Releases",
+      "url": "https://www.cancer.gov/publishedcontent/rss/syndication/rss/ncinewsreleases.rss",
+      "category": "news",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "governmentMetadataLinkOnly",
+      "sourceDetails": {"publisher": "National Cancer Institute", "classification": "Official broad NCI news-release RSS; locally filtered for breast-cancer relevance", "reviewed": "3 October 2026", "fields_displayed": "Headline, publication date, source attribution and outbound link only", "permission": "NCI states that text in NCI products is generally free of copyright with source credit, while third-party graphics or contributions can retain separate rights. Health Signal keeps conservative metadata and links only.", "commercial_use": "Government text reuse depends on NCI policy and third-party rights; no endorsement is implied.", "attribution": "Credit the National Cancer Institute and link to the original item.", "termsUrl": "https://www.cancer.gov/policies/copyright-reuse", "rights_or_corrections_contact": "https://www.cancer.gov/contact", "notes": "HTTP 200 text/xml; XML parsed successfully. Broad NCI news-release feed locally filtered for breast-cancer relevance. No summary, image or article body is stored or displayed."}
+    },
+    {
+      "id": "nci-cancer-currents-breast-cancer",
+      "name": "NCI · Cancer Currents",
+      "url": "https://www.cancer.gov/publishedcontent/rss/news-events/cancer-currents-blog.rss",
+      "category": "research",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "governmentMetadataLinkOnly",
+      "sourceDetails": {"publisher": "National Cancer Institute", "classification": "Official Cancer Currents RSS; locally filtered for breast-cancer relevance", "reviewed": "3 October 2026", "fields_displayed": "Headline, publication date, source attribution and outbound link only", "permission": "NCI states that text in NCI products is generally free of copyright with source credit, while third-party graphics or contributions can retain separate rights. Health Signal keeps conservative metadata and links only.", "commercial_use": "Government text reuse depends on NCI policy and third-party rights; no endorsement is implied.", "attribution": "Credit the National Cancer Institute and link to the original item.", "termsUrl": "https://www.cancer.gov/policies/copyright-reuse", "rights_or_corrections_contact": "https://www.cancer.gov/contact", "notes": "HTTP 200 text/xml; XML parsed successfully. NCI research and news feed locally filtered for breast-cancer relevance. No summary, image or article body is stored or displayed."}
+    },
+    {
+      "id": "google-news-breast-cancer-news",
+      "name": "Google News · Breast cancer coverage",
+      "url": "https://news.google.com/rss/search?q=%22breast%20cancer%22&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "news",
+      "kind": "google",
+      "enabledByDefault": false,
+      "rightsStatus": "personalNonCommercialGoogleFeed",
+      "sourceDetails": {"publisher": "Google News and indexed publishers", "classification": "Google News RSS for personal, non-commercial feed-reader use; underlying publisher terms also apply", "reviewed": "3 October 2026", "fields_displayed": "Headline, publication date, source attribution and outbound link only", "permission": "Copyright © 2026 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.", "commercial_use": "Personal, non-commercial feed-reader use only; commercial use is expressly prohibited.", "attribution": "Credit the underlying publisher shown in each item and link to the original article.", "termsUrl": "https://news.google.com/terms", "rights_or_corrections_contact": "https://support.google.com/news/", "notes": "HTTP 200 XML; exact channel copyright declaration parsed. Global condition search; selected on-device only after user selection. No article body, image or summary is reproduced."}
+    },
+    {
+      "id": "google-news-breast-cancer-research",
+      "name": "Google News · Breast cancer research",
+      "url": "https://news.google.com/rss/search?q=%28%22breast%20cancer%22%20OR%20%22breast%20carcinoma%22%29%20%28research%20OR%20study%20OR%20%22clinical%20trial%22%29&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "research",
+      "kind": "google",
+      "enabledByDefault": false,
+      "rightsStatus": "personalNonCommercialGoogleFeed",
+      "sourceDetails": {"publisher": "Google News and indexed publishers", "classification": "Google News RSS for personal, non-commercial feed-reader use; underlying publisher terms also apply", "reviewed": "3 October 2026", "fields_displayed": "Headline, publication date, source attribution and outbound link only", "permission": "Copyright © 2026 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.", "commercial_use": "Personal, non-commercial feed-reader use only; commercial use is expressly prohibited.", "attribution": "Credit the underlying publisher shown in each item and link to the original article.", "termsUrl": "https://news.google.com/terms", "rights_or_corrections_contact": "https://support.google.com/news/", "notes": "HTTP 200 XML; exact channel copyright declaration parsed. Research and clinical-trial query; selected on-device only after user selection. No article body, image or summary is reproduced."}
+    },
+    {
+      "id": "google-news-breast-cancer-community",
+      "name": "Google News · Breast cancer support and community",
+      "url": "https://news.google.com/rss/search?q=%28%22breast%20cancer%22%20OR%20%22breast%20carcinoma%22%29%20%28support%20OR%20caregiver%20OR%20advocacy%20OR%20community%29&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "community",
+      "kind": "google",
+      "enabledByDefault": false,
+      "rightsStatus": "personalNonCommercialGoogleFeed",
+      "sourceDetails": {"publisher": "Google News and indexed publishers", "classification": "Google News RSS for personal, non-commercial feed-reader use; underlying publisher terms also apply", "reviewed": "3 October 2026", "fields_displayed": "Headline, publication date, source attribution and outbound link only", "permission": "Copyright © 2026 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.", "commercial_use": "Personal, non-commercial feed-reader use only; commercial use is expressly prohibited.", "attribution": "Credit the underlying publisher shown in each item and link to the original article.", "termsUrl": "https://news.google.com/terms", "rights_or_corrections_contact": "https://support.google.com/news/", "notes": "HTTP 200 XML; exact channel copyright declaration parsed. Support, caregiving and community query; selected on-device only after user selection. No article body, image or summary is reproduced."}
+    },
+    {
+      "id": "bing-news-breast-cancer",
+      "name": "Bing News · Breast cancer",
+      "url": "https://www.bing.com/news/search?q=%22breast%20cancer%22%20OR%20%22breast%20carcinoma%22&format=rss",
+      "category": "news",
+      "kind": "headlineOnly",
+      "enabledByDefault": false,
+      "rightsStatus": "unverifiedMetadataOnly",
+      "sourceDetails": {"publisher": "Bing News", "classification": "Bing News RSS search; conservative metadata/link-only use", "reviewed": "3 October 2026", "fields_displayed": "Headline, publication date, source attribution and outbound link only", "permission": "The endpoint returned parseable XML, but a feed-specific reuse grant was not verified. Keep disabled and use conservative metadata and original links only.", "commercial_use": "Not verified; disabled by default.", "attribution": "Credit the underlying publisher shown in each item and link to the original article.", "termsUrl": "https://www.microsoft.com/en-us/servicesagreement", "rights_or_corrections_contact": "https://support.microsoft.com/", "notes": "HTTP 200 text/xml; XML parsed successfully. Global breast-cancer and breast-carcinoma search. No article body, image or summary is reproduced."}
+    }
+  ],
+  "donationLinks": [
+    {"name": "Breast Cancer Now", "detail": "UK research and support charity donation page.", "url": "https://breastcancernow.org/get-involved/donate"},
+    {"name": "Susan G. Komen", "detail": "US breast-cancer research, support and advocacy donation page.", "url": "https://www.komen.org/how-to-help/donate/"},
+    {"name": "Breast Cancer Research Foundation", "detail": "US breast-cancer research donation information and online giving route.", "url": "https://www.bcrf.org/other-ways-give/"}
+  ]
+}
