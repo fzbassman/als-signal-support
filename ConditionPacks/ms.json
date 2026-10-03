@@ -189,6 +189,23 @@
     "johns-hopkins-hub",
     "lifearc"
   ],
+  "donationLinks": [
+    {
+      "name": "National Multiple Sclerosis Society",
+      "detail": "Support MS research, advocacy and services in the United States.",
+      "url": "https://donate.nationalmssociety.org/index.cfm?fuseaction=donorDrive.donate&language=en"
+    },
+    {
+      "name": "MS Society",
+      "detail": "Support MS research, information, advocacy and services in the United Kingdom.",
+      "url": "https://www.mssociety.org.uk/get-involved/donate"
+    },
+    {
+      "name": "Multiple Sclerosis International Federation",
+      "detail": "Support global MS organisations, research and advocacy.",
+      "url": "https://donate.msif.org/donate/"
+    }
+  ],
   "externalSources": [
     {
       "id": "ms-news-today",

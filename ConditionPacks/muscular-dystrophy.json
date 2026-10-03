@@ -161,28 +161,6 @@
   ],
   "externalSources": [
     {
-      "id": "musculardystrophynews-feed-muscular-dystrophy",
-      "name": "Muscular Dystrophy News",
-      "url": "https://musculardystrophynews.com/feed/",
-      "category": "news",
-      "kind": "headlineOnly",
-      "enabledByDefault": false,
-      "rightsStatus": "Condition-focused news and community features",
-      "sourceDetails": {
-        "publisher": "Muscular Dystrophy News",
-        "classification": "Condition-focused news and community features",
-        "reviewed": "1 August 2026",
-        "fields_displayed": "Exact headline, publication date, source attribution and outbound link only",
-        "permission": "Availability and reviewed terms do not establish blanket reuse permission.",
-        "commercial_use": "Not assumed; retain conservative display.",
-        "attribution": "Display publisher, headline, date when supplied, and original outbound link only.",
-        "termsUrl": "https://bionews.com/terms-service/",
-        "rights_or_corrections_contact": "https://bionews.com/corrections-policy/",
-        "notes": "Sample includes muscular-dystrophy science, Duchenne care, advocacy, and regulatory coverage.",
-        "termsExcerpt": "No verbatim terms copied; consult the linked current policy."
-      }
-    },
-    {
       "id": "medicinenet-neurology-muscular-dystrophy",
       "name": "MedicineNet · Neurology",
       "url": "https://www.medicinenet.com/rss/general/neurology.xml",

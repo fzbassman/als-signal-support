@@ -62,6 +62,18 @@
   ],
   "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
   "sourceIds": ["rnz-world", "medlineplus-mssa", "nih-research-matters", "nih-news-releases", "johns-hopkins-hub", "yahoo-health", "lifearc"],
+  "donationLinks": [
+    {
+      "name": "Sepsis Alliance",
+      "detail": "Support sepsis awareness, education and survivor resources relevant to invasive MSSA infections.",
+      "url": "https://www.sepsis.org/get-involved/ways-to-give/"
+    },
+    {
+      "name": "IDSA Foundation",
+      "detail": "Support infectious-disease research, education and public-health work relevant to MSSA.",
+      "url": "https://www.idsafoundation.org/ways-to-give"
+    }
+  ],
   "externalSources": [
     {
       "id": "cdc-eid-infectious-disease",
