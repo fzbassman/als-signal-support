@@ -1,5 +1,8 @@
 {
   "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "releaseVersion": "2026.10.0",
+  "minimumAppVersion": "1.0.0",
   "id": "huntingtons-disease",
   "displayName": "Huntington's Disease",
   "description": "A focused information pack for Huntington's disease, HTT genetics, symptoms, research, clinical trials and life with the condition. It is an information-discovery aid, not medical advice.",

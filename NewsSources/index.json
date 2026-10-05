@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "packages": [
+    {
+      "id": "als",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "als.signal",
+      "sha256": "39e032269b407769132a8c87043ad2c45e83d80ca4cb8de6d7f84f765e704c86"
+    },
+    {
+      "id": "alzheimers",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "alzheimers.signal",
+      "sha256": "ddd74d601ba2c314e9f71dc5d6362fa6def39180e7fe78cb9fc2f6e89c1a6b6d"
+    },
+    {
+      "id": "ataxia-telangiectasia",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "ataxia-telangiectasia.signal",
+      "sha256": "4004a4c537e6c2efb6745ccaa94adcad2503a323f694ae2a6569a2e2241c6c1a"
+    },
+    {
+      "id": "breast-cancer",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "breast-cancer.signal",
+      "sha256": "4665c80bb77c7c45f14a984d89685f2c146038de5bd7687eb76c95045fd7abe6"
+    },
+    {
+      "id": "crohns-disease",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "crohns-disease.signal",
+      "sha256": "971aba182fb048128528a5cdc15c13d6a078660e0172a14171273844c5c080c6"
+    },
+    {
+      "id": "cystic-fibrosis",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "cystic-fibrosis.signal",
+      "sha256": "df0b4f5814e9193122240469f993364b111514d7514d5051873bdc5f27aa7960"
+    },
+    {
+      "id": "diabetes",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "diabetes.signal",
+      "sha256": "24c6766b3563f3b076bb6ebeecae8da4db6a01ba68ac317233f77dc2c084bed0"
+    },
+    {
+      "id": "emphysema",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "emphysema.signal",
+      "sha256": "244d15b644e3c6e74e9b978ebef336568c317cc83873b16230e80e93831af3c9"
+    },
+    {
+      "id": "epilepsy",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "epilepsy.signal",
+      "sha256": "c520be243c700eb5a88014f106d6155792922c2a78121bdfa7c965d1bf48d058"
+    },
+    {
+      "id": "follicular-lymphoma",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "follicular-lymphoma.signal",
+      "sha256": "8c35db801e8c1eca4313c4398d0da1aa9b7201aaad939c3b1dbe274868fbe4b3"
+    },
+    {
+      "id": "hiv-aids",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "hiv-aids.signal",
+      "sha256": "806afa3c7abc03c155ecc24dd2c9ef89218baebdf169c699317836f30b4311c1"
+    },
+    {
+      "id": "huntingtons-disease",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "huntingtons-disease.signal",
+      "sha256": "570ab64353022cb8b5d3bbc63b550b3a144ba00047c8a204caddd35499dfb618"
+    },
+    {
+      "id": "lupus",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "lupus.signal",
+      "sha256": "245a547c081ce4943be1a035406dedb44125405b604c10b37b4aad5253f0482a"
+    },
+    {
+      "id": "marfan",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "marfan.signal",
+      "sha256": "e41bc5e3bfc7febfc70a3c8ddde56c058993e43014e55e86d4784e1b17aeb0fc"
+    },
+    {
+      "id": "mesothelioma",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "mesothelioma.signal",
+      "sha256": "c3c1b49a28692e1ca41a6abc3754dccd155882d2c622dbea31a1063ab07c7d74"
+    },
+    {
+      "id": "ms",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "ms.signal",
+      "sha256": "95e5062dfca91afebb1afdc3581f3a4b70079663de45839b1beeeddf220260ed"
+    },
+    {
+      "id": "mssa",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "mssa.signal",
+      "sha256": "ead53e8baaa532628d17322f4a0331243c916b717faa50e15d5a94f3abfe3d54"
+    },
+    {
+      "id": "muscular-dystrophy",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "muscular-dystrophy.signal",
+      "sha256": "f069e87190dc965a55440a03b1b69a6f136edbaa67a7e898172ff734d0b5fb23"
+    },
+    {
+      "id": "parkinsons",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "parkinsons.signal",
+      "sha256": "104ff8dc0eb1a1367423764f48604dfc3cc4812cbf5e03d4855b9f864eb72c14"
+    },
+    {
+      "id": "thoracic-aortic-aneurysm",
+      "version": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "file": "thoracic-aortic-aneurysm.signal",
+      "sha256": "5546778206a1b382a26b533f37bf3b95ddd5e9c1c4b7a3a5d6388f7e7b93805c"
+    }
+  ]
+}

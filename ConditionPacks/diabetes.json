@@ -1,5 +1,8 @@
 {
   "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "releaseVersion": "2026.10.0",
+  "minimumAppVersion": "1.0.0",
   "id": "diabetes",
   "displayName": "Diabetes",
   "description": "Curated terminology and sources for diabetes, including type 1, type 2 and gestational diabetes, treatment, research, daily life, caregiving and advocacy. This pack is not medical advice.",

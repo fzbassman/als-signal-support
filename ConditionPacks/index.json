@@ -1,125 +1,246 @@
 {
   "schemaVersion": 1,
+  "catalogVersion": 1,
   "packs": [
     {
       "id": "als",
       "displayName": "ALS",
       "version": 1,
-      "asset": "assets/condition_packs/als.json"
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/als.json",
+      "packSha256": "f35cbd3f9ff5f072a3fe8241801f3e4c779b6d0ca162b7cae0d853a10351ce5f",
+      "signalSha256": "39e032269b407769132a8c87043ad2c45e83d80ca4cb8de6d7f84f765e704c86"
     },
     {
       "id": "ms",
       "displayName": "Multiple Sclerosis",
       "version": 1,
-      "asset": "assets/condition_packs/ms.json"
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/ms.json",
+      "packSha256": "109f7a25e86effcc06ede39b0e0d51df5c972cbdc9e05e105d4b5f7642d21264",
+      "signalSha256": "95e5062dfca91afebb1afdc3581f3a4b70079663de45839b1beeeddf220260ed"
     },
     {
       "id": "mssa",
       "displayName": "MSSA",
       "version": 1,
-      "asset": "assets/condition_packs/mssa.json"
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/mssa.json",
+      "packSha256": "87aa0d0c1648a45626cafda321791c0d7bd0f0907723917c56b17ac349a7de3e",
+      "signalSha256": "ead53e8baaa532628d17322f4a0331243c916b717faa50e15d5a94f3abfe3d54"
     },
     {
       "id": "alzheimers",
       "displayName": "Alzheimer's",
       "version": 1,
-      "asset": "assets/condition_packs/alzheimers.json"
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/alzheimers.json",
+      "packSha256": "9b4a69501dc5bddfd14d05ec32b03621ad6b0787367609749753aa9ed86fb374",
+      "signalSha256": "ddd74d601ba2c314e9f71dc5d6362fa6def39180e7fe78cb9fc2f6e89c1a6b6d"
     },
     {
       "id": "marfan",
       "displayName": "Marfan Syndrome",
       "version": 1,
-      "asset": "assets/condition_packs/marfan.json"
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/marfan.json",
+      "packSha256": "2b972a8b3316984dcfde5649eca704e31d468b5717eebf1cc5c224032805bda3",
+      "signalSha256": "e41bc5e3bfc7febfc70a3c8ddde56c058993e43014e55e86d4784e1b17aeb0fc"
     },
     {
       "id": "parkinsons",
       "displayName": "Parkinson's",
       "version": 1,
-      "asset": "assets/condition_packs/parkinsons.json"
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/parkinsons.json",
+      "packSha256": "d2fb54fed603008e5e8f5dfd26fa10da2410dbb9679f36216bbff3af5b8c64b4",
+      "signalSha256": "104ff8dc0eb1a1367423764f48604dfc3cc4812cbf5e03d4855b9f864eb72c14"
     },
     {
       "id": "diabetes",
       "displayName": "Diabetes",
       "version": 1,
-      "asset": "assets/condition_packs/diabetes.json"
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/diabetes.json",
+      "packSha256": "e6fed445953be416be6b5989817cfab85f407312664e12ad1f64e9c8b0bc5419",
+      "signalSha256": "24c6766b3563f3b076bb6ebeecae8da4db6a01ba68ac317233f77dc2c084bed0"
     },
     {
       "id": "hiv-aids",
       "displayName": "HIV/AIDS",
       "version": 1,
-      "asset": "assets/condition_packs/hiv-aids.json"
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/hiv-aids.json",
+      "packSha256": "69eb6bb99cead644fbdcc5e4b548f42f9d0479f9cb7a9b6f4514325d36f879c6",
+      "signalSha256": "806afa3c7abc03c155ecc24dd2c9ef89218baebdf169c699317836f30b4311c1"
     },
     {
       "id": "muscular-dystrophy",
       "displayName": "Muscular Dystrophy",
       "version": 1,
-      "asset": "assets/condition_packs/muscular-dystrophy.json"
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/muscular-dystrophy.json",
+      "packSha256": "a7050af3cf76e201a7bd30ee6e6ede332d6dd66a5195e7555d82c0bd63d4815d",
+      "signalSha256": "f069e87190dc965a55440a03b1b69a6f136edbaa67a7e898172ff734d0b5fb23"
     },
     {
       "id": "thoracic-aortic-aneurysm",
       "displayName": "Thoracic Aortic Aneurysm",
       "version": 1,
-      "asset": "assets/condition_packs/thoracic-aortic-aneurysm.json"
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/thoracic-aortic-aneurysm.json",
+      "packSha256": "9427928c28ca8d455a66bef557abc81c8ff6fbe1d1d1725a6c757d6dba358b31",
+      "signalSha256": "5546778206a1b382a26b533f37bf3b95ddd5e9c1c4b7a3a5d6388f7e7b93805c"
     },
-  {
-    "id": "follicular-lymphoma",
-    "displayName": "Follicular Lymphoma",
-    "version": 1,
-    "asset": "assets/condition_packs/follicular-lymphoma.json"
-  },
-  {
-    "id": "epilepsy",
-    "displayName": "Epilepsy",
-    "version": 1,
-    "asset": "assets/condition_packs/epilepsy.json"
-  },
-  {
-    "id": "emphysema",
-    "displayName": "Emphysema",
-    "version": 1,
-    "asset": "assets/condition_packs/emphysema.json"
-  },
-  {
-    "id": "ataxia-telangiectasia",
-    "displayName": "Ataxia-Telangiectasia",
-    "version": 1,
-    "asset": "assets/condition_packs/ataxia-telangiectasia.json"
-  },
-  {
-    "id": "cystic-fibrosis",
-    "displayName": "Cystic Fibrosis",
-    "version": 1,
-    "asset": "assets/condition_packs/cystic-fibrosis.json"
-  },
-  {
-    "id": "huntingtons-disease",
-    "displayName": "Huntington's Disease",
-    "version": 1,
-    "asset": "assets/condition_packs/huntingtons-disease.json"
-  },
-  {
-    "id": "mesothelioma",
-    "displayName": "Mesothelioma",
-    "version": 1,
-    "asset": "assets/condition_packs/mesothelioma.json"
-  },
-  {
-    "id": "lupus",
-    "displayName": "Lupus (Systemic Lupus Erythematosus)",
-    "version": 1,
-    "asset": "assets/condition_packs/lupus.json"
-  },
-  {
-    "id": "crohns-disease",
-    "displayName": "Crohn's Disease",
-    "version": 1,
-    "asset": "assets/condition_packs/crohns-disease.json"
-  },
-  {
-    "id": "breast-cancer",
-    "displayName": "Breast Cancer",
-    "version": 1,
-    "asset": "assets/condition_packs/breast-cancer.json"
-  }
-]
+    {
+      "id": "follicular-lymphoma",
+      "displayName": "Follicular Lymphoma",
+      "version": 1,
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/follicular-lymphoma.json",
+      "packSha256": "8703c681e0aa8ac507ce8f9fa6fe3aa38ac77f190f8e4a075c133038e4205851",
+      "signalSha256": "8c35db801e8c1eca4313c4398d0da1aa9b7201aaad939c3b1dbe274868fbe4b3"
+    },
+    {
+      "id": "epilepsy",
+      "displayName": "Epilepsy",
+      "version": 1,
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/epilepsy.json",
+      "packSha256": "1a5be19655d246ed5c2a0bfa95ee0f15880d5cc3c5c90a368676f56ee65d4140",
+      "signalSha256": "c520be243c700eb5a88014f106d6155792922c2a78121bdfa7c965d1bf48d058"
+    },
+    {
+      "id": "emphysema",
+      "displayName": "Emphysema",
+      "version": 1,
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/emphysema.json",
+      "packSha256": "2d802bd63d10bae0629c406f54c5c4bbaf598388b78cd0fabd5ada79b16c3729",
+      "signalSha256": "244d15b644e3c6e74e9b978ebef336568c317cc83873b16230e80e93831af3c9"
+    },
+    {
+      "id": "ataxia-telangiectasia",
+      "displayName": "Ataxia-Telangiectasia",
+      "version": 1,
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/ataxia-telangiectasia.json",
+      "packSha256": "954df0e833704ec04b83082d46ef46f40a880a306d489f9392df0bade416e14e",
+      "signalSha256": "4004a4c537e6c2efb6745ccaa94adcad2503a323f694ae2a6569a2e2241c6c1a"
+    },
+    {
+      "id": "cystic-fibrosis",
+      "displayName": "Cystic Fibrosis",
+      "version": 1,
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/cystic-fibrosis.json",
+      "packSha256": "94d42b2d22be9b7484eb937986d62378ae3f7aebf93cf44652b919b47e32ba60",
+      "signalSha256": "df0b4f5814e9193122240469f993364b111514d7514d5051873bdc5f27aa7960"
+    },
+    {
+      "id": "huntingtons-disease",
+      "displayName": "Huntington's Disease",
+      "version": 1,
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/huntingtons-disease.json",
+      "packSha256": "2e7458d0c7ad5d613a158908f1164e445aced1e83f51c793583482e88c7bf025",
+      "signalSha256": "570ab64353022cb8b5d3bbc63b550b3a144ba00047c8a204caddd35499dfb618"
+    },
+    {
+      "id": "mesothelioma",
+      "displayName": "Mesothelioma",
+      "version": 1,
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/mesothelioma.json",
+      "packSha256": "e9d0922cd282b186dc16acb037d15c87b1d482c142022354152b9e5b49381203",
+      "signalSha256": "c3c1b49a28692e1ca41a6abc3754dccd155882d2c622dbea31a1063ab07c7d74"
+    },
+    {
+      "id": "lupus",
+      "displayName": "Lupus (Systemic Lupus Erythematosus)",
+      "version": 1,
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/lupus.json",
+      "packSha256": "25e7f546d2b3b826af4330d51506b847efac70f2f7cfd3222fd38db3a0139bee",
+      "signalSha256": "245a547c081ce4943be1a035406dedb44125405b604c10b37b4aad5253f0482a"
+    },
+    {
+      "id": "crohns-disease",
+      "displayName": "Crohn's Disease",
+      "version": 1,
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/crohns-disease.json",
+      "packSha256": "16a0d20f5ec380571a9d7fddd86cb7316b444cd0f52b23d23481eb6798b19882",
+      "signalSha256": "971aba182fb048128528a5cdc15c13d6a078660e0172a14171273844c5c080c6"
+    },
+    {
+      "id": "breast-cancer",
+      "displayName": "Breast Cancer",
+      "version": 1,
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.0",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/breast-cancer.json",
+      "packSha256": "492f994299d998845ce31b8092dfc6b8f46613cce77ba09192cc715245cdc181",
+      "signalSha256": "4665c80bb77c7c45f14a984d89685f2c146038de5bd7687eb76c95045fd7abe6"
+    }
+  ]
 }

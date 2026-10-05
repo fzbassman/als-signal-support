@@ -1,5 +1,8 @@
 {
   "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "releaseVersion": "2026.10.0",
+  "minimumAppVersion": "1.0.0",
   "id": "breast-cancer",
   "displayName": "Breast Cancer",
   "description": "An information-discovery profile for breast cancer and condition-qualified subtypes. It surfaces public trials, publication metadata and carefully filtered headlines; it does not diagnose, recommend treatment or studies, assess eligibility, or interpret findings.",

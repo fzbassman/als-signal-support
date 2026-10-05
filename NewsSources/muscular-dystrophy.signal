@@ -1,4 +1,8 @@
 # Muscular Dystrophy external news feed source package (pipe-delimited)
+# condition_id=muscular-dystrophy
+# package_version=1.0.0
+# release_version=2026.10.0
+# minimum_app_version=1.0.0
 # All sources are disabled by default and headline-only.
 #
 source_id|name|endpoint|category|feed_kind|enabled_by_default|publisher|classification|reviewed|fields_displayed|permission|commercial_use|attribution|terms_url|rights_or_corrections_contact|notes

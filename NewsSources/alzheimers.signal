@@ -1,4 +1,8 @@
 # Alzheimer’s Signal source import file (pipe-delimited)
+# condition_id=alzheimers
+# package_version=1.0.0
+# release_version=2026.10.0
+# minimum_app_version=1.0.0
 #
 # This file contains Alzheimer’s RSS/Atom sources whose publisher permission
 # or reuse licence was not clearly verified in the condition pack review.

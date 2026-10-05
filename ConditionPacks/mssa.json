@@ -1,5 +1,8 @@
 {
   "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "releaseVersion": "2026.10.0",
+  "minimumAppVersion": "1.0.0",
   "id": "mssa",
   "displayName": "MSSA",
   "description": "Curated terminology and sources for methicillin-susceptible Staphylococcus aureus (MSSA), including infection research, antimicrobial treatment, prevention, caregiving and public-health surveillance. This pack is not medical advice.",

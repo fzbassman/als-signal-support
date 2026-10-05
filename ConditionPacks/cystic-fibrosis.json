@@ -1,5 +1,8 @@
 {
   "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "releaseVersion": "2026.10.0",
+  "minimumAppVersion": "1.0.0",
   "id": "cystic-fibrosis",
   "displayName": "Cystic Fibrosis",
   "description": "A focused information pack for cystic fibrosis, CFTR biology, respiratory and digestive care, research, clinical trials and life with the condition. It is an information-discovery aid, not medical advice.",

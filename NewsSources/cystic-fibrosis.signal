@@ -1,4 +1,8 @@
 # Cystic Fibrosis external news feed source package (pipe-delimited)
+# condition_id=cystic-fibrosis
+# package_version=1.0.0
+# release_version=2026.10.0
+# minimum_app_version=1.0.0
 #
 # Every source is disabled by default. Display is limited to headline, date,
 # publisher attribution and outbound link.

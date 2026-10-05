@@ -1,5 +1,8 @@
 {
   "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "releaseVersion": "2026.10.0",
+  "minimumAppVersion": "1.0.0",
   "id": "follicular-lymphoma",
   "displayName": "Follicular Lymphoma",
   "description": "A focused information-discovery profile for follicular lymphoma, including grades 1, 2 and 3A, relapsed or refractory disease and transformation. It does not provide medical advice, recommend treatment or studies, assess eligibility, or interpret findings.",

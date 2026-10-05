@@ -1,4 +1,8 @@
 # Marfan syndrome external news feed source package (pipe-delimited)
+# condition_id=marfan
+# package_version=1.0.0
+# release_version=2026.10.0
+# minimum_app_version=1.0.0
 #
 # These sources are separate from the Marfan condition pack because their
 # publisher permissions are restrictive, work-specific, unverified, or involve

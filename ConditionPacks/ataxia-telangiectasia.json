@@ -1,5 +1,8 @@
 {
   "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "releaseVersion": "2026.10.0",
+  "minimumAppVersion": "1.0.0",
   "id": "ataxia-telangiectasia",
   "displayName": "Ataxia-Telangiectasia",
   "description": "A focused information pack for ataxia-telangiectasia (A-T), ATM-related disease, neurological and immune features, research and life with a rare inherited condition. It is an information-discovery aid, not medical advice.",

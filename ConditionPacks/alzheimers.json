@@ -1,5 +1,11 @@
 {
   "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "releaseVersion": "2026.10.0",
+  "minimumAppVersion": "1.0.0",
+  "packVersion": "1.0.0",
+  "releaseVersion": "2026.10.0",
+  "minimumAppVersion": "1.0.0",
   "id": "alzheimers",
   "displayName": "Alzheimer's",
   "description": "Curated terminology for Alzheimer's disease and related dementia research, trials, treatment discovery, caregiving and community information.",

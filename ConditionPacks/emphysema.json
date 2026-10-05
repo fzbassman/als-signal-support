@@ -1,5 +1,8 @@
 {
   "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "releaseVersion": "2026.10.0",
+  "minimumAppVersion": "1.0.0",
   "id": "emphysema",
   "displayName": "Emphysema",
   "description": "A focused information pack for emphysema, pulmonary emphysema, COPD-related lung damage, treatment research and life with chronic breathing disease. It is an information-discovery aid, not medical advice.",

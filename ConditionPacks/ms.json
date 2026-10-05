@@ -1,5 +1,8 @@
 {
   "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "releaseVersion": "2026.10.0",
+  "minimumAppVersion": "1.0.0",
   "id": "ms",
   "displayName": "Multiple Sclerosis",
   "description": "Curated terminology for multiple sclerosis research, trials, treatments and life with MS.",

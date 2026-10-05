@@ -1,4 +1,8 @@
 # Emphysema external news feed source package (pipe-delimited)
+# condition_id=emphysema
+# package_version=1.0.0
+# release_version=2026.10.0
+# minimum_app_version=1.0.0
 #
 # Every source is disabled by default and installation requires acceptance of
 # the external news feed sources agreement. Display is limited to headline,

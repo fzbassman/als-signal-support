@@ -1,4 +1,8 @@
 # Multiple Sclerosis external news feed source package (pipe-delimited)
+# condition_id=ms
+# package_version=1.0.0
+# release_version=2026.10.0
+# minimum_app_version=1.0.0
 #
 # These feeds are separate from the condition pack because their permissions
 # are restrictive or unverified. Every source is disabled by default and

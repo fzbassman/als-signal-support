@@ -1,5 +1,8 @@
 {
   "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "releaseVersion": "2026.10.0",
+  "minimumAppVersion": "1.0.0",
   "id": "epilepsy",
   "displayName": "Epilepsy",
   "description": "A focused information pack for epilepsy, epileptic seizures, seizure types, epilepsy syndromes, treatment research and life with epilepsy. It is an information-discovery aid, not medical advice.",

@@ -1,5 +1,8 @@
 {
   "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "releaseVersion": "2026.10.0",
+  "minimumAppVersion": "1.0.0",
   "id": "muscular-dystrophy",
   "displayName": "Muscular Dystrophy",
   "description": "An information-discovery profile for muscular dystrophy and evidence-supported major subtypes. It surfaces public trials, publication metadata, and strictly relevant headlines; it does not provide medical advice, recommend studies or treatments, assess eligibility, or interpret findings.",

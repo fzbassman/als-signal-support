@@ -1,5 +1,8 @@
 {
   "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "releaseVersion": "2026.10.0",
+  "minimumAppVersion": "1.0.0",
   "id": "thoracic-aortic-aneurysm",
   "displayName": "Thoracic Aortic Aneurysm",
   "description": "A focused information-discovery profile for thoracic aortic aneurysm, including aortic root, ascending, arch, descending and heritable thoracic aortic disease. It does not provide medical advice, assess urgency or recommend treatment or studies.",

@@ -1,5 +1,8 @@
 {
   "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "releaseVersion": "2026.10.0",
+  "minimumAppVersion": "1.0.0",
   "id": "lupus",
   "displayName": "Lupus (Systemic Lupus Erythematosus)",
   "description": "A focused information pack for systemic lupus erythematosus (lupus), its symptoms, diagnosis, treatment research and life with the condition. It is an information-discovery aid, not medical advice.",
