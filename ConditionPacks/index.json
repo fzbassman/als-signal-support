@@ -150,13 +150,13 @@
       "id": "emphysema",
       "displayName": "Emphysema",
       "version": 1,
-      "packVersion": "1.0.0",
-      "signalVersion": "1.0.0",
-      "releaseVersion": "2026.10.0",
+      "packVersion": "1.1.0",
+      "signalVersion": "1.1.0",
+      "releaseVersion": "2026.10.1",
       "minimumAppVersion": "1.0.0",
       "asset": "assets/ConditionPacks/emphysema.json",
-      "packSha256": "2d802bd63d10bae0629c406f54c5c4bbaf598388b78cd0fabd5ada79b16c3729",
-      "signalSha256": "244d15b644e3c6e74e9b978ebef336568c317cc83873b16230e80e93831af3c9"
+      "packSha256": "6b5f1d1f009c43b31f045b02e121d2e74480375d580eddec126d220849bf5cf7",
+      "signalSha256": "423d4a79e8bea03f14f7c95f9adebc29c4b69abb9a4d1422f7ca8f9455c5277a"
     },
     {
       "id": "ataxia-telangiectasia",

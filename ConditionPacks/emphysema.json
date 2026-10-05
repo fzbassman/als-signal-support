@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "packVersion": "1.0.0",
-  "releaseVersion": "2026.10.0",
+  "packVersion": "1.1.0",
+  "releaseVersion": "2026.10.1",
   "minimumAppVersion": "1.0.0",
   "id": "emphysema",
   "displayName": "Emphysema",
@@ -11,7 +11,7 @@
     "manifestations": "Symptoms may develop gradually and can include breathlessness with activity, persistent cough, mucus, wheezing, chest tightness, reduced exercise tolerance and flare-ups or respiratory infections. Some people have few early symptoms; advanced disease can affect daily activities and general strength.",
     "management": "Assessment commonly includes history, examination and lung-function testing such as spirometry, with imaging or blood tests when clinically indicated. Management may include avoiding smoke and other irritants, inhaled medicines, vaccinations, pulmonary rehabilitation, oxygen for selected people, and specialist procedures or surgery for some severe patterns.",
     "outlook": "Emphysema is usually long-term and progressive, but its course differs with the extent and distribution of lung damage, exposures, other conditions, treatment response and access to care. Treatments and rehabilitation can reduce symptoms and support activity; outlook should be discussed with a qualified clinician who knows the individual situation.",
-    "reviewed": "2026-08-03",
+    "reviewed": "2026-10-05",
     "sources": [
       {"name": "NHS: Chronic obstructive pulmonary disease (COPD)", "url": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/"},
       {"name": "NHLBI: COPD", "url": "https://www.nhlbi.nih.gov/health/copd?answers=1"},
