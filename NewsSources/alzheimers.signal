@@ -1,7 +1,7 @@
 # Alzheimer’s Signal source import file (pipe-delimited)
 # condition_id=alzheimers
-# package_version=1.0.0
-# release_version=2026.10.0
+# package_version=1.0.1
+# release_version=2026.10.2
 # minimum_app_version=1.0.0
 #
 # This file contains Alzheimer’s RSS/Atom sources whose publisher permission
@@ -25,6 +25,7 @@
 # Fields are pipe-delimited. Do not place an unescaped pipe in a value.
 #
 source_id|name|endpoint|category|feed_kind|enabled_by_default|publisher|classification|reviewed|fields_displayed|permission|commercial_use|attribution|terms_url|rights_or_corrections_contact|notes
+who-news-alzheimers|World Health Organization · News|https://www.who.int/rss-feeds/news-english.xml|News|headlineOnly|false|World Health Organization|Official international public-health news feed|6 October 2026|Exact headline, publication date, source attribution and outbound link only|WHO content is not uniformly public domain. WHO and third-party copyright and licensing notices apply to each linked work|Not verified for this feed; WHO states that commercial uses can require permission|Credit the World Health Organization and link to the original item without implying endorsement|https://www.who.int/about/policies/publishing/copyright|https://www.who.int/about/contact-us|Disabled by default and locally filtered for explicit Alzheimer's disease relevance. Use only conservative metadata and the original link; no WHO logo, article body, image or full summary is reproduced.
 medlineplus-alzheimers|MedlinePlus · Alzheimer’s Disease|https://medlineplus.gov/feeds/topics/alzheimersdisease.xml|Research|headlineOnly|false|MedlinePlus / U.S. National Library of Medicine|Headline-only source|28 July 2026|Headline, publication date, source attribution and outbound link only|MedlinePlus RSS feeds are for personal use only. Health Signal uses this feed only in the user's personal, on-device feed reader; no broad website or information-service redistribution is performed.|Personal use only; no commercial or broad information-service redistribution.|Attribute MedlinePlus and the U.S. National Library of Medicine and link to the original page|https://medlineplus.gov/about/using/usingcontent/|https://medlineplus.gov/about/contactus.html|Verified topic RSS endpoint. Personal, on-device feed-reader use only; no summary, image or article body is stored or displayed.
 lemonde-health-alzheimers|Le Monde · Health|https://www.lemonde.fr/en/health/rss_full.xml|News|headlineOnly|false|Le Monde|Headline-only source|28 July 2026|Headline, publication date, source attribution and outbound link only|RSS directory confirms feed distribution; no broader reuse permission verified|Not verified|Attribute Le Monde and link to the original page|https://www.lemonde.fr/en/about-us/article/2026/03/27/le-monde-rss-feeds_6751860_115.html|syndication@lemonde.fr|Official publisher RSS directory identifies the Health feed. No summary, image or article body is stored or displayed.
 lemonde-science-alzheimers|Le Monde · Science|https://www.lemonde.fr/en/science/rss_full.xml|Research|headlineOnly|false|Le Monde|Headline-only source|28 July 2026|Headline, publication date, source attribution and outbound link only|RSS directory confirms feed distribution; no broader reuse permission verified|Not verified|Attribute Le Monde and link to the original page|https://www.lemonde.fr/en/about-us/article/2026/03/27/le-monde-rss-feeds_6751860_115.html|syndication@lemonde.fr|Official publisher RSS directory identifies the Science feed. Headline-only display is applied conservatively.

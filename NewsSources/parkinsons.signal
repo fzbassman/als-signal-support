@@ -1,7 +1,7 @@
 # Parkinson's disease external news feed source package (pipe-delimited)
 # condition_id=parkinsons
-# package_version=1.0.0
-# release_version=2026.10.0
+# package_version=1.0.1
+# release_version=2026.10.2
 # minimum_app_version=1.0.0
 #
 # These feeds are separate from the condition pack because their permissions
