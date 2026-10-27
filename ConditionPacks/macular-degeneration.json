@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "releaseVersion": "2026.10.3",
+  "minimumAppVersion": "1.0.0",
+  "id": "macular-degeneration",
+  "displayName": "Macular Degeneration",
+  "description": "A focused information pack for age-related macular degeneration, macular disease, retinal research, treatment discovery and living with changes in central vision. It is an information-discovery aid, not medical advice.",
+  "synopsis": {
+    "overview": "Macular degeneration is a group of conditions affecting the macula, the central part of the retina used for detailed vision. Age-related macular degeneration (AMD) is the most common form in older adults and can be dry or neovascular (wet); inherited and other macular diseases are distinct conditions.",
+    "manifestations": "Changes can include blurred or distorted central vision, difficulty reading or recognising faces, missing areas in the centre of vision, altered colour or contrast perception and difficulty in low light. Early disease may cause few noticeable symptoms, and one or both eyes may be affected differently.",
+    "management": "Assessment may include a sight test, retinal examination, optical coherence tomography and other imaging or tests when clinically indicated. Management depends on the type and stage and may include monitoring, low-vision support, injections or other specialist treatment for selected disease, and help with practical adaptations.",
+    "outlook": "The course varies by subtype, stage, eye involvement and response to care. Some forms progress slowly while neovascular disease can change more quickly; research and treatment options continue to develop. People should discuss new or changing visual symptoms with an eye-care professional.",
+    "reviewed": "2026-10-27",
+    "sources": [
+      {"name": "NHS: Age-related macular degeneration", "url": "https://www.nhs.uk/conditions/age-related-macular-degeneration-amd/"},
+      {"name": "National Eye Institute: Age-related macular degeneration", "url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/age-related-macular-degeneration"},
+      {"name": "MedlinePlus: Macular Degeneration", "url": "https://medlineplus.gov/maculardegeneration.html"},
+      {"name": "Macular Society: Advice and information", "url": "https://www.macularsociety.org/advice-and-information/"}
+    ]
+  },
+  "trialTerms": ["age-related macular degeneration", "macular degeneration", "dry AMD", "wet AMD", "neovascular age-related macular degeneration", "geographic atrophy", "macular disease", "retinal disease", "drusen"],
+  "publicationTerms": ["age-related macular degeneration", "macular degeneration", "dry AMD", "wet AMD", "neovascular age-related macular degeneration", "geographic atrophy", "macular disease", "retinal disease", "drusen", "anti-VEGF"],
+  "relevanceTerms": ["age-related macular degeneration", "age related macular degeneration", "macular degeneration", "dry AMD", "non-neovascular AMD", "wet AMD", "neovascular AMD", "geographic atrophy", "macular disease", "macular degeneration research", "macular degeneration treatment", "retinal research", "drusen", "anti-VEGF"],
+  "topics": [
+    {
+      "id": "clinicalTrials",
+      "heading": "Clinical trials",
+      "description": "Registered studies of medicines, injections, implants, imaging, gene and cell therapies, devices and support approaches for macular degeneration and related retinal disease. A listing does not indicate eligibility or recommendation.",
+      "terms": ["macular degeneration clinical trial", "AMD clinical trial", "geographic atrophy trial", "anti-VEGF trial", "retinal implant trial", "trial recruitment"],
+      "termDefinitions": {
+        "macular degeneration clinical trial": "A structured study involving people with macular degeneration that evaluates an intervention, test or approach under a defined protocol.",
+        "AMD clinical trial": "A clinical study involving age-related macular degeneration.",
+        "geographic atrophy trial": "A study evaluating an intervention or measurement for geographic atrophy, an advanced form of dry age-related macular degeneration.",
+        "anti-VEGF trial": "A study of medicines that block vascular endothelial growth factor, a signal involved in abnormal blood-vessel growth and leakage.",
+        "retinal implant trial": "A study of an implanted device intended to provide or support visual information in selected retinal disease.",
+        "trial recruitment": "The process of identifying and enrolling people who may take part in a clinical study."
+      }
+    },
+    {
+      "id": "treatments",
+      "heading": "Treatment and eye care",
+      "description": "Research and information about monitoring, injections, medicines, implants, laser or other specialist procedures, rehabilitation and practical vision support for macular disease.",
+      "terms": ["macular degeneration treatment", "anti-VEGF", "intravitreal injection", "photodynamic therapy", "low vision rehabilitation", "geographic atrophy treatment"],
+      "termDefinitions": {
+        "macular degeneration treatment": "Care or support intended to monitor, slow, treat or help adapt to the effects of macular disease; options depend on subtype and stage.",
+        "anti-VEGF": "A medicine that blocks vascular endothelial growth factor and may reduce abnormal retinal blood-vessel growth or leakage in selected disease.",
+        "intravitreal injection": "An injection delivered into the vitreous, the gel inside the eye, by an eye-care specialist.",
+        "photodynamic therapy": "A treatment using a light-sensitive medicine and light activation for selected retinal conditions.",
+        "low vision rehabilitation": "Assessment, training, aids and environmental strategies intended to support daily activities when vision is reduced.",
+        "geographic atrophy treatment": "A treatment or monitoring approach being used or studied for geographic atrophy."
+      }
+    },
+    {
+      "id": "research",
+      "heading": "Macular degeneration research",
+      "description": "Research into retinal cells, blood vessels, inflammation, genetics, imaging, biomarkers, medicines, implants, gene and cell therapies and visual outcomes.",
+      "terms": ["macular degeneration research", "AMD research", "retinal imaging", "OCT", "macular degeneration biomarker", "retinal gene therapy"],
+      "termDefinitions": {
+        "macular degeneration research": "Scientific or clinical investigation into macular degeneration, its mechanisms, detection, management or effects.",
+        "AMD research": "Research focused on age-related macular degeneration.",
+        "retinal imaging": "Imaging methods used to examine the retina and monitor structural or vascular changes.",
+        "OCT": "Optical coherence tomography, an imaging method that creates detailed cross-sectional views of retinal layers.",
+        "macular degeneration biomarker": "A measurable feature studied as an indicator of disease, progression, prognosis or response to an intervention.",
+        "retinal gene therapy": "A treatment approach that delivers genetic material to retinal cells and is being studied for selected retinal diseases."
+      }
+    },
+    {
+      "id": "genetics",
+      "heading": "Causes, genetics and diagnosis",
+      "description": "Information about age-related and inherited risk, drusen, retinal examination, imaging, visual testing and genetic research in macular disease.",
+      "terms": ["macular degeneration genetics", "drusen", "retinal pigment epithelium", "photoreceptor", "neovascularisation", "macular degeneration diagnosis"],
+      "termDefinitions": {
+        "macular degeneration genetics": "Research into inherited and acquired genetic factors associated with macular degeneration risk or progression.",
+        "drusen": "Small deposits that can form beneath the retina and are commonly monitored in age-related macular degeneration.",
+        "retinal pigment epithelium": "A layer of cells that supports the retina and is involved in several macular diseases.",
+        "photoreceptor": "A light-sensitive retinal cell, such as a rod or cone, that helps convert light into visual signals.",
+        "neovascularisation": "The formation of new blood vessels; in the macula these vessels can be abnormal and leak in neovascular disease.",
+        "macular degeneration diagnosis": "The clinical process of identifying and characterising macular disease using history, visual testing, examination and imaging."
+      }
+    },
+    {
+      "id": "livingWithAls",
+      "heading": "Living with macular degeneration",
+      "description": "Daily life with central-vision changes, including reading, mobility, technology, lighting, driving, work, communication and maintaining independence.",
+      "terms": ["living with macular degeneration", "AMD and daily life", "central vision loss", "low vision aids", "vision rehabilitation", "macular disease support"],
+      "termDefinitions": {
+        "living with macular degeneration": "Managing everyday activities, communication and wellbeing while living with macular disease.",
+        "AMD and daily life": "The practical effects of age-related macular degeneration on activities, routines and participation.",
+        "central vision loss": "Reduced or missing detailed vision in the centre of the visual field.",
+        "low vision aids": "Optical, electronic or non-visual tools that may help with particular activities when vision is reduced.",
+        "vision rehabilitation": "A service that helps people adapt to reduced vision and use available vision in daily life.",
+        "macular disease support": "Practical, social and emotional support for people affected by macular disease."
+      }
+    },
+    {
+      "id": "caregiving",
+      "heading": "Caregiving and support",
+      "description": "Information for family members, care partners and support networks, including appointments, communication, home adaptations, transport, technology and respite.",
+      "terms": ["macular degeneration caregiver", "AMD caregiver", "macular disease carer", "family support", "low vision support group", "care coordination"],
+      "termDefinitions": {
+        "macular degeneration caregiver": "A family member, friend or professional who provides practical, personal or emotional support to someone with macular degeneration.",
+        "AMD caregiver": "A person who supports someone living with age-related macular degeneration.",
+        "macular disease carer": "A person who provides ongoing unpaid or paid support to someone with macular disease.",
+        "family support": "Practical, emotional or informational help provided by family or close supporters.",
+        "low vision support group": "People affected by reduced vision meeting or communicating to exchange information and support.",
+        "care coordination": "Organising communication and services among the people and teams involved in someone’s care."
+      }
+    },
+    {
+      "id": "advocacy",
+      "heading": "Advocacy and access",
+      "description": "Public understanding, accessible information, eye-care access, disability inclusion, research funding, prevention messaging and organisations supporting people with macular disease.",
+      "terms": ["macular degeneration advocacy", "AMD awareness", "eye care access", "vision loss rights", "macular degeneration funding", "macular society"],
+      "termDefinitions": {
+        "macular degeneration advocacy": "Efforts to improve awareness, rights, services, access, research or policy for people affected by macular disease.",
+        "AMD awareness": "Efforts to improve public understanding of age-related macular degeneration, symptoms, support and research.",
+        "eye care access": "The availability and affordability of appropriate eye examinations, treatment, rehabilitation and support.",
+        "vision loss rights": "Legal and social protections supporting fair treatment, accessibility and participation for people with reduced vision.",
+        "macular degeneration funding": "Financial support for macular disease research, information, services or advocacy.",
+        "macular society": "An organisation or community supporting people affected by macular disease."
+      }
+    }
+  ],
+  "defaultTopics": ["clinicalTrials", "treatments", "research", "genetics", "livingWithAls", "caregiving", "advocacy"],
+  "sourceIds": ["nih-research-matters", "nih-news-releases"],
+  "externalSources": [
+    {"id": "who-news-macular-degeneration", "name": "World Health Organization · News", "url": "https://www.who.int/rss-feeds/news-english.xml", "category": "news", "kind": "headlineOnly", "enabledByDefault": false, "rightsStatus": "WHO copyright and third-party rights require conservative metadata/link-only use."},
+    {"id": "medlineplus-macular-degeneration", "name": "MedlinePlus · Macular Degeneration", "url": "https://medlineplus.gov/feeds/topics/maculardegeneration.xml", "category": "research", "kind": "headlineOnly", "enabledByDefault": false, "rightsStatus": "Personal-use RSS; headline/date/attribution/link only."},
+    {"id": "nlm-news-macular-degeneration", "name": "National Library of Medicine · News", "url": "https://www.nlm.nih.gov/rss/nlmnews.rss", "category": "research", "kind": "headlineOnly", "enabledByDefault": false, "rightsStatus": "Official broad NLM RSS; locally filtered and metadata-only."},
+    {"id": "nlm-director-macular-degeneration", "name": "NLM Director · Musings from the Mezzanine", "url": "https://nlmdirector.nih.gov/feed/", "category": "research", "kind": "headlineOnly", "enabledByDefault": false, "rightsStatus": "Official broad NLM RSS; locally filtered and metadata-only."},
+    {"id": "google-news-macular-degeneration-news", "name": "Google News · Macular Degeneration", "url": "https://news.google.com/rss/search?q=%28%22macular%20degeneration%22%20OR%20AMD%29&hl=en-GB&gl=GB&ceid=GB:en", "category": "news", "kind": "google", "enabledByDefault": false, "rightsStatus": "Personal, non-commercial Google News feed-reader use only."},
+    {"id": "google-news-macular-degeneration-research", "name": "Google News · Macular Degeneration research", "url": "https://news.google.com/rss/search?q=%28%22macular%20degeneration%22%20OR%20AMD%29%20%28research%20OR%20study%20OR%20%22clinical%20trial%22%29&hl=en-GB&gl=GB&ceid=GB:en", "category": "research", "kind": "google", "enabledByDefault": false, "rightsStatus": "Personal, non-commercial Google News feed-reader use only."},
+    {"id": "google-news-macular-degeneration-community", "name": "Google News · Macular Degeneration support", "url": "https://news.google.com/rss/search?q=%28%22macular%20degeneration%22%20OR%20AMD%29%20%28support%20OR%20community%20OR%20advocacy%29&hl=en-GB&gl=GB&ceid=GB:en", "category": "community", "kind": "google", "enabledByDefault": false, "rightsStatus": "Personal, non-commercial Google News feed-reader use only."}
+  ],
+  "donationLinks": [
+    {"name": "BrightFocus Macular Degeneration Research", "detail": "Supports research and public information about macular degeneration.", "url": "https://donate.brightfocus.org/mdr/donate"},
+    {"name": "Macular Society", "detail": "Supports people affected by macular disease and funds research in the UK.", "url": "https://www.macularsociety.org/donate"},
+    {"name": "Foundation Fighting Blindness", "detail": "Supports retinal-disease research and community services in the United States.", "url": "https://www.fightingblindness.org/donate"},
+    {"name": "The Macula Foundation", "detail": "Supports research devoted to macular disease.", "url": "https://maculafoundation.org/donate/"},
+    {"name": "Yorkshire Macular Degeneration Fund", "detail": "Supports age-related macular degeneration research through the University of York.", "url": "https://give.york.ac.uk/p/amdfund/"}
+  ]
+}

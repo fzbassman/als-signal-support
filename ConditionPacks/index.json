@@ -241,6 +241,18 @@
       "asset": "assets/ConditionPacks/breast-cancer.json",
       "packSha256": "42242f4a225ac8dbadf8cac7c771ef926dc998c8e1cbabc295165e1fb915b4c8",
       "signalSha256": "25f4827bd7312906fc633a4a21f5f8f3fdb3eadc50b3281ff367764c7932ca8c"
+    },
+    {
+      "id": "macular-degeneration",
+      "displayName": "Macular Degeneration",
+      "version": 1,
+      "packVersion": "1.0.0",
+      "signalVersion": "1.0.0",
+      "releaseVersion": "2026.10.3",
+      "minimumAppVersion": "1.0.0",
+      "asset": "assets/ConditionPacks/macular-degeneration.json",
+      "packSha256": "a62f36e931ba7cf4bb833d68042861bdfbf4f98371f0ac79c4c7c496826ace66",
+      "signalSha256": "46b2ce39724ed966fdfb01b0a61f1a057b71263b3aa04fea22205c220cc1dc5c"
     }
   ]
 }
